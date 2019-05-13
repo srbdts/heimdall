@@ -1,0 +1,7776 @@
+<doc>
+  <line>
+    <w POS="ADJ">Single</w>
+    <w POS="N">life</w>
+    <w POS="VBP">makes</w>
+    <w POS="NS">men</w>
+    <w POS="P">in</w>
+    <w POS="ONE">one</w>
+    <w POS="N">instance</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">like</w>
+    <w POS="NS">Angels</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="N">Marriage</w>
+    <w POS="P">in</w>
+    <w POS="ADV">very</w>
+    <w POS="Q">many</w>
+    <w POS="NS">things</w>
+    <w POS="VBP">makes</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">chast</w>
+    <w POS="N">pair</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">like</w>
+    <w POS="P">to</w>
+    <w POS="NPR">Christ</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">mystery</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">symbolical</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">sacramental</w>
+    <w POS="N">representment</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">greatest</w>
+    <w POS="NS">mysteries</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">our</w>
+    <w POS="N">Religion</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Christ</w>
+    <w POS="VBD">descended</w>
+    <w POS="P">from</w>
+    <w POS="PRO$">his</w>
+    <w POS="N$">Father's</w>
+    <w POS="N">bosom</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">contracted</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Divinity</w>
+    <w POS="P">with</w>
+    <w POS="N">flesh</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">bloud</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">married</w>
+    <w POS="PRO$">our</w>
+    <w POS="N">Nature</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">we</w>
+    <w POS="VBD">became</w>
+    <w POS="D">a</w>
+    <w POS="NPR">Church</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">spouse</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N+N">Bridegroom</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">cleansed</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Bloud</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">gave</w>
+    <w POS="PRO">her</w>
+    <w POS="PRO$">his</w>
+    <w POS="NPR">holy</w>
+    <w POS="NPR">Spirit</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="N">dowry</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Heaven</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="N">joynture</w>
+    <w POS=",">;</w>
+    <w POS="VAG">begetting</w>
+    <w POS="NS">children</w>
+    <w POS="P">unto</w>
+    <w POS="NPR">God</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Gospel</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="N">Spouse</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">joyn'd</w>
+    <w POS="P">to</w>
+    <w POS="PRO+N">himself</w>
+    <w POS="P">by</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">excellent</w>
+    <w POS="N">Charity</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="VBP">feeds</w>
+    <w POS="PRO">her</w>
+    <w POS="P">at</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">own</w>
+    <w POS="N">Table</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">lodges</w>
+    <w POS="PRO">her</w>
+    <w POS="ADJ">nigh</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">own</w>
+    <w POS="N">Heart</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBP">provides</w>
+    <w POS="P">for</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Necessities</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBP">relieves</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Sorrows</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBP">determines</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Doubts</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBP">guides</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Wandrings</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="VBN">become</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Head</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N">Signet</w>
+    <w POS="P">upon</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">right</w>
+    <w POS="N">hand</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="ADV">first</w>
+    <w POS="P+N">indeed</w>
+    <w POS="BED">was</w>
+    <w POS="VAN">betrothed</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">Synagogue</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVD">had</w>
+    <w POS="Q">many</w>
+    <w POS="NS">children</w>
+    <w POS="P">by</w>
+    <w POS="PRO">her</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">she</w>
+    <w POS="VBD">forsook</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">love</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">then</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">married</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Church</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Gentiles</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">by</w>
+    <w POS="PRO">her</w>
+    <w POS="P">as</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">second</w>
+    <w POS="N">venter</w>
+    <w POS="HVD">had</w>
+    <w POS="D">a</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">numerous</w>
+    <w POS="N">Issue</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="FW">atque</w>
+    <w POS="FW">una</w>
+    <w POS="FW">domus</w>
+    <w POS="FW">est</w>
+    <w POS="FW">omnium</w>
+    <w POS="FW">filiorum</w>
+    <w POS="FW">ejus</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">Children</w>
+    <w POS="VBP">dwell</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">house</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">are</w>
+    <w POS="NS">Heirs</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="NS">promises</w>
+    <w POS=",">,</w>
+    <w POS="VAN">intituled</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Inheritance</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Here</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">eternal</w>
+    <w POS="N">Conjunction</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">indissoluble</w>
+    <w POS="N">knot</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="VAG">exceeding</w>
+    <w POS="N">love</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Christ</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">obedience</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Spouse</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">communicating</w>
+    <w POS="P">of</w>
+    <w POS="NS">Goods</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">uniting</w>
+    <w POS="P">of</w>
+    <w POS="NS">Interests</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">fruit</w>
+    <w POS="P">of</w>
+    <w POS="N">Marriage</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">celestial</w>
+    <w POS="N">Generation</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">new</w>
+    <w POS="N">Creature</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Sacramentum</w>
+    <w POS="FW">hoc</w>
+    <w POS="FW">magnum</w>
+    <w POS="FW">est</w>
+    <w POS=",">;</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Sacramental</w>
+    <w POS="N">mystery</w>
+    <w POS=",">,</w>
+    <w POS="VAN">represented</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">holy</w>
+    <w POS="N">Rite</w>
+    <w POS="P">of</w>
+    <w POS="N">Marriage</w>
+    <w POS=",">;</w>
+    <w POS="P">so</w>
+    <w POS="C">that</w>
+    <w POS="N">Marriage</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">divine</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">Institution</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">sacred</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">Union</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">holy</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">Mystery</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">sacramental</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">Signification</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">honourable</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">Appellative</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">religious</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">Imployments</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="N">Advantage</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">societies</w>
+    <w POS="P">of</w>
+    <w POS="NS">men</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="N">Holiness</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Lord</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Dico</w>
+    <w POS="FW">autem</w>
+    <w POS="FW">in</w>
+    <w POS="FW">Christo</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">Ecclesia</w>
+    <w POS=",">,</w>
+    <w POS="PRO">It</w>
+    <w POS="MD">must</w>
+    <w POS="BE">be</w>
+    <w POS="P">in</w>
+    <w POS="NPR">Christ</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Church</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">If</w>
+    <w POS="D">this</w>
+    <w POS="BEP">be</w>
+    <w POS="NEG">not</w>
+    <w POS="VAN">observed</w>
+    <w POS=",">,</w>
+    <w POS="N">Marriage</w>
+    <w POS="VBP">loses</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">mysteriousness</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P+N">because</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">effect</w>
+    <w POS="Q">much</w>
+    <w POS="P">of</w>
+    <w POS="D">that</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">signifies</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">concerns</w>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="VBP">enter</w>
+    <w POS="P">into</w>
+    <w POS="D">those</w>
+    <w POS="ADJ">golden</w>
+    <w POS="NS">fetters</w>
+    <w POS="TO">to</w>
+    <w POS="VB">see</w>
+    <w POS="C">that</w>
+    <w POS="NPR">Christ</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">his</w>
+    <w POS="NPR">Church</w>
+    <w POS="BEP">be</w>
+    <w POS="RP">in</w>
+    <w POS="P">at</w>
+    <w POS="Q">every</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">periods</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">intirely</w>
+    <w POS="VAN">conducted</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">over-rul'd</w>
+    <w POS="P">by</w>
+    <w POS="N">Religion</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="ADV">so</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Apostle</w>
+    <w POS="VBP">passes</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">sacramental</w>
+    <w POS="N">rite</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">real</w>
+    <w POS="N">duty</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="ADV">Nevertheless</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">although</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">former</w>
+    <w POS="N">Discourse</w>
+    <w POS="BED">were</w>
+    <w POS="ADV">wholly</w>
+    <w POS="TO">to</w>
+    <w POS="VB">explicate</w>
+    <w POS="D">the</w>
+    <w POS="N">Conjunction</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Christ</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">his</w>
+    <w POS="NPR">Church</w>
+    <w POS="P">by</w>
+    <w POS="D">this</w>
+    <w POS="N">similitude</w>
+    <w POS=",">,</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">it</w>
+    <w POS="HVP">hath</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS="D">this</w>
+    <w POS="ADJ">real</w>
+    <w POS="N">Duty</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="VBP">love</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">wife</w>
+    <w POS="VBP">reverence</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">husband</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">use</w>
+    <w POS="PRO">we</w>
+    <w POS="MD">shall</w>
+    <w POS="ADV">now</w>
+    <w POS="VB">make</w>
+    <w POS="P">of</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="NS">particulars</w>
+    <w POS="P">of</w>
+    <w POS="WD">which</w>
+    <w POS="N">precept</w>
+    <w POS="PRO">I</w>
+    <w POS="MD">shall</w>
+    <w POS="ADV">thus</w>
+    <w POS="VB">dispose</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="NUM">1</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">I</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">propound</w>
+    <w POS="D">the</w>
+    <w POS="N">Duty</w>
+    <w POS="P">as</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">generally</w>
+    <w POS="VBP">relates</w>
+    <w POS="P">to</w>
+    <w POS="N">Man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS="P">in</w>
+    <w POS="N">conjunction</w>
+    <w POS=",">.</w>
+    <w POS="NUM">2.</w>
+    <w POS="D">The</w>
+    <w POS="N">duty</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">power</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Man</w>
+    <w POS=",">.</w>
+    <w POS="NUM">3.</w>
+    <w POS="D">The</w>
+    <w POS="NS">rights</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">priviledges</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">duty</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">1</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">In</w>
+    <w POS="FW">Christo</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">Ecclesia</w>
+    <w POS="D">that</w>
+    <w POS="VBP">begins</w>
+    <w POS="Q">all</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">need</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">should</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">so</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">they</w>
+    <w POS="C">that</w>
+    <w POS="VBP">enter</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="N">state</w>
+    <w POS="P">of</w>
+    <w POS="N">marriage</w>
+    <w POS=",">,</w>
+    <w POS="VBP">cast</w>
+    <w POS="D">a</w>
+    <w POS="N">dye</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">greatest</w>
+    <w POS="N">contingency</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">greatest</w>
+    <w POS="N">interest</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">world</w>
+    <w POS=",">,</w>
+    <w POS="ADJS">next</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">last</w>
+    <w POS="N">throw</w>
+    <w POS="P">for</w>
+    <w POS="N">Eternity</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Life</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">death</w>
+    <w POS=",">,</w>
+    <w POS="N">felicity</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="VAG">lasting</w>
+    <w POS="N">sorrow</w>
+    <w POS="BEP">are</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">power</w>
+    <w POS="P">of</w>
+    <w POS="N">marriage</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N">woman</w>
+    <w POS="P+N">indeed</w>
+    <w POS="VBP">ventures</w>
+    <w POS="QS">most</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">she</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q">no</w>
+    <w POS="N">Sanctuary</w>
+    <w POS="TO">to</w>
+    <w POS="VB">retire</w>
+    <w POS="P">to</w>
+    <w POS="P">from</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">evil</w>
+    <w POS="N">Husband</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="MD">must</w>
+    <w POS="VB">dwell</w>
+    <w POS="P">upon</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Sorrow</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">hatch</w>
+    <w POS="D">the</w>
+    <w POS="NS">Eggs</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO$">her</w>
+    <w POS="ADJ">own</w>
+    <w POS="N">Folly</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Infelicity</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">produced</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="QR">more</w>
+    <w POS="P">under</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="P+N">because</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">tormentor</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="N">warrant</w>
+    <w POS="P">of</w>
+    <w POS="N">prerogative</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">Woman</w>
+    <w POS="MD">may</w>
+    <w POS="VB">complain</w>
+    <w POS="P">to</w>
+    <w POS="NPR">God</w>
+    <w POS="P">as</w>
+    <w POS="NS">Subjects</w>
+    <w POS="DOP">do</w>
+    <w POS="P">of</w>
+    <w POS="N">tyrant</w>
+    <w POS="NS">Princes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="OTHER+N">otherwise</w>
+    <w POS="PRO">she</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q">no</w>
+    <w POS="N">appeal</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="NS">causes</w>
+    <w POS="P">of</w>
+    <w POS="N">unkindness</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">though</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="MD">can</w>
+    <w POS="VB">run</w>
+    <w POS="P">from</w>
+    <w POS="Q">many</w>
+    <w POS="NS">hours</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">sadness</w>
+    <w POS=",">,</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">must</w>
+    <w POS="VB">return</w>
+    <w POS="P">to</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">again</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">when</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">sits</w>
+    <w POS="P">among</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">neighbours</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">remembers</w>
+    <w POS="D">the</w>
+    <w POS="N">objection</w>
+    <w POS="C">that</w>
+    <w POS="VBP">lies</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">bosom</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">sighs</w>
+    <w POS="ADV">deeply</w>
+    <w POS=",">.</w>
+    <w POS="FW">Ah</w>
+    <w POS="FW">tum</w>
+    <w POS="FW">te</w>
+    <w POS="FW">miserum</w>
+    <w POS=",">,</w>
+    <w POS="FW">malique</w>
+    <w POS="FW">fati</w>
+    <w POS="FW">Quem</w>
+    <w POS="FW">attractis</w>
+    <w POS="FW">pedibus</w>
+    <w POS="FW">patente</w>
+    <w POS="FW">porta</w>
+    <w POS="FW">Percurrent</w>
+    <w POS="FW">mugilesque</w>
+    <w POS="FW">raphanique</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="NS">boys</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">pedlers</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">fruiterers</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">tell</w>
+    <w POS="P">of</w>
+    <w POS="D">this</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">carried</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">grave</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">lived</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">died</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">poor</w>
+    <w POS="ADJ">wretched</w>
+    <w POS="N">person</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="NS">Stags</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Greek</w>
+    <w POS="N">Epigram</w>
+    <w POS=",">,</w>
+    <w POS="WPRO$">whose</w>
+    <w POS="NS">Knees</w>
+    <w POS="BED">were</w>
+    <w POS="VAN">clog'd</w>
+    <w POS="P">with</w>
+    <w POS="VAN">frozen</w>
+    <w POS="N">Snow</w>
+    <w POS="P">upon</w>
+    <w POS="D">the</w>
+    <w POS="NS">mountains</w>
+    <w POS=",">,</w>
+    <w POS="VBD">came</w>
+    <w POS="RP">down</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">Brooks</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">valleys</w>
+    <w POS=".">,</w>
+    <w POS="VAG">hoping</w>
+    <w POS="TO">to</w>
+    <w POS="VB">thaw</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">joynts</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="NS">waters</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">stream</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">there</w>
+    <w POS="D">the</w>
+    <w POS="N">Frost</w>
+    <w POS="VBD">overtook</w>
+    <w POS="PRO">them</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">bound</w>
+    <w POS="PRO">them</w>
+    <w POS="ADJ">fast</w>
+    <w POS="P">in</w>
+    <w POS="N">Ice</w>
+    <w POS=",">,</w>
+    <w POS="P">till</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">young</w>
+    <w POS="N+NS">Heards-men</w>
+    <w POS="VBD">took</w>
+    <w POS="PRO">them</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">stranger</w>
+    <w POS="N">snare</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">unhappy</w>
+    <w POS="N">chance</w>
+    <w POS="P">of</w>
+    <w POS="Q">many</w>
+    <w POS="NS">men</w>
+    <w POS=",">,</w>
+    <w POS="VAG">finding</w>
+    <w POS="Q">many</w>
+    <w POS="NS">inconveniences</w>
+    <w POS="P">upon</w>
+    <w POS="D">the</w>
+    <w POS="NS">mountains</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">single</w>
+    <w POS="N">life</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">descend</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="NS">valleys</w>
+    <w POS="P">of</w>
+    <w POS="N">marriage</w>
+    <w POS="TO">to</w>
+    <w POS="VB">refresh</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">troubles</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">there</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">enter</w>
+    <w POS="P">into</w>
+    <w POS="NS">fetters</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">bound</w>
+    <w POS="P">to</w>
+    <w POS="N">sorrow</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">cords</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N$">mans</w>
+    <w POS="CONJ">or</w>
+    <w POS="N$">womans</w>
+    <w POS="N">peevishness</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">worst</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">evil</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="TO">to</w>
+    <w POS="VB">thank</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">own</w>
+    <w POS="NS">follies</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">they</w>
+    <w POS="VBD">fell</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="N">snare</w>
+    <w POS="P">by</w>
+    <w POS="VAG">entering</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">improper</w>
+    <w POS="N">way</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="NPR">Christ</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Church</w>
+    <w POS="BED">were</w>
+    <w POS="Q">no</w>
+    <w POS="NS">ingredients</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">choice</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Indian</w>
+    <w POS="NS">Women</w>
+    <w POS="VBP">enter</w>
+    <w POS="P">into</w>
+    <w POS="N">folly</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="N">price</w>
+    <w POS="P">of</w>
+    <w POS="D">an</w>
+    <w POS="N">Elephant</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">think</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">Crime</w>
+    <w POS="ADJ">warrantable</w>
+    <w POS=",">;</w>
+    <w POS="ADV">so</w>
+    <w POS="DOP">do</w>
+    <w POS="NS">men</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">women</w>
+    <w POS="VB">change</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">liberty</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">rich</w>
+    <w POS="N">fortune</w>
+    <w POS="ADJ">like</w>
+    <w POS="NPR">Eriphyle</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Argive</w>
+    <w POS=",">,</w>
+    <w POS="PRO">she</w>
+    <w POS="VBD">preferr'd</w>
+    <w POS="N">gold</w>
+    <w POS="P">before</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">shew</w>
+    <w POS="PRO+N">themselves</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="QR">less</w>
+    <w POS="P">than</w>
+    <w POS="N">money</w>
+    <w POS="P">by</w>
+    <w POS="VAG">overvaluing</w>
+    <w POS="D">that</w>
+    <w POS="P">to</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">content</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">wise</w>
+    <w POS="N">felicity</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">lives</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="HVP">have</w>
+    <w POS="VBN">counted</w>
+    <w POS="D">the</w>
+    <w POS="N">Money</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Sorrows</w>
+    <w POS="ADV">together</w>
+    <w POS=",">,</w>
+    <w POS="WADV">how</w>
+    <w POS="ADV">willingly</w>
+    <w POS="MD">would</w>
+    <w POS="PRO">they</w>
+    <w POS="VB">buy</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="N">Loss</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="D">that</w>
+    <w POS="N">money</w>
+    <w POS=",">,</w>
+    <w POS="N">Modesty</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ADJ">sweet</w>
+    <w POS="N">Nature</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">relative</w>
+    <w POS=".">!</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="ADJ">odd</w>
+    <w POS="NUM">thousand</w>
+    <w POS="N">pound</w>
+    <w POS="MD">would</w>
+    <w POS="ADV">gladly</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">allowed</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">nature</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">fair</w>
+    <w POS="NS">manners</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">As</w>
+    <w POS="ADJ">very</w>
+    <w POS="D">a</w>
+    <w POS="N">Fool</w>
+    <w POS="BEP">is</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="VBP">chuses</w>
+    <w POS="P">for</w>
+    <w POS="N">Beauty</w>
+    <w POS="ADV">principally</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">cui</w>
+    <w POS="FW">sunt</w>
+    <w POS="FW">eruditi</w>
+    <w POS="FW">oculi</w>
+    <w POS=",">,</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">stulta</w>
+    <w POS="FW">mens</w>
+    <w POS="P">as</w>
+    <w POS="ONE">one</w>
+    <w POS="VBD">said</w>
+    <w POS=",">,</w>
+    <w POS="WPRO$">whose</w>
+    <w POS="NS">Eyes</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">witty</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">Soul</w>
+    <w POS="ADJ">sensual</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">ill</w>
+    <w POS="N">band</w>
+    <w POS="P">of</w>
+    <w POS="NS">affections</w>
+    <w POS="TO">to</w>
+    <w POS="VB">tie</w>
+    <w POS="NUM">two</w>
+    <w POS="NS">hearts</w>
+    <w POS="ADV">together</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">little</w>
+    <w POS="N">thread</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">red</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">white</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">can</w>
+    <w POS="VB">love</w>
+    <w POS="Q">no</w>
+    <w POS="ADJR">longer</w>
+    <w POS="P">but</w>
+    <w POS="P">until</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">next</w>
+    <w POS="N">Ague</w>
+    <w POS="VBP">comes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">fond</w>
+    <w POS="P">of</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">but</w>
+    <w POS="P">at</w>
+    <w POS="D">the</w>
+    <w POS="N">chance</w>
+    <w POS="P">of</w>
+    <w POS="N">fancy</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">small</w>
+    <w POS="N">Pox</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N+N">Child-bearing</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Care</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Time</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="Q">any</w>
+    <w POS="N">thing</w>
+    <w POS="C">that</w>
+    <w POS="MD">can</w>
+    <w POS="VB">destroy</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">pretty</w>
+    <w POS="N">Flower</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">basest</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="P">when</w>
+    <w POS="N">lust</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">Paranymph</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">solicites</w>
+    <w POS="D">the</w>
+    <w POS="N">suit</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">makes</w>
+    <w POS="D">the</w>
+    <w POS="N">contract</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">joyns</w>
+    <w POS="D">the</w>
+    <w POS="NS">hands</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">commonly</w>
+    <w POS="D">the</w>
+    <w POS="N">effect</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">former</w>
+    <w POS=",">,</w>
+    <w POS="VAG">according</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Greek</w>
+    <w POS="N">proverb</w>
+    <w POS=",">,</w>
+  </line>
+  <line>
+    <w POS="P">At</w>
+    <w POS="ADV">first</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">fair</w>
+    <w POS="NS">cheeks</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">comely</w>
+    <w POS="N">Beard</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">beast</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">taken</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="N">Lion</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">at</w>
+    <w POS="ADV">last</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">turn'd</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="N">Dragon</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">Leopard</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">Swine</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">That</w>
+    <w POS="WPRO">which</w>
+    <w POS="BEP">is</w>
+    <w POS="P">at</w>
+    <w POS="ADV">first</w>
+    <w POS="N">Beauty</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="N">face</w>
+    <w POS="MD">may</w>
+    <w POS="VB">prove</w>
+    <w POS="N">Lust</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="NS">manners</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">So</w>
+    <w POS="NPR">Eubulus</w>
+    <w POS="ADV">wittily</w>
+    <w POS="VBD">reprehended</w>
+    <w POS="SUCH">such</w>
+    <w POS="ADJ">impure</w>
+    <w POS="NS">contracts</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">they</w>
+    <w POS="VBP">offer</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">marital</w>
+    <w POS="NS">Sacrifices</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">but</w>
+    <w POS="D">the</w>
+    <w POS="N">Thigh</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="WPRO">which</w>
+    <w POS="D">the</w>
+    <w POS="NS">Priests</w>
+    <w POS="VBD">cut</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="NS">Goats</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="BED">were</w>
+    <w POS="VAN">laid</w>
+    <w POS="TO">to</w>
+    <w POS="VB">bleed</w>
+    <w POS="P">upon</w>
+    <w POS="D">the</w>
+    <w POS="NS">Altars</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBD">Said</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Clement</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="&quot;">"</w>
+    <w POS="PRO">He</w>
+    <w POS="CONJ">or</w>
+    <w POS="PRO">she</w>
+    <w POS="C">that</w>
+    <w POS="VBP">looks</w>
+    <w POS="ADVR">too</w>
+    <w POS="ADV">curiously</w>
+    <w POS="P">upon</w>
+    <w POS="&quot;">"</w>
+    <w POS="D">the</w>
+    <w POS="N">beauty</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">body</w>
+    <w POS=",">,</w>
+    <w POS="VBP">looks</w>
+    <w POS="ADVR">too</w>
+    <w POS="ADV">low</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="N">flesh</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">corruption</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Heart</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">judg'd</w>
+    <w POS="ADJ">sensual</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">earthly</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Affections</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Desires</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="&quot;">"</w>
+    <w POS="VBI">Begin</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="P">with</w>
+    <w POS="NPR">God</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="NPR">Christ</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">President</w>
+    <w POS="P">of</w>
+    <w POS="N">marriage</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NPR">holy</w>
+    <w POS="NPR">Ghost</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">Fountain</w>
+    <w POS="P">of</w>
+    <w POS="NS">purities</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">chast</w>
+    <w POS="NS">loves</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">joyns</w>
+    <w POS="D">the</w>
+    <w POS="NS">hearts</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="VBI">let</w>
+    <w POS="PRO$">our</w>
+    <w POS="ADJ">first</w>
+    <w POS="N">Suit</w>
+    <w POS="BE">be</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">court</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Heaven</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="NS">designs</w>
+    <w POS="P">of</w>
+    <w POS="N">Piety</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Safety</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Charity</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="VBI">let</w>
+    <w POS="Q">no</w>
+    <w POS="ADJ">impure</w>
+    <w POS="N">spirit</w>
+    <w POS="VB">defile</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">virgin</w>
+    <w POS="NS">purities</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">castifications</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">soul</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR$">Peters</w>
+    <w POS="N">phrase</w>
+    <w POS="BEP">is</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="VBI">let</w>
+    <w POS="Q">all</w>
+    <w POS="SUCH">such</w>
+    <w POS="NS">Contracts</w>
+    <w POS="VB">begin</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">religious</w>
+    <w POS="NS">affections</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Conjugium</w>
+    <w POS="FW">petimus</w>
+    <w POS=",">,</w>
+    <w POS="FW">partumque</w>
+    <w POS="FW">uxoris</w>
+    <w POS=",">;</w>
+    <w POS="FW">at</w>
+    <w POS="FW">illis</w>
+    <w POS="FW">Notum</w>
+    <w POS=",">,</w>
+    <w POS="FW">qui</w>
+    <w POS="FW">pueri</w>
+    <w POS="FW">qualisve</w>
+    <w POS="FW">futura</w>
+    <w POS="FW">sit</w>
+    <w POS="FW">uxor</w>
+    <w POS=",">.</w>
+    <w POS="PRO">We</w>
+    <w POS="Q+NS">sometimes</w>
+    <w POS="VBP">beg</w>
+    <w POS="P">of</w>
+    <w POS="NPR">God</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="N">Wife</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">Child</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="ADJ">alone</w>
+    <w POS="VBP">knows</w>
+    <w POS="WPRO">what</w>
+    <w POS="D">the</w>
+    <w POS="N">wife</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">prove</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">by</w>
+    <w POS="WD">what</w>
+    <w POS="NS">dispositions</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">manners</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">into</w>
+    <w POS="WD">what</w>
+    <w POS="N">fortune</w>
+    <w POS="D">that</w>
+    <w POS="N">child</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">enter</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">we</w>
+    <w POS="MD">shall</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">need</w>
+    <w POS="TO">to</w>
+    <w POS="VB">fear</w>
+    <w POS="VAG">concerning</w>
+    <w POS="D">the</w>
+    <w POS="N">Event</w>
+    <w POS="P">of</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="N">Religion</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">fair</w>
+    <w POS="NS">Intentions</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Prudence</w>
+    <w POS="VBP">manage</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">conduct</w>
+    <w POS="PRO">it</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="N">way</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">preservation</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Family</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">production</w>
+    <w POS="P">of</w>
+    <w POS="NS">Children</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="VAG">avoiding</w>
+    <w POS="N">Fornication</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">refreshment</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">our</w>
+    <w POS="NS">Sorrows</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">comforts</w>
+    <w POS="P">of</w>
+    <w POS="N">Society</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="D">these</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">fair</w>
+    <w POS="NS">Ends</w>
+    <w POS="P">of</w>
+    <w POS="N">Marriage</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">hallow</w>
+    <w POS="D">the</w>
+    <w POS="N">entrance</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">these</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">special</w>
+    <w POS="N">order</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="N">society</w>
+    <w POS="BED">was</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">first</w>
+    <w POS="VAN">designed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">good</w>
+    <w POS="FOR">for</w>
+    <w POS="N">man</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">alone</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="NS">Children</w>
+    <w POS="BED">was</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">next</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBI">Increase</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">multiply</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="VAG">avoiding</w>
+    <w POS="N">fornication</w>
+    <w POS="VBD">came</w>
+    <w POS="RP">in</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">superfoetation</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">evil</w>
+    <w POS="NS">accidents</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">world</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">first</w>
+    <w POS="VBP">makes</w>
+    <w POS="N">marriage</w>
+    <w POS="ADJ">Delectable</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">second</w>
+    <w POS="ADJ">necessary</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">Publick</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">third</w>
+    <w POS="ADJ">necessary</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">Particular</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="BEP">is</w>
+    <w POS="P">for</w>
+    <w POS="N">safety</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="N">life</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Heaven</w>
+    <w POS="PRO">it</w>
+    <w POS="N">self</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Nam</w>
+    <w POS="FW">simulac</w>
+    <w POS="FW">venas</w>
+    <w POS="FW">inflavit</w>
+    <w POS="FW">dira</w>
+    <w POS="FW">cupido</w>
+    <w POS=",">,</w>
+    <w POS="FW">Huc</w>
+    <w POS="FW">juvenes</w>
+    <w POS="FW">aequum</w>
+    <w POS="FW">est</w>
+    <w POS="FW">descendere</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS=",">-</w>
+    <w POS="D">The</w>
+    <w POS="OTHER">other</w>
+    <w POS="HVP">have</w>
+    <w POS="P">in</w>
+    <w POS="PRO">them</w>
+    <w POS="N">joy</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="N">portion</w>
+    <w POS="P">of</w>
+    <w POS="N">Immortality</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="ADJ">first</w>
+    <w POS="VBP">makes</w>
+    <w POS="D">the</w>
+    <w POS="N$">mans</w>
+    <w POS="N">Heart</w>
+    <w POS="ADJ">glad</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="ADJ">second</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">friend</w>
+    <w POS="P">of</w>
+    <w POS="NS">Kingdoms</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Cities</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Families</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">third</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">Enemy</w>
+    <w POS="P">to</w>
+    <w POS="NPR">Hell</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">an</w>
+    <w POS="N">Antidote</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">chiefest</w>
+    <w POS="N">inlet</w>
+    <w POS="P">to</w>
+    <w POS="N">damnation</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="D">these</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">noblest</w>
+    <w POS="N">End</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="VAG">multiplying</w>
+    <w POS="NS">children</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="FW">Mundus</w>
+    <w POS="FW">cum</w>
+    <w POS="FW">patet</w>
+    <w POS=",">,</w>
+    <w POS="FW">Deorum</w>
+    <w POS="FW">tristium</w>
+    <w POS="FW">atque</w>
+    <w POS="FW">inferum</w>
+    <w POS="FW">quasi</w>
+    <w POS="FW">patet</w>
+    <w POS="FW">janua</w>
+    <w POS=",">;</w>
+    <w POS="FW">propterea</w>
+    <w POS="FW">uxorem</w>
+    <w POS="FW">liberorum</w>
+    <w POS="FW">quaerendorum</w>
+    <w POS="FW">causa</w>
+    <w POS="FW">ducere</w>
+    <w POS="FW">religiosum</w>
+    <w POS="FW">est</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Varro</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="N">religion</w>
+    <w POS="TO">to</w>
+    <w POS="VB">marry</w>
+    <w POS="P">for</w>
+    <w POS="NS">children</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Quintilian</w>
+    <w POS="VBP">put</w>
+    <w POS="PRO">it</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="N">definition</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">wife</w>
+    <w POS=",">,</w>
+    <w POS="FW">est</w>
+    <w POS="FW">enim</w>
+    <w POS="FW">uxor</w>
+    <w POS="FW">quam</w>
+    <w POS="FW">jungit</w>
+    <w POS=",">,</w>
+    <w POS="FW">quam</w>
+    <w POS="FW">diducit</w>
+    <w POS="FW">utilitas</w>
+    <w POS=",">;</w>
+    <w POS="FW">cujus</w>
+    <w POS="FW">haec</w>
+    <w POS="FW">reverentia</w>
+    <w POS="FW">est</w>
+    <w POS=",">,</w>
+    <w POS="FW">quod</w>
+    <w POS="FW">videtur</w>
+    <w POS="FW">inventa</w>
+    <w POS="FW">in</w>
+    <w POS="FW">causa</w>
+    <w POS="FW">liberorum</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Ignatius</w>
+    <w POS="P">when</w>
+    <w POS="PRO">he</w>
+    <w POS="HVD">had</w>
+    <w POS="VBN">spoken</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Elias</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Titus</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Clement</w>
+    <w POS=",">,</w>
+    <w POS="P">with</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">honourable</w>
+    <w POS="N">mention</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="N+N">virgin-state</w>
+    <w POS=",">,</w>
+    <w POS="P">lest</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">might</w>
+    <w POS="VB">seem</w>
+    <w POS="TO">to</w>
+    <w POS="HV">have</w>
+    <w POS="VBN">lessened</w>
+    <w POS="D">the</w>
+    <w POS="VAN">married</w>
+    <w POS="NPRS">Apostles</w>
+    <w POS=",">,</w>
+    <w POS="P">at</w>
+    <w POS="WPRO$">whose</w>
+    <w POS="NS">feet</w>
+    <w POS="P">in</w>
+    <w POS="NPR$">Christs</w>
+    <w POS="N">Kingdom</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">thought</w>
+    <w POS="PRO+N">himself</w>
+    <w POS="ADJ">unworthy</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sit</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">gives</w>
+    <w POS="D">this</w>
+    <w POS="N">testimony</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">they</w>
+    <w POS="BED">were</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">might</w>
+    <w POS="NEG">not</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">disparaged</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">great</w>
+    <w POS="NS">names</w>
+    <w POS="P">of</w>
+    <w POS="N">holiness</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">severity</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="BED">were</w>
+    <w POS="VAN">secured</w>
+    <w POS="P">by</w>
+    <w POS="NEG">not</w>
+    <w POS="VAG">marrying</w>
+    <w POS="TO">to</w>
+    <w POS="VB">satisfie</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJR">lower</w>
+    <w POS="NS">appetites</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="RP">out</w>
+    <w POS="P">of</w>
+    <w POS="N">desire</w>
+    <w POS="P">of</w>
+    <w POS="NS">children</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="OTHER">Other</w>
+    <w POS="NS">considerations</w>
+    <w POS="P">if</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">incident</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">by</w>
+    <w POS="N">way</w>
+    <w POS="P">of</w>
+    <w POS="N">appendage</w>
+    <w POS=",">,</w>
+    <w POS="BEP">are</w>
+    <w POS="ALSO">also</w>
+    <w POS="ADJ">considerable</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="NS">accounts</w>
+    <w POS="P">of</w>
+    <w POS="N">prudence</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">become</w>
+    <w POS="NS">principles</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">defile</w>
+    <w POS="D">the</w>
+    <w POS="N">mystery</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">make</w>
+    <w POS="D">the</w>
+    <w POS="N">blessing</w>
+    <w POS="ADJ">doubtful</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="FW">Amabit</w>
+    <w POS="FW">sapiens</w>
+    <w POS=",">,</w>
+    <w POS="FW">cupient</w>
+    <w POS="FW">caeteri</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Afranius</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="N">Love</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">fair</w>
+    <w POS="N">Inducement</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="N">Desire</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Appetite</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">rude</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">Characterisms</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">sensual</w>
+    <w POS="N">person</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="FW">Amare</w>
+    <w POS="FW">justi</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">boni</w>
+    <w POS="FW">est</w>
+    <w POS=",">,</w>
+    <w POS="FW">cupere</w>
+    <w POS="FW">impotentis</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="TO">to</w>
+    <w POS="VB">love</w>
+    <w POS=",">,</w>
+    <w POS="VBP">belongs</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">just</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">man</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="TO">to</w>
+    <w POS="VB">lust</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ADV">furiously</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">passionately</w>
+    <w POS="TO">to</w>
+    <w POS="VB">desire</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">sign</w>
+    <w POS="P">of</w>
+    <w POS="N">impotency</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">unruly</w>
+    <w POS="N">mind</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">2</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS="BEP">are</w>
+    <w POS="ADV">equally</w>
+    <w POS="VAN">concerned</w>
+    <w POS="TO">to</w>
+    <w POS="VB">avoid</w>
+    <w POS="Q">all</w>
+    <w POS="NS">Offences</w>
+    <w POS="P">of</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">beginning</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">conversation</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="Q">every</w>
+    <w POS="ADJ">little</w>
+    <w POS="N">thing</w>
+    <w POS="MD">can</w>
+    <w POS="VB">blast</w>
+    <w POS="D">an</w>
+    <w POS="N">infant</w>
+    <w POS="N">Blossom</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">breath</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">South</w>
+    <w POS="MD">can</w>
+    <w POS="VB">shake</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">rings</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Vine</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="ADV">first</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">begin</w>
+    <w POS="TO">to</w>
+    <w POS="VB">curle</w>
+    <w POS="ADJ">like</w>
+    <w POS="D">the</w>
+    <w POS="NS">locks</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADV">new</w>
+    <w POS="VAN">weaned</w>
+    <w POS="N">boy</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">when</w>
+    <w POS="P">by</w>
+    <w POS="N">Age</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">consolidation</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">stiffen</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="N">hardness</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">stem</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">have</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">warm</w>
+    <w POS="NS">embraces</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Sun</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">kisses</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Heaven</w>
+    <w POS="VBN">brought</w>
+    <w POS="ADV">forth</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">clusters</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">can</w>
+    <w POS="VB">endure</w>
+    <w POS="D">the</w>
+    <w POS="NS">storms</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">North</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">loud</w>
+    <w POS="NS">noises</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Tempest</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="ADV">never</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">broken</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="ADV">So</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">early</w>
+    <w POS="NS">unions</w>
+    <w POS="P">of</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">unfixed</w>
+    <w POS="N">Marriage</w>
+    <w POS=",">;</w>
+    <w POS="ADJ">watchful</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">observant</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">jealous</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">busie</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">inquisitive</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">careful</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">apt</w>
+    <w POS="TO">to</w>
+    <w POS="VB">take</w>
+    <w POS="N">alarum</w>
+    <w POS="P">at</w>
+    <w POS="Q">every</w>
+    <w POS="ADJ">unkind</w>
+    <w POS="N">word</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="NS">Infirmities</w>
+    <w POS="DOP">do</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">manifest</w>
+    <w POS="PRO+N">themselves</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">first</w>
+    <w POS="N">Scenes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">succession</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">long</w>
+    <w POS="N">Society</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="N">chance</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">weakness</w>
+    <w POS="P">when</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">appears</w>
+    <w POS="P">at</w>
+    <w POS="ADV">first</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="N">want</w>
+    <w POS="P">of</w>
+    <w POS="N">love</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">prudence</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">or</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">will</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">so</w>
+    <w POS="VAN">expounded</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="WPRO">which</w>
+    <w POS="VBP">appears</w>
+    <w POS="ADJ">ill</w>
+    <w POS="P">at</w>
+    <w POS="ADV">first</w>
+    <w POS="ADV">usually</w>
+    <w POS="VBP">affrights</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">unexperienced</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">woman</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="VBP">makes</w>
+    <w POS="ADJ">unequal</w>
+    <w POS="NS">conjectures</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">fancies</w>
+    <w POS="ADJ">mighty</w>
+    <w POS="NS">sorrows</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">proportions</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">new</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">early</w>
+    <w POS="N">unkindness</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADV">very</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">Passion</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">huge</w>
+    <w POS="N">Folly</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">certain</w>
+    <w POS="N">want</w>
+    <w POS="P">of</w>
+    <w POS="N">Love</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="VB">preserve</w>
+    <w POS="D">the</w>
+    <w POS="NS">colours</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">beauties</w>
+    <w POS="P">of</w>
+    <w POS="N">Kindness</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">long</w>
+    <w POS="P">as</w>
+    <w POS="ADJ">publick</w>
+    <w POS="N">Honesty</w>
+    <w POS="VBP">requires</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="TO">to</w>
+    <w POS="VB">wear</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Sorrows</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="N">death</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Friend</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Plutarch</w>
+    <w POS="VBP">compares</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">new</w>
+    <w POS="N">Marriage</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="N">Vessel</w>
+    <w POS="P">before</w>
+    <w POS="D">the</w>
+    <w POS="NS">hoops</w>
+    <w POS="BEP">are</w>
+    <w POS="P">on</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="Q">every</w>
+    <w POS="N">thing</w>
+    <w POS="VBP">dissolves</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">tender</w>
+    <w POS="NS">compaginations</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">when</w>
+    <w POS="D">the</w>
+    <w POS="NS">joynts</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">stiffened</w>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">tied</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">firm</w>
+    <w POS="N">compliance</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">proportion'd</w>
+    <w POS="N">bending</w>
+    <w POS=",">,</w>
+    <w POS="ADV">scarcely</w>
+    <w POS="MD">can</w>
+    <w POS="PRO">it</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">dissolved</w>
+    <w POS="P">without</w>
+    <w POS="N">Fire</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">the</w>
+    <w POS="N">violence</w>
+    <w POS="P">of</w>
+    <w POS="N">Iron</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">After</w>
+    <w POS="D">the</w>
+    <w POS="NS">Hearts</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">wife</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">endeared</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">hardened</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">mutual</w>
+    <w POS="N">Confidence</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Experience</w>
+    <w POS="ADJ">longer</w>
+    <w POS="P">than</w>
+    <w POS="N">artifice</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">pretence</w>
+    <w POS="MD">can</w>
+    <w POS="VB">last</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">are</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">great</w>
+    <w POS="Q">many</w>
+    <w POS="NS">remembrances</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">some</w>
+    <w POS="NS">things</w>
+    <w POS="ADJ">present</w>
+    <w POS="C">that</w>
+    <w POS="VBP">dash</w>
+    <w POS="Q">all</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">unkindnesses</w>
+    <w POS="P">in</w>
+    <w POS="NS">pieces</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">little</w>
+    <w POS="N">Boy</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Greek</w>
+    <w POS="N">Epigram</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BED">was</w>
+    <w POS="VAG">creeping</w>
+    <w POS="P">down</w>
+    <w POS="D">a</w>
+    <w POS="N">Precipice</w>
+    <w POS="BED">was</w>
+    <w POS="VAN">invited</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Safety</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">sight</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N$">Mother's</w>
+    <w POS="N">pap</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="ADJ">else</w>
+    <w POS="MD">could</w>
+    <w POS="VB">intice</w>
+    <w POS="PRO">him</w>
+    <w POS="TO">to</w>
+    <w POS="VB">return</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">bond</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">common</w>
+    <w POS="NS">Children</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">sight</w>
+    <w POS="P">of</w>
+    <w POS="PRO">her</w>
+    <w POS="C">that</w>
+    <w POS="VBP">nurses</w>
+    <w POS="WPRO">what</w>
+    <w POS="BEP">is</w>
+    <w POS="QS">most</w>
+    <w POS="ADJ">dear</w>
+    <w POS="P">to</w>
+    <w POS="PRO">him</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">endearments</w>
+    <w POS="P">of</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">course</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">long</w>
+    <w POS="N">society</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">relation</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">excellent</w>
+    <w POS="N">security</w>
+    <w POS="TO">to</w>
+    <w POS="VB">redintegrate</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">call</w>
+    <w POS="D">that</w>
+    <w POS="N">love</w>
+    <w POS="ADV">back</w>
+    <w POS="WPRO">which</w>
+    <w POS="N">folly</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAG">trifling</w>
+    <w POS="NS">accidents</w>
+    <w POS="MD">would</w>
+    <w POS="VB">disturb</w>
+    <w POS=",">.</w>
+    <w POS=".">-</w>
+  </line>
+  <line>
+    <w POS="FW">Tormentum</w>
+    <w POS="FW">ingens</w>
+    <w POS="FW">nubentibus</w>
+    <w POS="FW">haeret</w>
+    <w POS="FW">Quae</w>
+    <w POS="FW">nequeunt</w>
+    <w POS="FW">parere</w>
+    <w POS=",">,</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">partu</w>
+    <w POS="FW">retinere</w>
+    <w POS="FW">maritos</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">When</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VBN">come</w>
+    <w POS="ADV">thus</w>
+    <w POS="ADJ">far</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">hard</w>
+    <w POS="VAG">untwisting</w>
+    <w POS="D">the</w>
+    <w POS="N">Knot</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="BEI">be</w>
+    <w POS="ADJ">careful</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">its</w>
+    <w POS="ADJ">first</w>
+    <w POS="N">coalition</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">be</w>
+    <w POS="Q">no</w>
+    <w POS="N">rudeness</w>
+    <w POS="DAN">done</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">if</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">be</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">will</w>
+    <w POS="P">for</w>
+    <w POS="ADV">ever</w>
+    <w POS="ADV">after</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">apt</w>
+    <w POS="TO">to</w>
+    <w POS="VB">start</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">diseased</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">3</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Let</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">wife</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">careful</w>
+    <w POS="TO">to</w>
+    <w POS="VB">stifle</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">things</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">fast</w>
+    <w POS="P">as</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">spring</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">cut</w>
+    <w POS="RP">down</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">trod</w>
+    <w POS="P">upon</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">if</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">suffered</w>
+    <w POS="TO">to</w>
+    <w POS="VB">grow</w>
+    <w POS="P">by</w>
+    <w POS="NS">numbers</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">make</w>
+    <w POS="D">the</w>
+    <w POS="N">spirit</w>
+    <w POS="ADJ">peevish</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">Society</w>
+    <w POS="ADJ">troublesome</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">Affections</w>
+    <w POS="ADJ">loose</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">easie</w>
+    <w POS="P">by</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">habitual</w>
+    <w POS="N">Aversation</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="Q">Some</w>
+    <w POS="NS">men</w>
+    <w POS="BEP">are</w>
+    <w POS="QR">more</w>
+    <w POS="VAN">vexed</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="N">Flie</w>
+    <w POS="P">than</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="N">Wound</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">when</w>
+    <w POS="D">the</w>
+    <w POS="NS">Gnats</w>
+    <w POS="VBP">disturb</w>
+    <w POS="PRO$">our</w>
+    <w POS="N">sleep</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">Reason</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">disquieted</w>
+    <w POS="CONJ">but</w>
+    <w POS="NEG">not</w>
+    <w POS="ADV">perfectly</w>
+    <w POS="VAN">awakened</w>
+    <w POS=",">;</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">often</w>
+    <w POS="VAN">seen</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">fuller</w>
+    <w POS="P">of</w>
+    <w POS="N">trouble</w>
+    <w POS="P">than</w>
+    <w POS="P">if</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N+N">day-light</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">reason</w>
+    <w POS="PRO">he</w>
+    <w POS="BED">were</w>
+    <w POS="TO">to</w>
+    <w POS="VB">contest</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">potent</w>
+    <w POS="N">enemy</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">In</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">frequent</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">accidents</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Family</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="N$">mans</w>
+    <w POS="N">reason</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="ADV">always</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">awake</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">when</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Discourses</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">imperfect</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="VAG">trifling</w>
+    <w POS="N">Trouble</w>
+    <w POS="VBP">makes</w>
+    <w POS="PRO">him</w>
+    <w POS="ADV">yet</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">restless</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">soon</w>
+    <w POS="VAN">betrayed</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">violence</w>
+    <w POS="P">of</w>
+    <w POS="N">Passion</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">certain</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">woman</w>
+    <w POS="BEP">are</w>
+    <w POS="P">in</w>
+    <w POS="D">a</w>
+    <w POS="N">state</w>
+    <w POS="P">of</w>
+    <w POS="N">weakness</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">folly</w>
+    <w POS="ADV">then</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">can</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">troubled</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="VAG">trifling</w>
+    <w POS="N">accident</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">good</w>
+    <w POS="TO">to</w>
+    <w POS="VB">tempt</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">affections</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="P">in</w>
+    <w POS="D">that</w>
+    <w POS="N">state</w>
+    <w POS="P">of</w>
+    <w POS="N">danger</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">In</w>
+    <w POS="D">this</w>
+    <w POS="N">case</w>
+    <w POS="D">the</w>
+    <w POS="N">Caution</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">substract</w>
+    <w POS="N">Fuel</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">sudden</w>
+    <w POS="N">Flame</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="N">stubble</w>
+    <w POS="P">though</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">quickly</w>
+    <w POS="VAN">kindled</w>
+    <w POS=",">,</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">soon</w>
+    <w POS="VAN">extinguished</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="NEG">not</w>
+    <w POS="VAN">blown</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">pertinacious</w>
+    <w POS="N">breath</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VAN">fed</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">new</w>
+    <w POS="NS">materials</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Add</w>
+    <w POS="Q">no</w>
+    <w POS="ADJ">new</w>
+    <w POS="NS">provocations</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">accident</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="DOI">do</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">inflame</w>
+    <w POS="D">this</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="N">peace</w>
+    <w POS="MD">will</w>
+    <w POS="ADV">soon</w>
+    <w POS="VB">return</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">discontent</w>
+    <w POS="MD">will</w>
+    <w POS="VB">pass</w>
+    <w POS="ADV">away</w>
+    <w POS="ADV">soon</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="NS">sparks</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="N">collision</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">flint</w>
+    <w POS=",">;</w>
+    <w POS="ADV">ever</w>
+    <w POS="VAG">remembring</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="NS">Discontents</w>
+    <w POS="VAG">proceeding</w>
+    <w POS="P">from</w>
+    <w POS="ADJ">daily</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">things</w>
+    <w POS=",">,</w>
+    <w POS="DOP">do</w>
+    <w POS="VB">breed</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">secret</w>
+    <w POS="ADJ">undiscernable</w>
+    <w POS="N">Disease</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="BEP">is</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">dangerous</w>
+    <w POS="P">than</w>
+    <w POS="D">a</w>
+    <w POS="N">Fever</w>
+    <w POS="VAG">proceeding</w>
+    <w POS="P">from</w>
+    <w POS="D">a</w>
+    <w POS="VAN">discerned</w>
+    <w POS="ADJ">notorious</w>
+    <w POS="N">Surfeit</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">4</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Let</w>
+    <w POS="PRO">them</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">sure</w>
+    <w POS="TO">to</w>
+    <w POS="VB">abstain</w>
+    <w POS="P">from</w>
+    <w POS="Q">all</w>
+    <w POS="D">those</w>
+    <w POS="NS">things</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="P">by</w>
+    <w POS="N">experience</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">observation</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">find</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">contrary</w>
+    <w POS="P">to</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">They</w>
+    <w POS="C">that</w>
+    <w POS="VBP">govern</w>
+    <w POS="NS">Elephants</w>
+    <w POS="ADV">never</w>
+    <w POS="VB">appear</w>
+    <w POS="P">before</w>
+    <w POS="PRO">them</w>
+    <w POS="P">in</w>
+    <w POS="N">White</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">Masters</w>
+    <w POS="P">of</w>
+    <w POS="NS">Bulls</w>
+    <w POS="VBP">keep</w>
+    <w POS="P">from</w>
+    <w POS="PRO">them</w>
+    <w POS="Q">all</w>
+    <w POS="NS">garments</w>
+    <w POS="P">of</w>
+    <w POS="N">Bloud</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Scarlet</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="VAG">knowing</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">will</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">impatient</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">civil</w>
+    <w POS="NS">usages</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">discipline</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Natures</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">provoked</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">proper</w>
+    <w POS="N">Antipathies</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="NS">ancients</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">martial</w>
+    <w POS="NS">Hieroglyphicks</w>
+    <w POS="VBD">us'd</w>
+    <w POS="TO">to</w>
+    <w POS="VB">depict</w>
+    <w POS="NPR">Mercury</w>
+    <w POS="VAG">standing</w>
+    <w POS="P">by</w>
+    <w POS="NPR">Venus</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">signifie</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="P">by</w>
+    <w POS="ADJ">fair</w>
+    <w POS="N">language</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">sweet</w>
+    <w POS="NS">intreaties</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="NS">minds</w>
+    <w POS="P">of</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS="MD">should</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">united</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">hard</w>
+    <w POS="P">by</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="FW">Suadam</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">Gratias</w>
+    <w POS="FW">descripserunt</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">would</w>
+    <w POS="HV">have</w>
+    <w POS="Q">all</w>
+    <w POS="N">deliciousness</w>
+    <w POS="P">of</w>
+    <w POS="NS">manners</w>
+    <w POS=",">,</w>
+    <w POS="N">compliance</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">mutual</w>
+    <w POS="N">observance</w>
+    <w POS="TO">to</w>
+    <w POS="VB">abide</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">5</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Let</w>
+    <w POS="D">the</w>
+    <w POS="N">Husband</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS="ADV">infinitely</w>
+    <w POS="VB">avoid</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">curious</w>
+    <w POS="N">distinction</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">mine</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">thine</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">this</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">caused</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">Laws</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">Suits</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">Wars</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">World</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="VBI">let</w>
+    <w POS="PRO">them</w>
+    <w POS="WPRO">who</w>
+    <w POS="HVP">have</w>
+    <w POS="FP">but</w>
+    <w POS="ONE">one</w>
+    <w POS="N">Person</w>
+    <w POS=",">,</w>
+    <w POS="HV">have</w>
+    <w POS="ALSO">also</w>
+    <w POS="FP">but</w>
+    <w POS="ONE">one</w>
+    <w POS="N">Interest</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">Husband</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS="BEP">are</w>
+    <w POS="NS">heirs</w>
+    <w POS="P">to</w>
+    <w POS="Q">each</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">as</w>
+    <w POS="NPR">Dionysius</w>
+    <w POS="NPR">Halicarnasseus</w>
+    <w POS="VBP">relates</w>
+    <w POS="P">from</w>
+    <w POS="NPR">Romulus</w>
+    <w POS="P">if</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">die</w>
+    <w POS="P">without</w>
+    <w POS="NS">Children</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">if</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">be</w>
+    <w POS="NS">Children</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">partner</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">Inheritance</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="P">during</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">life</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">use</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">imployment</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">common</w>
+    <w POS="P">to</w>
+    <w POS="Q">both</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">necessities</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">Difference</w>
+    <w POS="P">of</w>
+    <w POS="N">right</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">Man</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">the</w>
+    <w POS="N">Dispensation</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="MD">may</w>
+    <w POS="VB">keep</w>
+    <w POS="PRO">it</w>
+    <w POS="P">from</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS="ADV">just</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Governour</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Town</w>
+    <w POS="MD">may</w>
+    <w POS="VB">keep</w>
+    <w POS="PRO">it</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">right</w>
+    <w POS="N">Owner</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">the</w>
+    <w POS="N">power</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="Q">no</w>
+    <w POS="N">right</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS="ADV">so</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">when</w>
+    <w POS="Q">either</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS="VBP">begins</w>
+    <w POS="TO">to</w>
+    <w POS="VB">impropriate</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">like</w>
+    <w POS="D">a</w>
+    <w POS="N">tumour</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">flesh</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="VBP">draws</w>
+    <w POS="QR">more</w>
+    <w POS="P">than</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">share</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="WPRO">what</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">feeds</w>
+    <w POS="P">on</w>
+    <w POS=",">,</w>
+    <w POS="VBP">turns</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="N">bile</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Romans</w>
+    <w POS="VBD">forbad</w>
+    <w POS="Q">any</w>
+    <w POS="NS">Donations</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">made</w>
+    <w POS="P">between</w>
+    <w POS="N">Man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS=",">,</w>
+    <w POS="P+N">because</w>
+    <w POS="Q">neither</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS="MD">could</w>
+    <w POS="VB">transfer</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">new</w>
+    <w POS="N">Right</w>
+    <w POS="P">of</w>
+    <w POS="D">those</w>
+    <w POS="NS">things</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="ADV">already</w>
+    <w POS="PRO">they</w>
+    <w POS="HVD">had</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">common</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">understood</w>
+    <w POS="FP">only</w>
+    <w POS="VAG">concerning</w>
+    <w POS="D">the</w>
+    <w POS="NS">uses</w>
+    <w POS="P">of</w>
+    <w POS="N">necessity</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">personal</w>
+    <w POS="NS">conveniences</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="ADV">so</w>
+    <w POS="Q">all</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="D">the</w>
+    <w POS="N$">Woman's</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="D">the</w>
+    <w POS="N$">Man's</w>
+    <w POS="P">in</w>
+    <w POS="Q">several</w>
+    <w POS="NS">regards</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Corvinus</w>
+    <w POS="VBP">dwells</w>
+    <w POS="P">in</w>
+    <w POS="D">a</w>
+    <w POS="N">Farm</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">receives</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">profits</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">reaps</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">sows</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">please</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">eats</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Corn</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">drinks</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Wine</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">own</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="Q">all</w>
+    <w POS="D">that</w>
+    <w POS="ALSO">also</w>
+    <w POS="BEP">is</w>
+    <w POS="PRO$">his</w>
+    <w POS="N$">Lords</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">for</w>
+    <w POS="PRO">it</w>
+    <w POS="NPR">Corvinus</w>
+    <w POS="VBP">pays</w>
+    <w POS="N">Acknowledgement</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Patron</w>
+    <w POS="HVP">hath</w>
+    <w POS="SUCH">such</w>
+    <w POS="NS">powers</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">uses</w>
+    <w POS="P">of</w>
+    <w POS="PRO">it</w>
+    <w POS="P">as</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">proper</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">Lords</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="P">for</w>
+    <w POS="Q">all</w>
+    <w POS="D">this</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="D">the</w>
+    <w POS="N$">Kings</w>
+    <w POS="ADV">too</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">purposes</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS="VB">need</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">all</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">accounted</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">census</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">for</w>
+    <w POS="ADJ">certain</w>
+    <w POS="NS">services</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">times</w>
+    <w POS="P">of</w>
+    <w POS="N">danger</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="ADV">So</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="NS">Riches</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Family</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="D">a</w>
+    <w POS="N$">Womans</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">well</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N$">Mans</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="PRO$">hers</w>
+    <w POS="P">for</w>
+    <w POS="N">Need</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">hers</w>
+    <w POS="P">for</w>
+    <w POS="N">Ornament</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">hers</w>
+    <w POS="P">for</w>
+    <w POS="ADJ">modest</w>
+    <w POS="N">Delight</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="NS">uses</w>
+    <w POS="P">of</w>
+    <w POS="N">Religion</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">prudent</w>
+    <w POS="N">Charity</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="VAG">disposing</w>
+    <w POS="PRO">them</w>
+    <w POS="P">into</w>
+    <w POS="NS">portions</w>
+    <w POS="P">of</w>
+    <w POS="N">inheritance</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">assignation</w>
+    <w POS="P">of</w>
+    <w POS="NS">charges</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">governments</w>
+    <w POS=",">,</w>
+    <w POS="NS">stipends</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">rewards</w>
+    <w POS=",">,</w>
+    <w POS="NS">annuities</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJR">greater</w>
+    <w POS="NS">donatives</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="NS">reserves</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">superior</w>
+    <w POS="N">right</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NEG">not</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">invaded</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="P+NS">under-possessors</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="P">in</w>
+    <w POS="D">those</w>
+    <w POS="NS">things</w>
+    <w POS=",">,</w>
+    <w POS="WADV">where</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">ought</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">common</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">spleen</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">the</w>
+    <w POS="N">belly</w>
+    <w POS="VBP">swells</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">draws</w>
+    <w POS="P">into</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">capacity</w>
+    <w POS="Q">much</w>
+    <w POS="P">of</w>
+    <w POS="D">that</w>
+    <w POS="WPRO">which</w>
+    <w POS="MD">should</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">spent</w>
+    <w POS="P">upon</w>
+    <w POS="D">those</w>
+    <w POS="NS">parts</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="HVP">have</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">equal</w>
+    <w POS="N">right</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">maintain'd</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">dropsie</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">consumption</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">whole</w>
+    <w POS=",">,</w>
+    <w POS="Q+N">something</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">evil</w>
+    <w POS="P+N">because</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">unnatural</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">monstrous</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Macarius</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="NUM">32</w>
+    <w POS="N">Homily</w>
+    <w POS="VBP">speaks</w>
+    <w POS="ADV">fully</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="N">particular</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="D">a</w>
+    <w POS="N">Woman</w>
+    <w POS="VAN">betrothed</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="N">Man</w>
+    <w POS="VBP">bears</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Portion</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">mighty</w>
+    <w POS="N">Love</w>
+    <w POS="VBP">pours</w>
+    <w POS="PRO">it</w>
+    <w POS="P">into</w>
+    <w POS="D">the</w>
+    <w POS="NS">hands</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Husband</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">says</w>
+    <w POS=",">,</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">I</w>
+    <w POS="HVP">have</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">my</w>
+    <w POS="ADJ">own</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO$">my</w>
+    <w POS="NS">Goods</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">Portion</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">Body</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">Mind</w>
+    <w POS="BEP">is</w>
+    <w POS="PRO$">yours</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="D">a</w>
+    <w POS="N">Woman</w>
+    <w POS="HVP">hath</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">reckoned</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">right</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Husband</w>
+    <w POS=",">;</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">wealth</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">person</w>
+    <w POS="FP">only</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">reputation</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">praise</w>
+    <w POS=",">;</w>
+    <w POS="ADV">so</w>
+    <w POS="NPR">Lucian</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Earth</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">Mother</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="NS">Creatures</w>
+    <w POS="ADV">here</w>
+    <w POS="ADV">below</w>
+    <w POS=",">,</w>
+    <w POS="VBP">sends</w>
+    <w POS="RP">up</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">Vapours</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">proper</w>
+    <w POS="NS">emissions</w>
+    <w POS="P">at</w>
+    <w POS="D">the</w>
+    <w POS="N">command</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Sun</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="VBP">requires</w>
+    <w POS="PRO">them</w>
+    <w POS="ADV">again</w>
+    <w POS="TO">to</w>
+    <w POS="VB">refresh</w>
+    <w POS="PRO$">her</w>
+    <w POS="ADJ">own</w>
+    <w POS="NS">Needs</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">deposited</w>
+    <w POS="P">between</w>
+    <w POS="PRO">them</w>
+    <w POS="Q">both</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">bosome</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Cloud</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">common</w>
+    <w POS="N">receptacle</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">may</w>
+    <w POS="VB">cool</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Flames</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="VBP">descend</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="PRO">her</w>
+    <w POS="ADJ">Fruitful</w>
+    <w POS=",">:</w>
+    <w POS="ADV">So</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="NS">proprieties</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">Wife</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">dispos'd</w>
+    <w POS="P">of</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Lord</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="Q">all</w>
+    <w POS="BEP">are</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">provisions</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BAG">being</w>
+    <w POS="D">a</w>
+    <w POS="N">part</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">need</w>
+    <w POS="TO">to</w>
+    <w POS="VB">refresh</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">supply</w>
+    <w POS="PRO$">hers</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">serves</w>
+    <w POS="D">the</w>
+    <w POS="N">interest</w>
+    <w POS="P">of</w>
+    <w POS="Q">both</w>
+    <w POS="P">while</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">serves</w>
+    <w POS="D">the</w>
+    <w POS="NS">necessities</w>
+    <w POS="P">of</w>
+    <w POS="Q">either</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">These</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="NS">Duties</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS="Q">both</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="HVP">have</w>
+    <w POS="ADJ">common</w>
+    <w POS="NS">regards</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">equal</w>
+    <w POS="NS">necessities</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">obligations</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P+N">indeed</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">scarce</w>
+    <w POS="Q">any</w>
+    <w POS="N">matter</w>
+    <w POS="P">of</w>
+    <w POS="N">duty</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">concerns</w>
+    <w POS="PRO">them</w>
+    <w POS="Q">both</w>
+    <w POS="ADV">alike</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="FP">only</w>
+    <w POS="VAN">distinguished</w>
+    <w POS="P">by</w>
+    <w POS="NS">names</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">variety</w>
+    <w POS="P">by</w>
+    <w POS="NS">circumstances</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">accidents</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="WPRO">what</w>
+    <w POS="P">in</w>
+    <w POS="ONE">one</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">call'd</w>
+    <w POS="N">love</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">called</w>
+    <w POS="N">reverence</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="WPRO">what</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">wife</w>
+    <w POS="BEP">is</w>
+    <w POS="N">obedience</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="BEP">is</w>
+    <w POS="N">duty</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">He</w>
+    <w POS="VBP">provides</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="VBP">dispenses</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="VBP">gives</w>
+    <w POS="NS">commandments</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="VBP">rules</w>
+    <w POS="P">by</w>
+    <w POS="PRO">them</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="VBP">rules</w>
+    <w POS="PRO">her</w>
+    <w POS="P">by</w>
+    <w POS="N">Authority</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="VBP">rules</w>
+    <w POS="PRO">him</w>
+    <w POS="P">by</w>
+    <w POS="N">Love</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="MD">ought</w>
+    <w POS="P">by</w>
+    <w POS="Q">all</w>
+    <w POS="N">means</w>
+    <w POS="TO">to</w>
+    <w POS="VB">please</w>
+    <w POS="PRO">him</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">must</w>
+    <w POS="P">by</w>
+    <w POS="Q">no</w>
+    <w POS="N">means</w>
+    <w POS="VB">displease</w>
+    <w POS="PRO">her</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Heart</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">set</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">midst</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Body</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">though</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">strikes</w>
+    <w POS="P">to</w>
+    <w POS="ONE">one</w>
+    <w POS="N">side</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">prerogative</w>
+    <w POS="P">of</w>
+    <w POS="N">Nature</w>
+    <w POS=",">,</w>
+    <w POS="ADV">yet</w>
+    <w POS="D">those</w>
+    <w POS="NS">throbs</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">constant</w>
+    <w POS="NS">motions</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">felt</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">side</w>
+    <w POS="ALSO">also</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">influence</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">equal</w>
+    <w POS="P">to</w>
+    <w POS="Q">both</w>
+    <w POS=",">:</w>
+    <w POS="ADV">So</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">conjugal</w>
+    <w POS="NS">Duties</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="Q">some</w>
+    <w POS="NS">motions</w>
+    <w POS="BEP">are</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ONE">one</w>
+    <w POS="N">side</w>
+    <w POS="QR">more</w>
+    <w POS="P">than</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="N">interest</w>
+    <w POS="BEP">is</w>
+    <w POS="P">on</w>
+    <w POS="Q">both</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">Duty</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">equal</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="Q">several</w>
+    <w POS="NS">instances</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">If</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="OTHER+N">otherwise</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">Man</w>
+    <w POS="VBP">enjoys</w>
+    <w POS="D">a</w>
+    <w POS="N">Wife</w>
+    <w POS="P">as</w>
+    <w POS="NPR">Periander</w>
+    <w POS="DOD">did</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">dead</w>
+    <w POS="NPR">Melissa</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">unnatural</w>
+    <w POS="N">Union</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">neither</w>
+    <w POS="VAG">pleasing</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="ADJ">holy</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">useless</w>
+    <w POS="P">to</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">purposes</w>
+    <w POS="P">of</w>
+    <w POS="N">Society</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">dead</w>
+    <w POS="P">to</w>
+    <w POS="N">Content</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">PART</w>
+    <w POS="NUM">II</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJS">next</w>
+    <w POS="N">Inquiry</w>
+    <w POS="BEP">is</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">particular</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">considers</w>
+    <w POS="D">the</w>
+    <w POS="N">Power</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Duty</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Man</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="VBI">Let</w>
+    <w POS="Q">every</w>
+    <w POS="ONE">one</w>
+    <w POS="P">of</w>
+    <w POS="PRO">you</w>
+    <w POS="ADVR">so</w>
+    <w POS="VB">love</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS="FP">even</w>
+    <w POS="P">as</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="P">as</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="HVP">hath</w>
+    <w POS="N">power</w>
+    <w POS="P">over</w>
+    <w POS="PRO">her</w>
+    <w POS="P">as</w>
+    <w POS="P">over</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">must</w>
+    <w POS="VB">love</w>
+    <w POS="PRO">her</w>
+    <w POS="ADV">equally</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N$">Husbands</w>
+    <w POS="N">power</w>
+    <w POS="P">over</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">paternal</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">friendly</w>
+    <w POS=",">,</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">magisterial</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">despotick</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">wife</w>
+    <w POS="BEP">is</w>
+    <w POS="FW">in</w>
+    <w POS="FW">perpetua</w>
+    <w POS="FW">tutela</w>
+    <w POS=",">,</w>
+    <w POS="P">under</w>
+    <w POS="N">conduct</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">counsel</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">power</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="HVP">hath</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">founded</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">understanding</w>
+    <w POS=",">,</w>
+    <w POS="NEG">not</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">will</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">force</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="D">a</w>
+    <w POS="N">power</w>
+    <w POS="P">of</w>
+    <w POS="N">coercion</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="D">a</w>
+    <w POS="N">power</w>
+    <w POS="P">of</w>
+    <w POS="N">advice</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="N">government</w>
+    <w POS="C">that</w>
+    <w POS="ADJ">wise</w>
+    <w POS="NS">men</w>
+    <w POS="HVP">have</w>
+    <w POS="P">over</w>
+    <w POS="D">those</w>
+    <w POS="WPRO">who</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">fit</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">conducted</w>
+    <w POS="P">by</w>
+    <w POS="PRO">them</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="FW">Et</w>
+    <w POS="FW">vos</w>
+    <w POS="FW">in</w>
+    <w POS="FW">manu</w>
+    <w POS="FW">et</w>
+    <w POS="FW">in</w>
+    <w POS="FW">tutela</w>
+    <w POS="FW">non</w>
+    <w POS="FW">in</w>
+    <w POS="FW">servitio</w>
+    <w POS="FW">debetis</w>
+    <w POS="FW">habere</w>
+    <w POS="FW">eas</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">malle</w>
+    <w POS="FW">patres</w>
+    <w POS="FW">vos</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">viros</w>
+    <w POS=",">,</w>
+    <w POS="FW">quam</w>
+    <w POS="FW">dominos</w>
+    <w POS="FW">dici</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Valerius</w>
+    <w POS="P">in</w>
+    <w POS="NPR">Livie</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="NS">Husbands</w>
+    <w POS="MD">should</w>
+    <w POS="ADVR">rather</w>
+    <w POS="BE">be</w>
+    <w POS="NS">Fathers</w>
+    <w POS="P">than</w>
+    <w POS="NS">Lords</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Homer</w>
+    <w POS="VBP">adds</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">soft</w>
+    <w POS="NS">appellatives</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">character</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N$">Husbands</w>
+    <w POS="N">duty</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">Thou</w>
+    <w POS="BEP">art</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="D">a</w>
+    <w POS="N">Father</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="N">Mother</w>
+    <w POS="P">to</w>
+    <w POS="PRO">her</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="N">Brother</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">reason</w>
+    <w POS=",">,</w>
+    <w POS="P">unless</w>
+    <w POS="D">the</w>
+    <w POS="N">state</w>
+    <w POS="P">of</w>
+    <w POS="N">Marriage</w>
+    <w POS="MD">should</w>
+    <w POS="BE">be</w>
+    <w POS="Q">no</w>
+    <w POS="ADJR">better</w>
+    <w POS="P">than</w>
+    <w POS="D">the</w>
+    <w POS="N">condition</w>
+    <w POS="P">of</w>
+    <w POS="D">an</w>
+    <w POS="N">Orphan</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="PRO">she</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">bound</w>
+    <w POS="TO">to</w>
+    <w POS="VB">leave</w>
+    <w POS="N">Father</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Mother</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Brother</w>
+    <w POS="P">for</w>
+    <w POS="PRO">thee</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">either</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">miserable</w>
+    <w POS="ADJ">like</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">poor</w>
+    <w POS="ADJ">fatherless</w>
+    <w POS="N">child</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">or</w>
+    <w POS="ELSE">else</w>
+    <w POS="MD">ought</w>
+    <w POS="TO">to</w>
+    <w POS="VB">find</w>
+    <w POS="Q">all</w>
+    <w POS="D">these</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="QR">more</w>
+    <w POS="P">in</w>
+    <w POS="PRO">thee</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Medea</w>
+    <w POS="P">in</w>
+    <w POS="NPR">Euripides</w>
+    <w POS="HVD">had</w>
+    <w POS="N">cause</w>
+    <w POS="TO">to</w>
+    <w POS="VB">complain</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="VBD">found</w>
+    <w POS="PRO">it</w>
+    <w POS="OTHER+N">otherwise</w>
+    <w POS=",">.</w>
+    <w POS="WPRO">Which</w>
+    <w POS="NPR">Saint</w>
+    <w POS="NPR">Ambrose</w>
+    <w POS="ADV">well</w>
+    <w POS="VBP">translates</w>
+    <w POS=",">:</w>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">sad</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="NS">Virgins</w>
+    <w POS="BEP">are</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">own</w>
+    <w POS="N">Money</w>
+    <w POS="VAN">sold</w>
+    <w POS="P">to</w>
+    <w POS="N">Slavery</w>
+    <w POS=",">;</w>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="NS">Services</w>
+    <w POS="BEP">are</w>
+    <w POS="P">in</w>
+    <w POS="ADJR">better</w>
+    <w POS="N">state</w>
+    <w POS="P">than</w>
+    <w POS="NS">Marriages</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">receive</w>
+    <w POS="NS">Wages</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">these</w>
+    <w POS="VBP">buy</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Fetters</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">pay</w>
+    <w POS="ADV">dear</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">loss</w>
+    <w POS="P">of</w>
+    <w POS="N">Liberty</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Romans</w>
+    <w POS="VBD">expressed</w>
+    <w POS="D">the</w>
+    <w POS="N$">mans</w>
+    <w POS="N">power</w>
+    <w POS="P">over</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS="FP">but</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">gentle</w>
+    <w POS="N">word</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="FW">Nec</w>
+    <w POS="FW">vero</w>
+    <w POS="FW">mulieribus</w>
+    <w POS="FW">praefectus</w>
+    <w POS="FW">praeponatur</w>
+    <w POS=",">,</w>
+    <w POS="FW">qui</w>
+    <w POS="FW">apud</w>
+    <w POS="FW">Graecos</w>
+    <w POS="FW">creari</w>
+    <w POS="FW">solet</w>
+    <w POS=",">,</w>
+    <w POS="FW">sed</w>
+    <w POS="FW">sit</w>
+    <w POS="FW">censor</w>
+    <w POS="FW">qui</w>
+    <w POS="FW">viros</w>
+    <w POS="FW">doceat</w>
+    <w POS="FW">moderari</w>
+    <w POS="FW">uxoribus</w>
+    <w POS=",">;</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Cicero</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="VBI">let</w>
+    <w POS="EX">there</w>
+    <w POS="BE">be</w>
+    <w POS="Q">no</w>
+    <w POS="N">Governour</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Woman</w>
+    <w POS="VAN">appointed</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="D">a</w>
+    <w POS="N">Censor</w>
+    <w POS="P">of</w>
+    <w POS="NS">Manners</w>
+    <w POS=",">,</w>
+    <w POS="ONE">one</w>
+    <w POS="TO">to</w>
+    <w POS="VB">teach</w>
+    <w POS="D">the</w>
+    <w POS="NS">men</w>
+    <w POS="TO">to</w>
+    <w POS="VB">moderate</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Wives</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="ADV">fairly</w>
+    <w POS="TO">to</w>
+    <w POS="VB">induce</w>
+    <w POS="PRO">them</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">measures</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">own</w>
+    <w POS="NS">proportions</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BED">was</w>
+    <w POS="ADV">rarely</w>
+    <w POS="VAN">observed</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Philo</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="NPR">Adam</w>
+    <w POS="VBD">made</w>
+    <w POS="D">that</w>
+    <w POS="ADJ">fond</w>
+    <w POS="N">Excuse</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Folly</w>
+    <w POS="P">in</w>
+    <w POS="VAG">eating</w>
+    <w POS="D">the</w>
+    <w POS="VAN">forbidden</w>
+    <w POS="N">fruit</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="VBD">said</w>
+    <w POS="D">The</w>
+    <w POS="N">woman</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBD">gavest</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="P">with</w>
+    <w POS="PRO">me</w>
+    <w POS="PRO">she</w>
+    <w POS="VBD">gave</w>
+    <w POS="PRO">me</w>
+  </line>
+  <line>
+    <w POS="PRO">He</w>
+    <w POS="VBP">says</w>
+    <w POS="NEG">not</w>
+    <w POS="D">The</w>
+    <w POS="N">woman</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBD">gavest</w>
+    <w POS="P">to</w>
+    <w POS="PRO">me</w>
+    <w POS="Q">no</w>
+    <w POS="SUCH">such</w>
+    <w POS="N">thing</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">none</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Goods</w>
+    <w POS=",">,</w>
+    <w POS="Q">none</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Possessions</w>
+    <w POS=",">,</w>
+    <w POS="NEG">not</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">reckoned</w>
+    <w POS="P">amongst</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">Servants</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="NPR">God</w>
+    <w POS="DOD">did</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">give</w>
+    <w POS="PRO">her</w>
+    <w POS="P">to</w>
+    <w POS="PRO">him</w>
+    <w POS="ADV">so</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">The</w>
+    <w POS="N">woman</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBD">gavest</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="P">with</w>
+    <w POS="PRO">me</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">partner</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">Companion</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">my</w>
+    <w POS="NS">joys</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">sorrows</w>
+    <w POS=",">,</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBD">gavest</w>
+    <w POS="PRO">her</w>
+    <w POS="P">for</w>
+    <w POS="N">Use</w>
+    <w POS=",">,</w>
+    <w POS="NEG">not</w>
+    <w POS="P">for</w>
+    <w POS="N">Dominion</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">Dominion</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="P">over</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">than</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Soul</w>
+    <w POS="VBP">rules</w>
+    <w POS="D">the</w>
+    <w POS="N">Body</w>
+    <w POS=",">;</w>
+    <w POS="P">for</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">takes</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">mighty</w>
+    <w POS="N">care</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">uses</w>
+    <w POS="PRO">it</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">delicate</w>
+    <w POS="N">tenderness</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">cares</w>
+    <w POS="P">for</w>
+    <w POS="PRO">it</w>
+    <w POS="P">in</w>
+    <w POS="Q">all</w>
+    <w POS="NS">contingencies</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">watches</w>
+    <w POS="TO">to</w>
+    <w POS="VB">keep</w>
+    <w POS="PRO">it</w>
+    <w POS="P">from</w>
+    <w POS="Q">all</w>
+    <w POS="NS">evils</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">studies</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="P">for</w>
+    <w POS="PRO">it</w>
+    <w POS="ADJ">fair</w>
+    <w POS="NS">provisions</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">very</w>
+    <w POS="ADV">often</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">led</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">inclinations</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">desires</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="DOP">does</w>
+    <w POS="ADV">never</w>
+    <w POS="VB">contradict</w>
+    <w POS="PRO$">its</w>
+    <w POS="NS">appetites</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="P">when</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">evil</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">then</w>
+    <w POS="ALSO">also</w>
+    <w POS="NEG">not</w>
+    <w POS="P">without</w>
+    <w POS="Q">some</w>
+    <w POS="N">trouble</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">sorrow</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">its</w>
+    <w POS="N">Government</w>
+    <w POS="VBP">comes</w>
+    <w POS="FP">only</w>
+    <w POS="P">to</w>
+    <w POS="D">this</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="VBP">furnishes</w>
+    <w POS="D">the</w>
+    <w POS="N">body</w>
+    <w POS="P">with</w>
+    <w POS="N">light</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">understanding</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">body</w>
+    <w POS="VBP">furnishes</w>
+    <w POS="D">the</w>
+    <w POS="N">soul</w>
+    <w POS="P">with</w>
+    <w POS="NS">hands</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">feet</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="N">Soul</w>
+    <w POS="VBP">governs</w>
+    <w POS=",">,</w>
+    <w POS="P+N">because</w>
+    <w POS="D">the</w>
+    <w POS="N">body</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="ADV">else</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">happy</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="N">government</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="OTHER">other</w>
+    <w POS="P">than</w>
+    <w POS="N">provision</w>
+    <w POS=",">;</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N">Nurse</w>
+    <w POS="VBP">governs</w>
+    <w POS="D">a</w>
+    <w POS="N">Child</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="VBP">causes</w>
+    <w POS="PRO">him</w>
+    <w POS="TO">to</w>
+    <w POS="VB">eat</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">warm</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">dry</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">quiet</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="FP">even</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">very</w>
+    <w POS="N">government</w>
+    <w POS="PRO+N">itself</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">divided</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="N">Man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Wife</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">family</w>
+    <w POS=",">,</w>
+    <w POS="BEP">are</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Sun</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Moon</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">firmament</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Heaven</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">He</w>
+    <w POS="VBP">rules</w>
+    <w POS="P">by</w>
+    <w POS="N">Day</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">she</w>
+    <w POS="P">by</w>
+    <w POS="N">Night</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">lesser</w>
+    <w POS="CONJ">and</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">proper</w>
+    <w POS="NS">Circles</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">affairs</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">conduct</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">domestick</w>
+    <w POS="NS">provisions</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">necessary</w>
+    <w POS="NS">offices</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">shines</w>
+    <w POS="FP">only</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">light</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">rules</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">authority</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">Moon</w>
+    <w POS="P">in</w>
+    <w POS="N">opposition</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">Sun</w>
+    <w POS="VBP">shines</w>
+    <w POS="ADVS">brightest</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="ADV">then</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">her</w>
+    <w POS="ADJ">own</w>
+    <w POS="NS">circles</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">separate</w>
+    <w POS="NS">regions</w>
+    <w POS=",">;</w>
+    <w POS="ADV">so</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">authority</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS="ADV">then</w>
+    <w POS="QS">most</w>
+    <w POS="ADJ">conspicuous</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">separate</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">her</w>
+    <w POS="ADJ">proper</w>
+    <w POS="N">Sphere</w>
+    <w POS=",">;</w>
+    <w POS="FW">in</w>
+    <w POS="FW">Gynaeceo</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">nursery</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">offices</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">domestick</w>
+    <w POS="N">employment</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="N">conjunction</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="N">Sun</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">Brother</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">that</w>
+    <w POS="N">place</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">employment</w>
+    <w POS="P">in</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">care</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">proper</w>
+    <w POS="NS">offices</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">employed</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">light</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="VAN">seen</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO$">her</w>
+    <w POS="N">authority</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q">no</w>
+    <w POS="ADJ">proper</w>
+    <w POS="N">business</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">else</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="N">difference</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">they</w>
+    <w POS="BED">were</w>
+    <w POS="ADJ">barbarous</w>
+    <w POS="NS">people</w>
+    <w POS=",">,</w>
+    <w POS="P">among</w>
+    <w POS="WPRO">whom</w>
+    <w POS="NS">wives</w>
+    <w POS="BED">were</w>
+    <w POS="P+N">instead</w>
+    <w POS="P">of</w>
+    <w POS="NS">servants</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Spartianus</w>
+    <w POS="P">in</w>
+    <w POS="NPR">Caracalla</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">sign</w>
+    <w POS="P">of</w>
+    <w POS="N">impotency</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">weakness</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">force</w>
+    <w POS="D">the</w>
+    <w POS="NS">Camels</w>
+    <w POS="TO">to</w>
+    <w POS="VB">kneel</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">Load</w>
+    <w POS=",">,</w>
+    <w POS="P+N">because</w>
+    <w POS="PRO">thou</w>
+    <w POS="HVP">hast</w>
+    <w POS="NEG">not</w>
+    <w POS="N">spirit</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">strength</w>
+    <w POS="ADJR">enough</w>
+    <w POS="TO">to</w>
+    <w POS="VB">climb</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">make</w>
+    <w POS="D">the</w>
+    <w POS="NS">affections</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">evenness</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">wife</w>
+    <w POS="VB">bend</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">flexures</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">servant</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">sign</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">wise</w>
+    <w POS="ADVR">enough</w>
+    <w POS="TO">to</w>
+    <w POS="VB">govern</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="D+OTHER">another</w>
+    <w POS="VBP">stands</w>
+    <w POS="RP">by</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADVR">So</w>
+    <w POS="Q">many</w>
+    <w POS="NS">differences</w>
+    <w POS="P">as</w>
+    <w POS="MD">can</w>
+    <w POS="BE">be</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="NS">appellatives</w>
+    <w POS="P">of</w>
+    <w POS="FW">Dominus</w>
+    <w POS="CONJ">and</w>
+    <w POS="FW">Domina</w>
+    <w POS=",">,</w>
+    <w POS="N">Governour</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Governess</w>
+    <w POS=",">,</w>
+    <w POS="N">Lord</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Lady</w>
+    <w POS=",">,</w>
+    <w POS="N">Master</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Mistress</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">difference</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">authority</w>
+    <w POS="P">of</w>
+    <w POS="N">man</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">woman</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">no</w>
+    <w POS="QR">more</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Si</w>
+    <w POS="FW">tu</w>
+    <w POS="FW">Caius</w>
+    <w POS=",">,</w>
+    <w POS="FW">ego</w>
+    <w POS="FW">Caia</w>
+    <w POS=",">,</w>
+    <w POS="BED">was</w>
+    <w POS="ADV">publickly</w>
+    <w POS="VAN">proclaimed</w>
+    <w POS="P">upon</w>
+    <w POS="D">the</w>
+    <w POS="N">threshold</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">young</w>
+    <w POS="N$">mans</w>
+    <w POS="N">house</w>
+    <w POS=",">,</w>
+    <w POS="P">when</w>
+    <w POS="D">the</w>
+    <w POS="N">bride</w>
+    <w POS="VBD">enter'd</w>
+    <w POS="P">into</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">hands</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">power</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">title</w>
+    <w POS="P">of</w>
+    <w POS="FW">Domina</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">sense</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Civil</w>
+    <w POS="N">Law</w>
+    <w POS=",">,</w>
+    <w POS="BED">was</w>
+    <w POS="P">among</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Romans</w>
+    <w POS="VAN">given</w>
+    <w POS="P">to</w>
+    <w POS="NS">Wives</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Hi</w>
+    <w POS="FW">Dominam</w>
+    <w POS="FW">Ditis</w>
+    <w POS="FW">thalamo</w>
+    <w POS="FW">deducere</w>
+    <w POS="FW">adorti</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="NPR">Virgil</w>
+    <w POS=",">:</w>
+    <w POS="WADV">where</w>
+    <w POS=",">,</w>
+    <w POS="P">though</w>
+    <w POS="NPR">Servius</w>
+    <w POS="VBP">says</w>
+    <w POS="PRO">it</w>
+    <w POS="BED">was</w>
+    <w POS="VAN">spoken</w>
+    <w POS="P">after</w>
+    <w POS="D">the</w>
+    <w POS="N">manner</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Greeks</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="VBD">call'd</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS=",">,</w>
+    <w POS="N">Lady</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">Mistress</w>
+    <w POS=",">,</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">it</w>
+    <w POS="BED">was</w>
+    <w POS="ADV">so</w>
+    <w POS="P">amongst</w>
+    <w POS="Q">both</w>
+    <w POS="D">the</w>
+    <w POS="NS">Nations</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Ac</w>
+    <w POS="FW">domum</w>
+    <w POS="FW">Dominam</w>
+    <w POS="FW">voca</w>
+    <w POS=",">,</w>
+    <w POS="VBP">says</w>
+    <w POS="NPR">Catullus</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Haerebit</w>
+    <w POS="FW">Dominae</w>
+    <w POS="FW">vir</w>
+    <w POS="FW">comes</w>
+    <w POS="FW">ipse</w>
+    <w POS="FW">suae</w>
+    <w POS=",">,</w>
+    <w POS="ADV">so</w>
+    <w POS="NPR">Martial</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="P">although</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">just</w>
+    <w POS="N">measure</w>
+    <w POS="P">of</w>
+    <w POS="N">Subjection</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Obedience</w>
+    <w POS="ADJ">due</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">Husband</w>
+    <w POS="P">as</w>
+    <w POS="PRO">I</w>
+    <w POS="MD">shall</w>
+    <w POS="ADV">after</w>
+    <w POS="VB">explain</w>
+    <w POS="ADV">yet</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">of</w>
+    <w POS="D">this</w>
+    <w POS="VAN">expressed</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N$">mans</w>
+    <w POS="N">Character</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Duty</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="VAN">commanded</w>
+    <w POS="TO">to</w>
+    <w POS="VB">rule</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="VAN">instructed</w>
+    <w POS="WADV">how</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="VAN">bidden</w>
+    <w POS="P">to</w>
+    <w POS="ADJ">exact</w>
+    <w POS="N">obedience</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="TO">to</w>
+    <w POS="VB">defend</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">priviledge</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="Q">all</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Duty</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">signified</w>
+    <w POS="P">by</w>
+    <w POS="N">Love</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="VAG">nourishing</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAG">cherishing</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="BAG">being</w>
+    <w POS="VAN">joyned</w>
+    <w POS="P">with</w>
+    <w POS="PRO">her</w>
+    <w POS="P">in</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">unions</w>
+    <w POS="P">of</w>
+    <w POS="N">charity</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="NEG">not</w>
+    <w POS="BAG">being</w>
+    <w POS="ADJ">bitter</w>
+    <w POS="P">to</w>
+    <w POS="PRO">her</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="VAG">dwelling</w>
+    <w POS="P">with</w>
+    <w POS="PRO">her</w>
+    <w POS="VAG">according</w>
+    <w POS="P">to</w>
+    <w POS="N">knowledge</w>
+    <w POS=",">,</w>
+    <w POS="VAG">giving</w>
+    <w POS="N">honour</w>
+    <w POS="P">to</w>
+    <w POS="PRO">her</w>
+    <w POS=",">:</w>
+    <w POS="P">so</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">seems</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="P">with</w>
+    <w POS="NS">Husbands</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="P">with</w>
+    <w POS="NS">Bishops</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Priests</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="WPRO">whom</w>
+    <w POS="Q">much</w>
+    <w POS="N">honour</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">due</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">yet</w>
+    <w POS="ADVR">so</w>
+    <w POS="C">that</w>
+    <w POS="P">if</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">stand</w>
+    <w POS="P">upon</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">challenge</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">become</w>
+    <w POS="QR">less</w>
+    <w POS="ADJ">honourable</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">as</w>
+    <w POS="P">amongst</w>
+    <w POS="NS">men</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">women</w>
+    <w POS="N">humility</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">way</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">preferr'd</w>
+    <w POS=",">;</w>
+    <w POS="ADV">so</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="NS">Husbands</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">they</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">prevail</w>
+    <w POS="P">by</w>
+    <w POS="N">cession</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="N">sweetness</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">counsel</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">charity</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">compliance</w>
+    <w POS=",">.</w>
+    <w POS="P">So</w>
+    <w POS="C">that</w>
+    <w POS="PRO">we</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="VB">discourse</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N$">mans</w>
+    <w POS="N">right</w>
+    <w POS=",">,</w>
+    <w POS="P">without</w>
+    <w POS="VAG">describing</w>
+    <w POS="D">the</w>
+    <w POS="NS">measures</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">duty</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">that</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="VBP">follows</w>
+    <w POS="ADVS">next</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Let</w>
+    <w POS="PRO">him</w>
+    <w POS="VB">love</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS="FP">even</w>
+    <w POS="P">as</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="D">$That</w>
+    <w POS="BEP">$'s</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Duty</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">measure</w>
+    <w POS="P">of</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">too</w>
+    <w POS=",">:</w>
+    <w POS="WPRO">which</w>
+    <w POS="BEP">is</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">plain</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="P">if</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">understands</w>
+    <w POS="WADV">how</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">treats</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="MD">needs</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">added</w>
+    <w POS="VAG">concerning</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">demeanour</w>
+    <w POS="P">towards</w>
+    <w POS="PRO">her</w>
+    <w POS=",">,</w>
+    <w POS="P">save</w>
+    <w POS="FP">only</w>
+    <w POS="C">that</w>
+    <w POS="PRO">we</w>
+    <w POS="VBP">add</w>
+    <w POS="D">the</w>
+    <w POS="NS">particulars</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="WPRO">which</w>
+    <w POS="ADJ">holy</w>
+    <w POS="NPR">Scripture</w>
+    <w POS="VBP">instances</w>
+    <w POS="D">this</w>
+    <w POS="ADJ">general</w>
+    <w POS="N">Commandment</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">$That</w>
+    <w POS="BEP">$'s</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">first</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="BEI">Be</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">bitter</w>
+    <w POS="P">against</w>
+    <w POS="PRO">her</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="QS">least</w>
+    <w POS="N">Index</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">signification</w>
+    <w POS="P">of</w>
+    <w POS="N">Love</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">a</w>
+    <w POS="ADJ">Civil</w>
+    <w POS="N">man</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">never</w>
+    <w POS="ADJ">bitter</w>
+    <w POS="P">against</w>
+    <w POS="D">a</w>
+    <w POS="N">Friend</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">Stranger</w>
+    <w POS=",">,</w>
+    <w POS="Q">much</w>
+    <w POS="QR">less</w>
+    <w POS="P">to</w>
+    <w POS="PRO">him</w>
+    <w POS="C">that</w>
+    <w POS="VBP">enters</w>
+    <w POS="P">under</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Roof</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">secured</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">Laws</w>
+    <w POS="P">of</w>
+    <w POS="N">Hospitality</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="D">a</w>
+    <w POS="N">Wife</w>
+    <w POS="DOP">does</w>
+    <w POS="Q">all</w>
+    <w POS="D">that</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="QR">more</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="VBP">quits</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">interest</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">love</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="VBP">gives</w>
+    <w POS="PRO">him</w>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="PRO">she</w>
+    <w POS="MD">can</w>
+    <w POS="VB">give</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">much</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">person</w>
+    <w POS="P">as</w>
+    <w POS="D+OTHER">another</w>
+    <w POS="MD">can</w>
+    <w POS="BE">be</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">conjoyned</w>
+    <w POS="P">by</w>
+    <w POS="N">love</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">mystery</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">religion</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">sacred</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">profane</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Non</w>
+    <w POS="FW">equidem</w>
+    <w POS="FW">hoc</w>
+    <w POS="FW">dubites</w>
+    <w POS="FW">amborum</w>
+    <w POS="FW">foedere</w>
+    <w POS="FW">certo</w>
+    <w POS="FW">Consentire</w>
+    <w POS="FW">dies</w>
+    <w POS=",">,</w>
+    <w POS="FW">&amp;</w>
+    <w POS="FW">ab</w>
+    <w POS="FW">uno</w>
+    <w POS="FW">sidere</w>
+    <w POS="FW">duci</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">They</w>
+    <w POS="HVP">have</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Fortune</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Family</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="NS">Children</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Religion</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Interest</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">Flesh</w>
+  </line>
+  <line>
+    <w POS="FW">erunt</w>
+    <w POS="FW">duo</w>
+    <w POS="FW">in</w>
+    <w POS="FW">carnem</w>
+    <w POS="FW">unam</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="D">this</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Apostle</w>
+    <w POS="VBP">urges</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">his</w>
+  </line>
+  <line>
+    <w POS="Q">no</w>
+    <w POS="N">man</w>
+    <w POS="VBP">hateth</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">own</w>
+    <w POS="N">flesh</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="VBP">nourisheth</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">cherisheth</w>
+    <w POS="PRO">it</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="ADV">certainly</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">strangely</w>
+    <w POS="ADJ">Sacrilegious</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="N">Violater</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">rights</w>
+    <w POS="P">of</w>
+    <w POS="N">Hospitality</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Sanctuary</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="VBP">uses</w>
+    <w POS="PRO">her</w>
+    <w POS="ADV">rudely</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="BEP">is</w>
+    <w POS="VBN">fled</w>
+    <w POS="P">for</w>
+    <w POS="N">Protection</w>
+    <w POS=",">,</w>
+    <w POS="NEG">not</w>
+    <w POS="FP">only</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">House</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="ALSO">also</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Heart</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Bosome</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="ADJ">wise</w>
+    <w POS="N">man</w>
+    <w POS="MD">will</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">wrangle</w>
+    <w POS="P">with</w>
+    <w POS="Q">any</w>
+    <w POS="ONE">one</w>
+    <w POS=",">,</w>
+    <w POS="Q">much</w>
+    <w POS="QR">less</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJS">dearest</w>
+    <w POS="N">relative</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">accounted</w>
+    <w POS="ADJ">undecent</w>
+    <w POS="TO">to</w>
+    <w POS="VB">Embrace</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">publick</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">extremely</w>
+    <w POS="ADJ">shameful</w>
+    <w POS="TO">to</w>
+    <w POS="VB">Brawle</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">publick</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="PRO+N">itself</w>
+    <w POS="ADJ">lawful</w>
+    <w POS=",">;</w>
+    <w POS="CONJ">but</w>
+    <w POS="D">this</w>
+    <w POS="ADV">never</w>
+    <w POS=",">,</w>
+    <w POS="P">though</w>
+    <w POS="PRO">it</w>
+    <w POS="BED">were</w>
+    <w POS="VAN">assisted</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">best</w>
+    <w POS="NS">circumstances</w>
+    <w POS="P">of</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">capable</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Marcus</w>
+    <w POS="NPR">Aurelius</w>
+    <w POS="VBD">said</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">wise</w>
+    <w POS="N">man</w>
+    <w POS="MD">ought</w>
+    <w POS="ADV">often</w>
+    <w POS="TO">to</w>
+    <w POS="VB">admonish</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">reprove</w>
+    <w POS="PRO">her</w>
+    <w POS="ADV">seldom</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">never</w>
+    <w POS="TO">to</w>
+    <w POS="VB">lay</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">hands</w>
+    <w POS="P">upon</w>
+    <w POS="PRO">her</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="FW">neque</w>
+    <w POS="FW">verberibus</w>
+    <w POS="FW">neque</w>
+    <w POS="FW">maledictis</w>
+    <w POS="FW">exasperandam</w>
+    <w POS="FW">uxorem</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="D">the</w>
+    <w POS="NS">Doctors</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Jews</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Homer</w>
+    <w POS="VBP">brings</w>
+    <w POS="RP">in</w>
+    <w POS="NPR">Jupiter</w>
+    <w POS="Q+NS">sometimes</w>
+    <w POS="VAG">speaking</w>
+    <w POS="ADV">sharply</w>
+    <w POS="P">to</w>
+    <w POS="NPR">Juno</w>
+    <w POS="VAG">according</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">Greek</w>
+    <w POS="N">liberty</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Empire</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="VBD">made</w>
+    <w POS="D">a</w>
+    <w POS="N">pause</w>
+    <w POS="P">at</w>
+    <w POS="VAG">striking</w>
+    <w POS="PRO">her</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">the</w>
+    <w POS="NS">Ancients</w>
+    <w POS="VBD">used</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sacrifice</w>
+    <w POS="P">to</w>
+    <w POS="NPR">Juno</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">the</w>
+    <w POS="N">President</w>
+    <w POS="P">of</w>
+    <w POS="N">Marriage</w>
+    <w POS=",">,</w>
+    <w POS="P">without</w>
+    <w POS="N">gall</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">St.</w>
+    <w POS="NPR">Basil</w>
+    <w POS="VBP">observes</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">urges</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="N">way</w>
+    <w POS="P">of</w>
+    <w POS="VAG">upbraiding</w>
+    <w POS="VAG">quarrelling</w>
+    <w POS="NS">husbands</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Etiam</w>
+    <w POS="FW">vipera</w>
+    <w POS="FW">virus</w>
+    <w POS="FW">ob</w>
+    <w POS="FW">nuptiarum</w>
+    <w POS="FW">venerationem</w>
+    <w POS="FW">evomit</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="N">Viper</w>
+    <w POS="VBP">casts</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">poison</w>
+    <w POS="P">when</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">marries</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">female</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="FW">Tu</w>
+    <w POS="FW">duritiam</w>
+    <w POS="FW">animi</w>
+    <w POS=",">,</w>
+    <w POS="FW">tu</w>
+    <w POS="FW">feritatem</w>
+    <w POS=",">,</w>
+    <w POS="FW">tu</w>
+    <w POS="FW">crudelitatem</w>
+    <w POS="FW">ob</w>
+    <w POS="FW">unionis</w>
+    <w POS="FW">reverentiam</w>
+    <w POS="FW">non</w>
+    <w POS="FW">deponis</w>
+    <w POS=".">?</w>
+  </line>
+  <line>
+    <w POS="PRO">He</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">worse</w>
+    <w POS="P">than</w>
+    <w POS="D">a</w>
+    <w POS="N">Viper</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="N">reverence</w>
+    <w POS="P">of</w>
+    <w POS="D">this</w>
+    <w POS="ADJ">sacred</w>
+    <w POS="N">union</w>
+    <w POS="MD">will</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">abstain</w>
+    <w POS="P">from</w>
+    <w POS="SUCH">such</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">poisonous</w>
+    <w POS="N">bitterness</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="WADV">how</w>
+    <w POS="MD">shall</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">embrace</w>
+    <w POS="D">that</w>
+    <w POS="N">person</w>
+    <w POS="WPRO">whom</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">smitten</w>
+    <w POS="ADV">reproachfully</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">those</w>
+    <w POS="NS">kindnesses</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">undecent</w>
+    <w POS="WPRO">which</w>
+    <w POS="D">the</w>
+    <w POS="VAG+N">fighting-man</w>
+    <w POS="VBP">pays</w>
+    <w POS="P">unto</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Chrysostome</w>
+    <w POS="VAG">preaching</w>
+    <w POS="ADV">earnestly</w>
+    <w POS="P">against</w>
+    <w POS="D">this</w>
+    <w POS="ADJ">barbarous</w>
+    <w POS="N">Inhumanity</w>
+    <w POS="P">of</w>
+    <w POS="VAG">striking</w>
+    <w POS="D">the</w>
+    <w POS="N">Wife</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VAG">reviling</w>
+    <w POS="PRO">her</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">evil</w>
+    <w POS="N">Language</w>
+    <w POS=",">,</w>
+    <w POS="VBP">says</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="P">as</w>
+    <w POS="P">if</w>
+    <w POS="D">a</w>
+    <w POS="N">King</w>
+    <w POS="MD">should</w>
+    <w POS="VB">beat</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Viceroy</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">use</w>
+    <w POS="PRO">him</w>
+    <w POS="ADJ">like</w>
+    <w POS="D">a</w>
+    <w POS="N">Dog</w>
+    <w POS=",">;</w>
+    <w POS="P">from</w>
+    <w POS="WPRO">whom</w>
+    <w POS="QS">most</w>
+    <w POS="P">of</w>
+    <w POS="D">that</w>
+    <w POS="N">Reverence</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Majesty</w>
+    <w POS="MD">must</w>
+    <w POS="N">needs</w>
+    <w POS="VB">depart</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">he</w>
+    <w POS="ADV">first</w>
+    <w POS="VBD">put</w>
+    <w POS="P">upon</w>
+    <w POS="PRO">him</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">subjects</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">pay</w>
+    <w POS="PRO">him</w>
+    <w POS="QR">less</w>
+    <w POS="N">duty</w>
+    <w POS=",">,</w>
+    <w POS="WADV">how</w>
+    <w POS="Q">much</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Prince</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">treated</w>
+    <w POS="PRO">him</w>
+    <w POS="P">with</w>
+    <w POS="QR">less</w>
+    <w POS="N">civility</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="N">loss</w>
+    <w POS="VBP">redounds</w>
+    <w POS="P">to</w>
+    <w POS="PRO+N">himself</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">government</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">whole</w>
+    <w POS="N">family</w>
+    <w POS="MD">shall</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">disordered</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="NS">blows</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">laid</w>
+    <w POS="P">upon</w>
+    <w POS="D">that</w>
+    <w POS="N">shoulder</w>
+    <w POS="WPRO">which</w>
+    <w POS="ADV">together</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="MD">ought</w>
+    <w POS="TO">to</w>
+    <w POS="VB">bear</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">but</w>
+    <w POS="D">the</w>
+    <w POS="NS">cares</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">issues</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">prudent</w>
+    <w POS="N">government</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">observable</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="Q">no</w>
+    <w POS="N">man</w>
+    <w POS="ADV">ever</w>
+    <w POS="DOD">did</w>
+    <w POS="D">this</w>
+    <w POS="N">rudeness</w>
+    <w POS="P">for</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">vertuous</w>
+    <w POS="N">end</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">incompetent</w>
+    <w POS="N">instrument</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">may</w>
+    <w POS="VB">proceed</w>
+    <w POS="P">from</w>
+    <w POS="N">wrath</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">folly</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="MD">can</w>
+    <w POS="ADV">never</w>
+    <w POS="VB">end</w>
+    <w POS="P">in</w>
+    <w POS="N">vertue</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">unions</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">prudent</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">fair</w>
+    <w POS="N">society</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Quod</w>
+    <w POS="FW">si</w>
+    <w POS="FW">verberaveris</w>
+    <w POS=",">,</w>
+    <w POS="FW">exasperabis</w>
+    <w POS="FW">morbum</w>
+    <w POS=",">:</w>
+    <w POS="VBP">saith</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Chrysostome</w>
+    <w POS=",">;</w>
+  </line>
+  <line>
+    <w POS="FW">asperitas</w>
+    <w POS="FW">enim</w>
+    <w POS="FW">mansuetudine</w>
+    <w POS=",">,</w>
+    <w POS="FW">non</w>
+    <w POS="FW">alia</w>
+    <w POS="FW">asperitate</w>
+    <w POS=",">,</w>
+    <w POS="FW">dissolvitur</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="P">if</w>
+    <w POS="PRO">you</w>
+    <w POS="VBP">strike</w>
+    <w POS=",">,</w>
+    <w POS="PRO">you</w>
+    <w POS="VBP">exasperate</w>
+    <w POS="D">the</w>
+    <w POS="NPR">Wound</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">like</w>
+    <w POS="NPR">Cato</w>
+    <w POS="P">at</w>
+    <w POS="NPR">Utica</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">despair</w>
+    <w POS="VBP">tear</w>
+    <w POS="D">the</w>
+    <w POS="NS">Wounds</w>
+    <w POS="P">in</w>
+    <w POS="NS">pieces</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="DOD">did</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADV">ill</w>
+    <w POS="P">to</w>
+    <w POS="PRO+N">himself</w>
+    <w POS="WPRO">whom</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">lov'd</w>
+    <w POS="ADV">well</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">lov'd</w>
+    <w POS="NEG">not</w>
+    <w POS="NS">women</w>
+    <w POS="ADV">tenderly</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="MD">would</w>
+    <w POS="ADV">never</w>
+    <w POS="VB">strike</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">man</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="VB">endure</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">talking</w>
+    <w POS=",">,</w>
+    <w POS="WADV">how</w>
+    <w POS="MD">can</w>
+    <w POS="PRO">she</w>
+    <w POS="VB">endure</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">striking</w>
+    <w POS=".">?</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="D">this</w>
+    <w POS="N">Caution</w>
+    <w POS="VBP">contains</w>
+    <w POS="D">a</w>
+    <w POS="N">Duty</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS="WPRO">which</w>
+    <w POS="Q">none</w>
+    <w POS="VBP">prevaricates</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">meanest</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">people</w>
+    <w POS=",">,</w>
+    <w POS="NS">Fools</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Bedlams</w>
+    <w POS=",">,</w>
+    <w POS="WPRO$">whose</w>
+    <w POS="N">kindness</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">Curse</w>
+    <w POS=",">,</w>
+    <w POS="WPRO$">whose</w>
+    <w POS="N">government</w>
+    <w POS="BEP">is</w>
+    <w POS="P">by</w>
+    <w POS="N">chance</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Violence</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">families</w>
+    <w POS="BEP">are</w>
+    <w POS="NS">Herds</w>
+    <w POS="P">of</w>
+    <w POS="VAG">talking</w>
+    <w POS="N">Cattel</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="FW">Sic</w>
+    <w POS="FW">alternos</w>
+    <w POS="FW">reficit</w>
+    <w POS="FW">cursus</w>
+    <w POS="FW">Alternus</w>
+    <w POS="FW">Amor</w>
+    <w POS=",">,</w>
+    <w POS="FW">sic</w>
+    <w POS="FW">astrigeris</w>
+    <w POS="FW">Bellum</w>
+    <w POS="FW">discors</w>
+    <w POS="FW">exulat</w>
+    <w POS="FW">oris</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="FW">Haec</w>
+    <w POS="FW">concordia</w>
+    <w POS="FW">temperat</w>
+    <w POS="FW">aequis</w>
+    <w POS="FW">Elementa</w>
+    <w POS="FW">modis</w>
+    <w POS=",">,</w>
+    <w POS="FW">ut</w>
+    <w POS="FW">pugnantia</w>
+    <w POS="FW">Vicibus</w>
+    <w POS="FW">cedant</w>
+    <w POS="FW">humida</w>
+    <w POS="FW">siccis</w>
+    <w POS=",">,</w>
+    <w POS="FW">Jungantque</w>
+    <w POS="FW">fidem</w>
+    <w POS="FW">frigora</w>
+    <w POS="FW">flammis</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">Marital</w>
+    <w POS="N">Love</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">infinitely</w>
+    <w POS="VAN">removed</w>
+    <w POS="P">from</w>
+    <w POS="Q">all</w>
+    <w POS="N">possibility</w>
+    <w POS="P">of</w>
+    <w POS="SUCH">such</w>
+    <w POS="NS">rudenesses</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">thing</w>
+    <w POS="ADJ">pure</w>
+    <w POS="P">as</w>
+    <w POS="N">Light</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">sacred</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N">Temple</w>
+    <w POS=",">,</w>
+    <w POS="VAG">lasting</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">World</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="FW">Amicitia</w>
+    <w POS=",">,</w>
+    <w POS="FW">quae</w>
+    <w POS="FW">desinere</w>
+    <w POS="FW">potuit</w>
+    <w POS=",">,</w>
+    <w POS="FW">nunquam</w>
+    <w POS="FW">vera</w>
+    <w POS="FW">fuit</w>
+    <w POS=",">,</w>
+    <w POS="VBD">said</w>
+    <w POS="ONE">one</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">that</w>
+    <w POS="N">love</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="MD">can</w>
+    <w POS="VB">cease</w>
+    <w POS=",">,</w>
+    <w POS="BED">was</w>
+    <w POS="ADV">never</w>
+    <w POS="ADJ">true</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+  </line>
+  <line>
+    <w POS="ADV">so</w>
+    <w POS="NPR">Moses</w>
+    <w POS="VBD">call'd</w>
+    <w POS="PRO">it</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+  </line>
+  <line>
+    <w POS="ADV">so</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Paul</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+  </line>
+  <line>
+    <w POS="ADV">so</w>
+    <w POS="NPR">Homer</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+  </line>
+  <line>
+    <w POS="ADV">so</w>
+    <w POS="NPR">Plutarch</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">contains</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS="Q">all</w>
+    <w POS="N">sweetness</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="N">society</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">felicity</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="N">prudence</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="N">wisdom</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="MD">can</w>
+    <w POS="VB">please</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="P">without</w>
+    <w POS="N">Love</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">weary</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">wise</w>
+    <w POS="NS">discourses</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NPRS">Apostles</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">innocency</w>
+    <w POS="P">of</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">even</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">private</w>
+    <w POS="N">Fortune</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBP">hates</w>
+    <w POS="N">peace</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">fruitful</w>
+    <w POS="N">Year</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">reaped</w>
+    <w POS="NS">Thorns</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Thistles</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">choicest</w>
+    <w POS="NS">Flowers</w>
+    <w POS="P">of</w>
+    <w POS="N">Paradise</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="MD">can</w>
+    <w POS="VB">sweeten</w>
+    <w POS="N">felicity</w>
+    <w POS="PRO+N">itself</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="N">Love</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">when</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="VBP">dwells</w>
+    <w POS="P">in</w>
+    <w POS="N">love</w>
+    <w POS=",">,</w>
+    <w POS="ADV">then</w>
+    <w POS="D">the</w>
+    <w POS="NS">Breasts</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">pleasant</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="NS">droppings</w>
+    <w POS="P">upon</w>
+    <w POS="D">the</w>
+    <w POS="N">hill</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Hermon</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Eyes</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">fair</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">light</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Heaven</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO">she</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">Fountain</w>
+    <w POS="VAN">sealed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS="VB">quench</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">thirst</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">ease</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">cares</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">lay</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">sorrow</w>
+    <w POS="RP">down</w>
+    <w POS="P">upon</w>
+    <w POS="PRO$">her</w>
+    <w POS="N">lap</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">can</w>
+    <w POS="VB">retire</w>
+    <w POS="N">home</w>
+    <w POS="P">as</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">sanctuary</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">refectory</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">gardens</w>
+    <w POS="P">of</w>
+    <w POS="N">sweetness</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">chast</w>
+    <w POS="NS">refreshments</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="Q">No</w>
+    <w POS="N">man</w>
+    <w POS="MD">can</w>
+    <w POS="VB">tell</w>
+    <w POS="P">but</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="VBP">loves</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">children</w>
+    <w POS=",">,</w>
+    <w POS="WADV">how</w>
+    <w POS="Q">many</w>
+    <w POS="ADJ">delicious</w>
+    <w POS="NS">accents</w>
+    <w POS="VBP">make</w>
+    <w POS="D">a</w>
+    <w POS="N$">mans</w>
+    <w POS="N">heart</w>
+    <w POS="VB">dance</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">pretty</w>
+    <w POS="N">conversation</w>
+    <w POS="P">of</w>
+    <w POS="D">those</w>
+    <w POS="ADJ">dear</w>
+    <w POS="NS">pledges</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO$">their</w>
+    <w POS="N">childishness</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">stammering</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">angers</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">innocence</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">imperfections</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">necessities</w>
+    <w POS="BEP">are</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">many</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">emanations</w>
+    <w POS="P">of</w>
+    <w POS="N">joy</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">comfort</w>
+    <w POS="P">to</w>
+    <w POS="PRO">him</w>
+    <w POS="C">that</w>
+    <w POS="VBP">delights</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">persons</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">society</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="VBP">loves</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Children</w>
+    <w POS=",">,</w>
+    <w POS="VBP">feeds</w>
+    <w POS="D">a</w>
+    <w POS="N">Lioness</w>
+    <w POS="P">at</w>
+    <w POS="N">home</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">broods</w>
+    <w POS="D">a</w>
+    <w POS="N">nest</w>
+    <w POS="P">of</w>
+    <w POS="NS">Sorrows</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="N">Blessing</w>
+    <w POS="PRO+N">itself</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="VB">make</w>
+    <w POS="PRO">him</w>
+    <w POS="ADJ">Happy</w>
+    <w POS=",">;</w>
+    <w POS="P">so</w>
+    <w POS="C">that</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">Commandments</w>
+    <w POS="P">of</w>
+    <w POS="NPR">God</w>
+    <w POS="VAG">injoyning</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="TO">to</w>
+    <w POS="VB">love</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wife</w>
+    <w POS=",">,</w>
+    <w POS="BEP">are</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">but</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">many</w>
+    <w POS="NS">Necessities</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Capacities</w>
+    <w POS="P">of</w>
+    <w POS="N">joy</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">She</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">lov'd</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">safe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="VBP">loves</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">joyful</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Love</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">union</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="NS">things</w>
+    <w POS="ADJ">excellent</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="PRO">it</w>
+    <w POS="VBP">contains</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="N">Proportion</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Satisfaction</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Rest</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">Confidence</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">wish</w>
+    <w POS="C">that</w>
+    <w POS="D">this</w>
+    <w POS="BED">were</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">much</w>
+    <w POS="VAN">proceeded</w>
+    <w POS="P">in</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="NS">Heathen</w>
+    <w POS="PRO+N">themselves</w>
+    <w POS="MD">could</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">go</w>
+    <w POS="P">beyond</w>
+    <w POS="PRO">us</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="N">Vertue</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">its</w>
+    <w POS="ADJ">proper</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO$">its</w>
+    <w POS="ADJ">appendant</w>
+    <w POS="N">happiness</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Tiberius</w>
+    <w POS="NPR">Gracchus</w>
+    <w POS="VBD">chose</w>
+    <w POS="TO">to</w>
+    <w POS="VB">die</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="N">safety</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">$me</w>
+    <w POS="VBP">$thinks</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="NPR">Christian</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS="ADV">so</w>
+    <w POS=",">,</w>
+    <w POS="MD">should</w>
+    <w POS="BE">be</w>
+    <w POS="Q">no</w>
+    <w POS="ADJ">hard</w>
+    <w POS="N">thing</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="Q">many</w>
+    <w POS="NS">Servants</w>
+    <w POS="MD">will</w>
+    <w POS="VB">die</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">their</w>
+    <w POS="NS">Masters</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">many</w>
+    <w POS="ADJ+NS">Gentlemen</w>
+    <w POS="MD">will</w>
+    <w POS="VB">die</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">Friend</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="D">the</w>
+    <w POS="NS">Examples</w>
+    <w POS="BEP">are</w>
+    <w POS="NEG">not</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">many</w>
+    <w POS="P">of</w>
+    <w POS="D">those</w>
+    <w POS="C">that</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">ready</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS="PRO">it</w>
+    <w POS="P">for</w>
+    <w POS="PRO$">their</w>
+    <w POS="ADJS">dearest</w>
+    <w POS="NS">Relatives</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="Q">some</w>
+    <w POS="EX">there</w>
+    <w POS="HVP">have</w>
+    <w POS="BEN">been</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NPR">Baptista</w>
+    <w POS="NPR">Fregosa</w>
+    <w POS="VBP">tells</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="NPR">Neapolitan</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="VBD">gave</w>
+    <w POS="PRO+N">himself</w>
+    <w POS="D">a</w>
+    <w POS="N">slave</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">Moors</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">might</w>
+    <w POS="VB">follow</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Wife</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Dominicus</w>
+    <w POS="NPR">Catalusius</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">Prince</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Lesbos</w>
+    <w POS=",">,</w>
+    <w POS="VBD">kept</w>
+    <w POS="N">company</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">Lady</w>
+    <w POS="P">when</w>
+    <w POS="PRO">she</w>
+    <w POS="BED">was</w>
+    <w POS="D">a</w>
+    <w POS="N">Leper</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">these</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJR">greater</w>
+    <w POS="NS">things</w>
+    <w POS="P">than</w>
+    <w POS="TO">to</w>
+    <w POS="VB">die</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="D">the</w>
+    <w POS="NS">Cases</w>
+    <w POS="P">in</w>
+    <w POS="WPRO">which</w>
+    <w POS="D">this</w>
+    <w POS="MD">can</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">required</w>
+    <w POS="BEP">are</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">rare</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">contingent</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="ADJ">holy</w>
+    <w POS="NPR">Scripture</w>
+    <w POS="VBP">instances</w>
+    <w POS="NEG">not</w>
+    <w POS="D">the</w>
+    <w POS="N">duty</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="N">particular</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">contains</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">Husband</w>
+    <w POS="MD">should</w>
+    <w POS="VB">nourish</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">cherish</w>
+    <w POS="PRO">her</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">should</w>
+    <w POS="VB">refresh</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">sorrows</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">intice</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">fears</w>
+    <w POS="P">into</w>
+    <w POS="N">confidence</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">pretty</w>
+    <w POS="NS">arts</w>
+    <w POS="P">of</w>
+    <w POS="N">rest</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="FP">even</w>
+    <w POS="D">the</w>
+    <w POS="N+NS">Fig-trees</w>
+    <w POS="C">that</w>
+    <w POS="VBD">grew</w>
+    <w POS="P">in</w>
+    <w POS="N">Paradise</w>
+    <w POS="HVD">had</w>
+    <w POS="ADJ">sharp</w>
+    <w POS="VAN">pointed</w>
+    <w POS="NS">Leaves</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Harshnesses</w>
+    <w POS="ADJ">fit</w>
+    <w POS="TO">to</w>
+    <w POS="VB">mortifie</w>
+    <w POS="D">the</w>
+    <w POS="ADVR">too</w>
+    <w POS="ADJ">forward</w>
+    <w POS="VAG">lusting</w>
+    <w POS="P">after</w>
+    <w POS="D">the</w>
+    <w POS="N">Sweetness</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">Fruit</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">will</w>
+    <w POS="VB">concern</w>
+    <w POS="D">the</w>
+    <w POS="N">Prudence</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N$">Husbands</w>
+    <w POS="N">love</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="D">the</w>
+    <w POS="NS">Cares</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Evils</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">simple</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">easie</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="VAG">doubling</w>
+    <w POS="D">the</w>
+    <w POS="NS">Joys</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">Acts</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">careful</w>
+    <w POS="N">friendship</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="VAG">tolerating</w>
+    <w POS="PRO$">her</w>
+    <w POS="NS">Infirmities</w>
+    <w POS=",">,</w>
+    <w POS="P+N">because</w>
+    <w POS="P">by</w>
+    <w POS="ADV">so</w>
+    <w POS="VAG">doing</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="CONJ">either</w>
+    <w POS="VBP">cures</w>
+    <w POS="PRO">her</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBP">makes</w>
+    <w POS="PRO+N">himself</w>
+    <w POS="ADJR">better</w>
+    <w POS="P">by</w>
+    <w POS="ADV">fairly</w>
+    <w POS="VAG">expounding</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">little</w>
+    <w POS="NS">traverses</w>
+    <w POS="P">of</w>
+    <w POS="N">society</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">communication</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="VAG">taking</w>
+    <w POS="Q">every</w>
+    <w POS="N">thing</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">right</w>
+    <w POS="N">handle</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="NPR$">Plutarch's</w>
+    <w POS="N">expression</w>
+    <w POS="BEP">is</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q+N">nothing</w>
+    <w POS="P">but</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">mis-interpreted</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">capable</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">fair</w>
+    <w POS="N">construction</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">Office</w>
+    <w POS="P">of</w>
+    <w POS="N">Love</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="PRO">it</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Love</w>
+    <w POS="MD">will</w>
+    <w POS="VB">account</w>
+    <w POS="D">that</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">said</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">which</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="BED">was</w>
+    <w POS="NEG">not</w>
+    <w POS="ADV">so</w>
+    <w POS="VAN">intended</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">then</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">may</w>
+    <w POS="VB">cause</w>
+    <w POS="PRO">it</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">so</w>
+    <w POS=",">,</w>
+    <w POS="D+OTHER">another</w>
+    <w POS="N">time</w>
+    <w POS=".">.</w>
+  </line>
+</doc>

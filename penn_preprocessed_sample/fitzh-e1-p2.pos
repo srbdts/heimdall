@@ -1,0 +1,7119 @@
+<doc>
+  <line>
+    <w POS="NUM">l6</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">falowe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="D">these</w>
+    <w POS="NS">housbandes</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">sowen</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">pees</w>
+    <w POS=",">,</w>
+    <w POS="NS">beanes</w>
+    <w POS=",">,</w>
+    <w POS="N">barley</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">otes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">harowed</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">beste</w>
+    <w POS="N">tyme</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">falowe</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">later</w>
+    <w POS="N">ende</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Marche</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Apryll</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="N">whete</w>
+    <w POS=",">,</w>
+    <w POS="N">rye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">barley</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="VBI">lette</w>
+    <w POS="D">the</w>
+    <w POS="N">husbande</w>
+    <w POS="DO">do</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">beste</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">plowe</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">brode</w>
+    <w POS="N">forowe</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">depe</w>
+    <w POS=",">,</w>
+    <w POS="P">soo</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">turne</w>
+    <w POS="PRO">it</w>
+    <w POS="ADJ">cleane</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">lay</w>
+    <w POS="PRO">it</w>
+    <w POS="ADJ">flat</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">rere</w>
+    <w POS="NEG">not</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="N">edge</w>
+    <w POS=",">:</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">destroy</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="NS">thistils</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">wedes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">deper</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">broder</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">gothe</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="QR">more</w>
+    <w POS="ADJ">newe</w>
+    <w POS="N">molde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">greatter</w>
+    <w POS="NS">clottes</w>
+    <w POS="MD">shall</w>
+    <w POS="PRO">he</w>
+    <w POS="HV">haue</w>
+    <w POS=",">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">greatter</w>
+    <w POS="NS">clottes</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">better</w>
+    <w POS="N">wheate</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="D">the</w>
+    <w POS="NS">clottes</w>
+    <w POS="VBP">kepe</w>
+    <w POS="D">the</w>
+    <w POS="N">wheate</w>
+    <w POS="ADJ">warme</w>
+    <w POS="Q">all</w>
+    <w POS="N">wynter</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">at</w>
+    <w POS="NPR">Marche</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">melte</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">breake</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">fal</w>
+    <w POS="P">in</w>
+    <w POS="Q">manye</w>
+    <w POS="ADJ">small</w>
+    <w POS="NS">peces</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">newe</w>
+    <w POS="N">dongynge</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">refresshynge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ALSO">also</w>
+    <w POS="EX">there</w>
+    <w POS="MD">shall</w>
+    <w POS="FP">but</w>
+    <w POS="Q">lyttell</w>
+    <w POS="NS">wedes</w>
+    <w POS="VB">growe</w>
+    <w POS="P">vpon</w>
+    <w POS="D">the</w>
+    <w POS="NS">falowes</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BEP">are</w>
+    <w POS="ADV">so</w>
+    <w POS="VAN">falowed</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="D">the</w>
+    <w POS="N">plough</w>
+    <w POS="VBP">goth</w>
+    <w POS="P">vndernethe</w>
+    <w POS="D">the</w>
+    <w POS="NS">rootes</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="NS">wedes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">tourneth</w>
+    <w POS="D">the</w>
+    <w POS="N">roote</w>
+    <w POS="RP+WARD">vpwarde</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">maye</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">growe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">yf</w>
+    <w POS="D">the</w>
+    <w POS="N">lande</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">falowed</w>
+    <w POS="P">in</w>
+    <w POS="N">wynter</w>
+    <w POS="N">tyme</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">farre</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">worse</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="NUM">three</w>
+    <w POS="ADJ">principall</w>
+    <w POS="NS">causes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ONE">One</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="N">rayne</w>
+    <w POS="C">that</w>
+    <w POS="VBP">commeth</w>
+    <w POS=",">,</w>
+    <w POS="MD">shal</w>
+    <w POS="VB">washe</w>
+    <w POS="D">the</w>
+    <w POS="N">lande</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">dryue</w>
+    <w POS="ADV">awaye</w>
+    <w POS="D">the</w>
+    <w POS="N">dounge</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">moulde</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">lande</w>
+    <w POS="MD">shall</w>
+    <w POS="BE">be</w>
+    <w POS="Q">moche</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">worse</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">An</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">cause</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">rayne</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">beate</w>
+    <w POS="D">the</w>
+    <w POS="N">lande</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">flat</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">bake</w>
+    <w POS="PRO">it</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">hard</w>
+    <w POS="ADV">to-gyther</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="P">if</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">drye</w>
+    <w POS="NPR">Maye</w>
+    <w POS="VBP">come</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="ADVR">to</w>
+    <w POS="ADJ">harde</w>
+    <w POS="TO">to</w>
+    <w POS="VB">stere</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">moneth</w>
+    <w POS="P">of</w>
+    <w POS="NPR">June</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">thyrde</w>
+    <w POS="N">cause</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="NS">wiedes</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">take</w>
+    <w POS="SUCH">suche</w>
+    <w POS="N">roote</w>
+    <w POS=",">,</w>
+    <w POS="P">er</w>
+    <w POS="VAG+N">sterynge-tyme</w>
+    <w POS="VBP">comme</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wylle</w>
+    <w POS="NEG">not</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">cleane</w>
+    <w POS="VAN">tourned</w>
+    <w POS="ADV">vndernethe</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="MD">shal</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">hurte</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">shall</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">sowen</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specially</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="VAG+N">weding-tyme</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">for</w>
+    <w POS="Q">any</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">thynne</w>
+    <w POS=",">,</w>
+    <w POS="VBI">make</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">depe</w>
+    <w POS="ADJ">holowe</w>
+    <w POS="N">forowe</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">rydge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">lande</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">loke</w>
+    <w POS="ADV">wel</w>
+    <w POS=",">,</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBP">rest-balke</w>
+    <w POS="PRO">it</w>
+    <w POS="NEG">nat</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">if</w>
+    <w POS="PRO">thou</w>
+    <w POS="DOP">do</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="Q">many</w>
+    <w POS="NS">thystels</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">shalte</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">make</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">cleane</w>
+    <w POS="N">rydge</w>
+    <w POS="P">at</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">fyrste</w>
+    <w POS="N">sterynge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therfore</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">muste</w>
+    <w POS="N">nedes</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">depe</w>
+    <w POS="VAN">plowed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">or</w>
+    <w POS="ELSE">elles</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">shalt</w>
+    <w POS="NEG">nat</w>
+    <w POS="VB">tourne</w>
+    <w POS="D">the</w>
+    <w POS="NS">wiedes</w>
+    <w POS="ADV">cleane</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">17</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">cary</w>
+    <w POS="RP">out</w>
+    <w POS="N">donge</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">mucke</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sprede</w>
+    <w POS="PRO">it</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">later</w>
+    <w POS="N">ende</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Apryll</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">begynnynge</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Maye</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">cary</w>
+    <w POS="RP">out</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">dounge</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">mucke</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">lay</w>
+    <w POS="PRO">it</w>
+    <w POS="P">vppon</w>
+    <w POS="PRO$">his</w>
+    <w POS="N+N">barley-grounde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="WADV">where</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="N">barley</w>
+    <w POS="D">this</w>
+    <w POS="N">yere</w>
+    <w POS=",">,</w>
+    <w POS="VBI">sowe</w>
+    <w POS="PRO">it</w>
+    <w POS="P">with</w>
+    <w POS="N">whete</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">rye</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">next</w>
+    <w POS="N">tyme</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">falowed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">so</w>
+    <w POS="MD">shal</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">mucke</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">landes</w>
+    <w POS="RP">ouer</w>
+    <w POS="P">at</w>
+    <w POS="Q">euerye</w>
+    <w POS="ADJ">seconde</w>
+    <w POS="N">falowe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="D">that</w>
+    <w POS="N">husbande</w>
+    <w POS="C">that</w>
+    <w POS="MD">can</w>
+    <w POS="VB">fynd</w>
+    <w POS="D">the</w>
+    <w POS="N">meanes</w>
+    <w POS="TO">to</w>
+    <w POS="VB">cary</w>
+    <w POS="RP">oute</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">donge</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">laye</w>
+    <w POS="PRO">it</w>
+    <w POS="P">vpon</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">lande</w>
+    <w POS="P">after</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="NUM">ones</w>
+    <w POS="VAN">sturred</w>
+    <w POS=",">:</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">moche</w>
+    <w POS="ADJR">better</w>
+    <w POS="P">than</w>
+    <w POS="TO">to</w>
+    <w POS="VB">laye</w>
+    <w POS="PRO">it</w>
+    <w POS="P">vppon</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">falowe</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="ADJ">dyuer</w>
+    <w POS="NS">causes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ONE">One</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">layde</w>
+    <w POS="P">vpon</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">fallowe</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="VBP">fallethe</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">holowe</w>
+    <w POS="N">rygge</w>
+    <w POS="MD">shall</w>
+    <w POS="DO">do</w>
+    <w POS="Q">lyttell</w>
+    <w POS="N">good</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">rygged</w>
+    <w POS="ADV">agayne</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">lyeth</w>
+    <w POS="ADVR">soo</w>
+    <w POS="ADJ">depe</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="NEG">not</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">plowed</w>
+    <w POS="RP">vp</w>
+    <w POS="ADV">agayne</w>
+    <w POS=",">,</w>
+    <w POS="P">excepte</w>
+    <w POS="C">that</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">sprede</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wyll</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="N">shouell</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">spade</w>
+    <w POS=",">,</w>
+    <w POS="VB">caste</w>
+    <w POS="RP">out</w>
+    <w POS="Q">all</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">fallen</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">rygge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">layde</w>
+    <w POS="P">vpon</w>
+    <w POS="D">the</w>
+    <w POS="N">sturrynge</w>
+    <w POS=",">,</w>
+    <w POS="P">at</w>
+    <w POS="Q">euery</w>
+    <w POS="N">plowynge</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">medle</w>
+    <w POS="D">the</w>
+    <w POS="N">donge</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS="ADV">togyder</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">cause</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS="Q">moche</w>
+    <w POS="ADJR">better</w>
+    <w POS="TO">to</w>
+    <w POS="VB">growe</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">encreace</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">in</w>
+    <w POS="Q">somme</w>
+    <w POS="NS">places</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">lode</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">donge</w>
+    <w POS=",">,</w>
+    <w POS="P">tyll</w>
+    <w POS="N">harvest</w>
+    <w POS="BEP">be</w>
+    <w POS="DAN">done</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">&amp;</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">vsed</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">farther</w>
+    <w POS="N">syde</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Darbyshyre</w>
+    <w POS=",">,</w>
+    <w POS="VAN">called</w>
+    <w POS="NPR">Scaresdale</w>
+    <w POS=",">,</w>
+    <w POS="NPR">Halomshyre</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">so</w>
+    <w POS="N+WARD">northewarde</w>
+    <w POS="P">towarde</w>
+    <w POS="NPR">Yorke</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Ryppon</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">calle</w>
+    <w POS="ADJR">better</w>
+    <w POS="P">thanne</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">falowe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyally</w>
+    <w POS="P">for</w>
+    <w POS="N">barley</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">fyrste</w>
+    <w POS="N">sturrynge</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJS">beste</w>
+    <w POS="P">for</w>
+    <w POS="N">wheate</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">rye</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">dunge</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">layde</w>
+    <w POS="P">vpon</w>
+    <w POS="ADJ">smal</w>
+    <w POS="NS">hepes</w>
+    <w POS="ADJ">nygh</w>
+    <w POS="ADV">together</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sprede</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">euenly</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">leue</w>
+    <w POS="Q">no</w>
+    <w POS="N">dounge</w>
+    <w POS="ADV+P">there-as</w>
+    <w POS="D">the</w>
+    <w POS="N+N">mucke-hepe</w>
+    <w POS="VBD">stode</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">the</w>
+    <w POS="N">moystnes</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">dounge</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">cause</w>
+    <w POS="D">the</w>
+    <w POS="N">grounde</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">ranke</w>
+    <w POS="ADVR">ynoughe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">medled</w>
+    <w POS="P">with</w>
+    <w POS="N">erthe</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="NS">sholynges</w>
+    <w POS="CONJ">and</w>
+    <w POS="SUCH">suche</w>
+    <w POS="OTHER">other</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">laste</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">longer</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADVR">better</w>
+    <w POS="P">for</w>
+    <w POS="N">barley</w>
+    <w POS="P">than</w>
+    <w POS="P">for</w>
+    <w POS="N">whete</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">rye</w>
+    <w POS=",">,</w>
+    <w POS="P+N">bycause</w>
+    <w POS="P">of</w>
+    <w POS="NS">wedes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N+N">Horse-donge</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">worste</w>
+    <w POS="N">donge</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">donge</w>
+    <w POS="P">of</w>
+    <w POS="Q">all</w>
+    <w POS="N">maner</w>
+    <w POS="NS">catell</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="VBP">chewe</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">cudde</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">verye</w>
+    <w POS="ADJ">good</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">the</w>
+    <w POS="N">dounge</w>
+    <w POS="P">of</w>
+    <w POS="NS">douues</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJS">best</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">must</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">layde</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">grounde</w>
+    <w POS="ADV">verye</w>
+    <w POS="ADJ">thynne</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">18.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">set</w>
+    <w POS="RP">out</w>
+    <w POS="D">the</w>
+    <w POS="N+N">shepe-folde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ALSO">Also</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">set</w>
+    <w POS="RP">out</w>
+    <w POS="D">the</w>
+    <w POS="N+N">shepefolde</w>
+    <w POS="P">in</w>
+    <w POS="NPR">May</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sette</w>
+    <w POS="PRO">it</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N+N">rye-grounde</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">haue</w>
+    <w POS="Q">any</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">flyte</w>
+    <w POS="PRO">it</w>
+    <w POS="Q">euery</w>
+    <w POS="N">mornynge</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">nyght</w>
+    <w POS=",">:</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">mornynge</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">cometh</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">folde</w>
+    <w POS=",">,</w>
+    <w POS="VB">let</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">shepe</w>
+    <w POS="RP">out</w>
+    <w POS="ADV">anone</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="VB">reyse</w>
+    <w POS="PRO">theym</w>
+    <w POS="RP">vp</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">let</w>
+    <w POS="PRO">them</w>
+    <w POS="VB">stande</w>
+    <w POS="ADJ">stylle</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">season</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">may</w>
+    <w POS="VB">donge</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">pysse</w>
+    <w POS=",">.</w>
+    <w POS="CONJ">And</w>
+    <w POS="VB">go</w>
+    <w POS="P">amonge</w>
+    <w POS="PRO">them</w>
+    <w POS="TO">to</w>
+    <w POS="VB">se</w>
+    <w POS="WQ">whether</w>
+    <w POS="Q">any</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS="HVP">haue</w>
+    <w POS="Q">any</w>
+    <w POS="NS">mathes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">scabbed</w>
+    <w POS=",">:</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">se</w>
+    <w POS="PRO">them</w>
+    <w POS="NUM">thre</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">foure</w>
+    <w POS="NS">tymes</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="ONE">oone</w>
+    <w POS="N">syde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">ofte</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">syde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">whan</w>
+    <w POS="D">the</w>
+    <w POS="NS">kelles</w>
+    <w POS="VBP">begonne</w>
+    <w POS="P">besyde</w>
+    <w POS="D">the</w>
+    <w POS="N">grounde</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="VBI">lette</w>
+    <w POS="PRO">theym</w>
+    <w POS="RP">out</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">folde</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">dryue</w>
+    <w POS="PRO">theym</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">soundest</w>
+    <w POS="N">place</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">felde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="N">falowe</w>
+    <w POS="N">felde</w>
+    <w POS=",">,</w>
+    <w POS="Q">seueral</w>
+    <w POS="P">to</w>
+    <w POS="PRO+N">hym-selfe</w>
+    <w POS=",">,</w>
+    <w POS="VBI">let</w>
+    <w POS="PRO">hym</w>
+    <w POS="VB">occupie</w>
+    <w POS="Q">no</w>
+    <w POS="N">folde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="N">foldynge</w>
+    <w POS="P">of</w>
+    <w POS="NS">shepe</w>
+    <w POS="VBP">maketh</w>
+    <w POS="PRO">them</w>
+    <w POS="ADJ">scabbed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">bredeth</w>
+    <w POS="NS">mathes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">whanne</w>
+    <w POS="D">a</w>
+    <w POS="N">storme</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">yll</w>
+    <w POS="N">wether</w>
+    <w POS="VBP">commeth</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">night</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">can</w>
+    <w POS="NEG">nat</w>
+    <w POS="VB">flee</w>
+    <w POS="CONJ">nor</w>
+    <w POS="VB">go</w>
+    <w POS="ADV">awaye</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="VBP">appeyreth</w>
+    <w POS="PRO">them</w>
+    <w POS="ADJ">sore</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">flesshe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="VBI">lette</w>
+    <w POS="D">that</w>
+    <w POS="N">man</w>
+    <w POS="C">that</w>
+    <w POS="HVP">hath</w>
+    <w POS="SUCH">such</w>
+    <w POS="D">a</w>
+    <w POS="Q">seueral</w>
+    <w POS="N+N">falowe-felde</w>
+    <w POS=",">,</w>
+    <w POS="VB">driue</w>
+    <w POS="NUM">twentie</w>
+    <w POS=",">,</w>
+    <w POS="N">thyrty</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">forty</w>
+    <w POS="NS">stakes</w>
+    <w POS=",">,</w>
+    <w POS="VAG">accordynge</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">nombre</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">shepe</w>
+    <w POS=",">,</w>
+    <w POS="P">upon</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">falowe</w>
+    <w POS=",">,</w>
+    <w POS="WADV">where</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wolde</w>
+    <w POS="VB">sette</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">folde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specially</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">farthest</w>
+    <w POS="N">parte</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">fyelde</w>
+    <w POS="P">frome</w>
+    <w POS="ADV">thense</w>
+    <w POS="C">as</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">comme</w>
+    <w POS="RP">in</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">the</w>
+    <w POS="VAG">goynge</w>
+    <w POS="RP">vppon</w>
+    <w POS="DOP">dothe</w>
+    <w POS="Q">moche</w>
+    <w POS="N">good</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="VBI">lette</w>
+    <w POS="D">the</w>
+    <w POS="N">sheparde</w>
+    <w POS="VB">brynge</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">shepe</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">stakes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">sheepe</w>
+    <w POS="MD">wylle</w>
+    <w POS="VB">rubbe</w>
+    <w POS="PRO">them</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="NS">stakes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="VBI">lette</w>
+    <w POS="D">the</w>
+    <w POS="N">sheparde</w>
+    <w POS="VB">goo</w>
+    <w POS="P">aboute</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="P">tyll</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">sette</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">thus</w>
+    <w POS="VB">serue</w>
+    <w POS="PRO">theym</w>
+    <w POS="NUM">two</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">three</w>
+    <w POS="NS">nyghtes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">folowe</w>
+    <w POS="D">those</w>
+    <w POS="NS">stakes</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">flytteth</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">syt</w>
+    <w POS="P">by</w>
+    <w POS="PRO">them</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="Q">any</w>
+    <w POS="ADJ">ill</w>
+    <w POS="N">wether</w>
+    <w POS="VBP">come</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">will</w>
+    <w POS="VB">ryse</w>
+    <w POS="RP">vp</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">go</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">hedge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">this</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="N">foldynge</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">brede</w>
+    <w POS="Q">noo</w>
+    <w POS="NS">mathes</w>
+    <w POS="CONJ">nor</w>
+    <w POS="N">scabbe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="VB">appeyre</w>
+    <w POS="PRO">theym</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">flesshe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">shall</w>
+    <w POS="BE">be</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">greate</w>
+    <w POS="ADJ+N">sauegarde</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">shepe</w>
+    <w POS="P">for</w>
+    <w POS="N">rottynge</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">mornynge</w>
+    <w POS="VBI">put</w>
+    <w POS="PRO">them</w>
+    <w POS="RP">out</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">pasture</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">shalte</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">nede</w>
+    <w POS="TO">to</w>
+    <w POS="VB">bye</w>
+    <w POS="Q">any</w>
+    <w POS="NS">hurdels</w>
+    <w POS="CONJ">nor</w>
+    <w POS="N+NS">shepe-flekes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="WADV">howe</w>
+    <w POS="PRO">ye</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">salue</w>
+    <w POS="PRO">them</w>
+    <w POS="CONJ">or</w>
+    <w POS="VB">dresse</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="PRO">ye</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">vnderstande</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">chaypter</w>
+    <w POS="P">of</w>
+    <w POS="NS">shepe</w>
+    <w POS="ADV">after</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">19</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">cary</w>
+    <w POS="N">wodde</w>
+    <w POS="CONJ">and</w>
+    <w POS="OTHER">other</w>
+    <w POS="NS">necessaryes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">in</w>
+    <w POS="NPR">May</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">thou</w>
+    <w POS="HVP">hast</w>
+    <w POS="VBN">falowed</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">grounde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">set</w>
+    <w POS="RP">oute</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N+N">shepefolde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">carved</w>
+    <w POS="RP">oute</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">dounge</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">mucke</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">thou</w>
+    <w POS="HVP">haue</w>
+    <w POS="Q">any</w>
+    <w POS="N">wodde</w>
+    <w POS=",">,</w>
+    <w POS="N">cole</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">tymbre</w>
+    <w POS="TO">to</w>
+    <w POS="VB">cary</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="SUCH">suche</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">busynes</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="MD">moste</w>
+    <w POS="N">nedes</w>
+    <w POS="BE">be</w>
+    <w POS="DAN">doone</w>
+    <w POS=",">,</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">charte</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">wayne</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="BEP">is</w>
+    <w POS="PRO">it</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS="PRO">it</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="ADV">than</w>
+    <w POS="D">the</w>
+    <w POS="N">waye</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">fayre</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">drye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">days</w>
+    <w POS="ADJ">longe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="N">tyme</w>
+    <w POS="D">the</w>
+    <w POS="N">husbande</w>
+    <w POS="HVP">hath</w>
+    <w POS="QS">leeste</w>
+    <w POS="TO">to</w>
+    <w POS="DO">doo</w>
+    <w POS="P">in</w>
+    <w POS="N">husbandry</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Perauenture</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">set</w>
+    <w POS="ONE">one</w>
+    <w POS="N">thynge</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="DAN">done</w>
+    <w POS="P">at</w>
+    <w POS="ONE">one</w>
+    <w POS="N">tyme</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">yere</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">husbande</w>
+    <w POS="MD">shulde</w>
+    <w POS="DO">do</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">shulde</w>
+    <w POS="BE">be</w>
+    <w POS="D">a</w>
+    <w POS="ADJR">greatter</w>
+    <w POS="N">losse</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS="P">in</w>
+    <w POS="D">an</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">thynge</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherefore</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="QS">moste</w>
+    <w POS="ADJ">conuenient</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS="D">that</w>
+    <w POS="N">thynge</w>
+    <w POS="ADV">fyrst</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="QS">moste</w>
+    <w POS="ADJ">profytable</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">soone</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS=",">,</w>
+    <w POS="DO">do</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">labour</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">20</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">knowe</w>
+    <w POS="ADJ">dyuers</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="NS">wedes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">In</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">later</w>
+    <w POS="N">ende</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Maye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">begynnynge</w>
+    <w POS="P">of</w>
+    <w POS="NPR">June</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">wede</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">corne</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="EX">There</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">diuers</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="NS">wedes</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="NS">thistyls</w>
+    <w POS=",">,</w>
+    <w POS="NS">kedlokes</w>
+    <w POS=",">,</w>
+    <w POS="NS">dockes</w>
+    <w POS=",">,</w>
+    <w POS="N">cocledrake</w>
+    <w POS=",">,</w>
+    <w POS="N">darnolde</w>
+    <w POS=",">,</w>
+    <w POS="NS">gouldes</w>
+    <w POS=",">,</w>
+    <w POS="NS">haudoddes</w>
+    <w POS=",">,</w>
+    <w POS="N">dogfenell</w>
+    <w POS=",">,</w>
+    <w POS="NS">mathes</w>
+    <w POS=",">,</w>
+    <w POS="N">ter</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">dyuers</w>
+    <w POS="OTHER">other</w>
+    <w POS="ADJ">small</w>
+    <w POS="NS">wedes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="D">these</w>
+    <w POS="BEP">be</w>
+    <w POS="PRO">they</w>
+    <w POS="C">that</w>
+    <w POS="VBP">greue</w>
+    <w POS="QS">mooste</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">thistyll</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">yll</w>
+    <w POS="N">wede</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">roughe</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">sharpe</w>
+    <w POS="TO">to</w>
+    <w POS="VB">handell</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">freteth</w>
+    <w POS="ADV">away</w>
+    <w POS="D">the</w>
+    <w POS="NS">cornes</w>
+    <w POS="ADJ">nygh</w>
+    <w POS="PRO">it</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">causeth</w>
+    <w POS="D">the</w>
+    <w POS="NS">sherers</w>
+    <w POS="CONJ">or</w>
+    <w POS="NS">reapers</w>
+    <w POS="NEG">not</w>
+    <w POS="TO">to</w>
+    <w POS="VB">shere</w>
+    <w POS="ADV">cleane</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NS">Kedlokes</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="N">leafe</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="NS">rapes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">beareth</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">yelowe</w>
+    <w POS="N">floure</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">yll</w>
+    <w POS="N">wede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="P">in</w>
+    <w POS="Q">al</w>
+    <w POS="N">maner</w>
+    <w POS="N">corne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="ADJ">small</w>
+    <w POS="NS">coddes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="N">mustard</w>
+    <w POS="N">sede</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NS">Dockes</w>
+    <w POS="HVP">have</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">brode</w>
+    <w POS="N">lefe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">diuers</w>
+    <w POS="ADJ">high</w>
+    <w POS="NS">spyres</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">very</w>
+    <w POS="ADJ">small</w>
+    <w POS="N">sede</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">toppe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Cockole</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">longe</w>
+    <w POS="ADJ">small</w>
+    <w POS="N">lefe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">wyl</w>
+    <w POS="VB">beare</w>
+    <w POS="NUM">fyue</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">vi.</w>
+    <w POS="NS">floures</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">purple</w>
+    <w POS="N">colour</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">brode</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N">grote</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">sede</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">rounde</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">blacke</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">maye</w>
+    <w POS="ADV">well</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">suffred</w>
+    <w POS="P">in</w>
+    <w POS="D">a</w>
+    <w POS="N+N">breade-corne</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="NEG">not</w>
+    <w POS="P">in</w>
+    <w POS="N">sede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="ADV+P">therin</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">moche</w>
+    <w POS="N">floure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Drake</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="P">vnto</w>
+    <w POS="N">rye</w>
+    <w POS=",">,</w>
+    <w POS="P">till</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">begynne</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q">many</w>
+    <w POS="NS">sedes</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="N+NS">fenell-sedes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">hangeth</w>
+    <w POS="ADV+WARD">downewarde</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">maye</w>
+    <w POS="ADV">wel</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">suffred</w>
+    <w POS="P">in</w>
+    <w POS="N">breade</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">moche</w>
+    <w POS="N">floure</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">sede</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="N">opinion</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">commeth</w>
+    <w POS="P">of</w>
+    <w POS="N">rye</w>
+    <w POS=",">,</w>
+    <w POS="FW">&amp;c</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Dernolde</w>
+    <w POS="VBP">groweth</w>
+    <w POS="RP">vp</w>
+    <w POS="ADV">streyght</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">hye</w>
+    <w POS="N">grasse</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="ADJ">longe</w>
+    <w POS="NS">sedes</w>
+    <w POS="P">on</w>
+    <w POS="CONJ">eyther</w>
+    <w POS="N">syde</w>
+    <w POS="D">the</w>
+    <w POS="N">sterte</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">moche</w>
+    <w POS="N">floure</w>
+    <w POS="P">in</w>
+    <w POS="D">that</w>
+    <w POS="N">sede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">growethe</w>
+    <w POS="Q">moche</w>
+    <w POS="P">amonge</w>
+    <w POS="N">barley</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">sayde</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">cometh</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">small</w>
+    <w POS="N">barley</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NS">Golds</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">shorte</w>
+    <w POS="ADJ">iagged</w>
+    <w POS="N">lefe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="Q">halfe</w>
+    <w POS="D">a</w>
+    <w POS="N">yarde</w>
+    <w POS="ADJ">hygh</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">yelowe</w>
+    <w POS="N">floure</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">brode</w>
+    <w POS="P">as</w>
+    <w POS="D">a</w>
+    <w POS="N">grote</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">yll</w>
+    <w POS="N">wede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="ADV">commonlye</w>
+    <w POS="P">in</w>
+    <w POS="N">barleye</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">pees</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Hawdod</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">blewe</w>
+    <w POS="N">floure</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="Q">fewe</w>
+    <w POS="ADJ">lyttell</w>
+    <w POS="NS">leues</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="NUM">v.</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">syxe</w>
+    <w POS="NS">braunches</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">floured</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">toppe</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="ADV">comonly</w>
+    <w POS="P">in</w>
+    <w POS="N">rye</w>
+    <w POS="P">vpon</w>
+    <w POS="ADJ">leane</w>
+    <w POS="N">grounde</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="DOP">dothe</w>
+    <w POS="Q">lyttel</w>
+    <w POS="N">hurte</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Doggefenell</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">mathes</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">bothe</w>
+    <w POS="ONE">one</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">commynge</w>
+    <w POS="RP">vp</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="N">fenell</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">beareth</w>
+    <w POS="Q">many</w>
+    <w POS="ADJ">white</w>
+    <w POS="NS">floures</w>
+    <w POS=",">,</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">yelowe</w>
+    <w POS="N">sede</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">worste</w>
+    <w POS="N">wede</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">excepte</w>
+    <w POS="N">terre</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">commeth</w>
+    <w POS="QS">moste</w>
+    <w POS="ADV">commonly</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">wete</w>
+    <w POS="VBP">commeth</w>
+    <w POS="ADV">shortly</w>
+    <w POS="P">after</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">sowen</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Terre</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">worste</w>
+    <w POS="N">wede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">neuer</w>
+    <w POS="DOP">dothe</w>
+    <w POS="VB">appere</w>
+    <w POS="P">tyll</w>
+    <w POS="D">the</w>
+    <w POS="N">moneth</w>
+    <w POS="P">of</w>
+    <w POS="NPR">June</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyallye</w>
+    <w POS="P">whanne</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">wete</w>
+    <w POS="P">in</w>
+    <w POS="D">that</w>
+    <w POS="N">mone</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttell</w>
+    <w POS="ADV">before</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="QS">mooste</w>
+    <w POS="P">in</w>
+    <w POS="N">rye</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">groweth</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="NS">fytches</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">moche</w>
+    <w POS="ADJR">smaller</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">growe</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">hyghe</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="N">weyght</w>
+    <w POS="ADV+P">therof</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">pulleth</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS="ADJ">flatte</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">erth</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">freteth</w>
+    <w POS="D">the</w>
+    <w POS="NS">eares</w>
+    <w POS="ADV">away</w>
+    <w POS=",">;</w>
+    <w POS="WADV+P">wherfore</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">seene</w>
+    <w POS="NS">housbandes</w>
+    <w POS="VB">mowe</w>
+    <w POS="RP">downe</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">together</w>
+    <w POS=",">:</w>
+    <w POS="CONJ">And</w>
+    <w POS="ALSO">also</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">sharp</w>
+    <w POS="NS">hokes</w>
+    <w POS="TO">to</w>
+    <w POS="VB">repe</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="PRO">they</w>
+    <w POS="DOP">doo</w>
+    <w POS="NS">pees</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">made</w>
+    <w POS="ADJ">drye</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">fodder</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="EX">There</w>
+    <w POS="BEP">be</w>
+    <w POS="OTHER">other</w>
+    <w POS="NS">weeds</w>
+    <w POS="NEG">not</w>
+    <w POS="VAN">spoken</w>
+    <w POS="P">of</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="N+NS">dee-nettylles</w>
+    <w POS=",">,</w>
+    <w POS="N">dodder</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="SUCH">suche</w>
+    <w POS="OTHERS">other</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="DOP">doo</w>
+    <w POS="Q">moche</w>
+    <w POS="N">harme</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">21</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="WADV">Howe</w>
+    <w POS="TO">to</w>
+    <w POS="VB">wede</w>
+    <w POS="N">corne</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wolde</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">knowen</w>
+    <w POS=",">,</w>
+    <w POS="WADV">howe</w>
+    <w POS="D">these</w>
+    <w POS="NS">cornes</w>
+    <w POS="MD">shulde</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">weded</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">chyefe</w>
+    <w POS="N">instrument</w>
+    <w POS="TO">to</w>
+    <w POS="VB">wede</w>
+    <w POS="P">with</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="N">paire</w>
+    <w POS="P">of</w>
+    <w POS="NS">tonges</w>
+    <w POS="VAN">made</w>
+    <w POS="P">of</w>
+    <w POS="N">wode</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">farther</w>
+    <w POS="N">ende</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">nycked</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">holde</w>
+    <w POS="D">the</w>
+    <w POS="N">wed</w>
+    <w POS="ADJR">faster</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">after</w>
+    <w POS="D">a</w>
+    <w POS="N">shoure</w>
+    <w POS="P">of</w>
+    <w POS="N">raine</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJS">beste</w>
+    <w POS="N">wedynge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">maye</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">pulled</w>
+    <w POS="RP">vp</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="NS">rotes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">cometh</w>
+    <w POS="ADV">neuer</w>
+    <w POS="ADV">agayne</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">drye</w>
+    <w POS="N">wether</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="MD">muste</w>
+    <w POS="PRO">ye</w>
+    <w POS="HV">haue</w>
+    <w POS="D">a</w>
+    <w POS="VAG+N">wedynge-hoke</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="N">socket</w>
+    <w POS="VAN">set</w>
+    <w POS="P">vpon</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttel</w>
+    <w POS="N">staffe</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">yarde</w>
+    <w POS="ADJ">longe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">this</w>
+    <w POS="N">hoke</w>
+    <w POS="MD">wolde</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">steeled</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">grounde</w>
+    <w POS="ADJ">sharpe</w>
+    <w POS="CONJ">bothe</w>
+    <w POS="ADV">behynde</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">before</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">hande</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">forked</w>
+    <w POS="N">stycke</w>
+    <w POS="D">a</w>
+    <w POS="N">yarde</w>
+    <w POS="ADJ">longe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">forked</w>
+    <w POS="N">stycke</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">putteth</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS="P">from</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">putteth</w>
+    <w POS="D">the</w>
+    <w POS="N">hoke</w>
+    <w POS="P">beyond</w>
+    <w POS="D">the</w>
+    <w POS="N">rote</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">pulleth</w>
+    <w POS="PRO">it</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">cutteth</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS="ADJ">fast</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">hoke</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">taketh</w>
+    <w POS="RP">up</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">casteth</w>
+    <w POS="PRO">it</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">reane</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">reane</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">full</w>
+    <w POS="P">of</w>
+    <w POS="N">corne</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">better</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">stande</w>
+    <w POS="ADJ">styll</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">cut</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">wyddre</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="VBI">let</w>
+    <w POS="PRO">hym</w>
+    <w POS="VB">beware</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">trede</w>
+    <w POS="NEG">not</w>
+    <w POS="ADVR">to</w>
+    <w POS="Q">moche</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyallye</w>
+    <w POS="P">after</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VBN">shotte</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">cutteth</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">cut</w>
+    <w POS="NEG">not</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therefore</w>
+    <w POS="D">the</w>
+    <w POS="N">hoke</w>
+    <w POS="MD">wolde</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">passe</w>
+    <w POS="D">an</w>
+    <w POS="N">inche</w>
+    <w POS="ADV">wyde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">whanne</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS="BEP">is</w>
+    <w POS="ADVR">soo</w>
+    <w POS="ADJ">shorte</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">can</w>
+    <w POS="NEG">not</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">forked</w>
+    <w POS="N">stycke</w>
+    <w POS="VB">put</w>
+    <w POS="PRO">it</w>
+    <w POS="P">from</w>
+    <w POS="PRO">hym</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="N">hoke</w>
+    <w POS="VB">pull</w>
+    <w POS="PRO">it</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS=",">,</w>
+    <w POS="ADV">thanne</w>
+    <w POS="MD">muste</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">set</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">hoke</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">wede</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">fast</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">put</w>
+    <w POS="PRO">it</w>
+    <w POS="P">from</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">so</w>
+    <w POS="MD">shall</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">cutte</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">cleane</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">with</w>
+    <w POS="D">these</w>
+    <w POS="NUM">two</w>
+    <w POS="NS">instruments</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">shall</w>
+    <w POS="ADV">neuer</w>
+    <w POS="VB">stoupe</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">warke</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Dogfenell</w>
+    <w POS=",">,</w>
+    <w POS="NS">goldes</w>
+    <w POS=",">,</w>
+    <w POS="NS">mathes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">kedlokes</w>
+    <w POS="BEP">are</w>
+    <w POS="ADJ">yll</w>
+    <w POS="TO">to</w>
+    <w POS="VB">wede</w>
+    <w POS="P">after</w>
+    <w POS="D">this</w>
+    <w POS="N">maner</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">growe</w>
+    <w POS="P">vppon</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">many</w>
+    <w POS="NS">braunches</w>
+    <w POS=",">,</w>
+    <w POS="ADV">harde</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV+P">therfore</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">vse</w>
+    <w POS="QS">most</w>
+    <w POS="TO">to</w>
+    <w POS="VB">pul</w>
+    <w POS="PRO">them</w>
+    <w POS="RP">vppe</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">handes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="VBI">loke</w>
+    <w POS="ADV">well</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">pull</w>
+    <w POS="NEG">not</w>
+    <w POS="RP">vppe</w>
+    <w POS="D">the</w>
+    <w POS="N">corne</w>
+    <w POS="P">with</w>
+    <w POS="Q">all</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">as</w>
+    <w POS="P">for</w>
+    <w POS="N">terre</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="MD">wyll</w>
+    <w POS="Q">noo</w>
+    <w POS="N">wedynge</w>
+    <w POS="VB">serue</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">22</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">fyrst</w>
+    <w POS="N">sturrynge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ALSO">Also</w>
+    <w POS="P">in</w>
+    <w POS="NPR">June</w>
+    <w POS="BEP">is</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">rygge</w>
+    <w POS="RP">vppe</w>
+    <w POS="D">the</w>
+    <w POS="N">falowe</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">called</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">fyrst</w>
+    <w POS="N">sturrynge</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">plowe</w>
+    <w POS="PRO">it</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">depe</w>
+    <w POS="P">as</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">canste</w>
+    <w POS=",">,</w>
+    <w POS="FOR">for</w>
+    <w POS="TO">to</w>
+    <w POS="VB">tourne</w>
+    <w POS="D">the</w>
+    <w POS="NS">rotes</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">wedgs</w>
+    <w POS="RP+WARD">vpwarde</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">sonne</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">drye</w>
+    <w POS="N">wether</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">kyll</w>
+    <w POS="PRO">them</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">an</w>
+    <w POS="N">housbande</w>
+    <w POS="MD">can</w>
+    <w POS="NEG">not</w>
+    <w POS="ADV">conuenyentelye</w>
+    <w POS="VB">plowe</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">lande</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">lode</w>
+    <w POS="RP">out</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">dounge</w>
+    <w POS="Q">bothe</w>
+    <w POS="P">vppon</w>
+    <w POS="D">a</w>
+    <w POS="N">daye</w>
+    <w POS=",">,</w>
+    <w POS="P">with</w>
+    <w POS="ONE">one</w>
+    <w POS="N">draughte</w>
+    <w POS="P">of</w>
+    <w POS="NS">beastes</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">maye</w>
+    <w POS="ADV">well</w>
+    <w POS="VB">lode</w>
+    <w POS="RP">oute</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">dounge</w>
+    <w POS="P">before</w>
+    <w POS="N">none</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">lode</w>
+    <w POS="N">heye</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">corne</w>
+    <w POS="P">at-</w>
+    <w POS="N21">after</w>
+    <w POS="N22">none</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">or</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">plowe</w>
+    <w POS="P">before</w>
+    <w POS="N">none</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">lode</w>
+    <w POS="N">hey</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">corne</w>
+    <w POS="P">at-</w>
+    <w POS="N21">after</w>
+    <w POS="N22">none</w>
+    <w POS=",">,</w>
+    <w POS="P">with</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS="N">draughte</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">noo</w>
+    <w POS="N">hurte</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="NS">cattell</w>
+    <w POS=",">:</w>
+    <w POS="P+N">bycause</w>
+    <w POS="P">in</w>
+    <w POS="N">lodynge</w>
+    <w POS="P">of</w>
+    <w POS="N">hey</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">corne</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="NS">cattel</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">alwaye</w>
+    <w POS="VAG">eatynge</w>
+    <w POS="CONJ">or</w>
+    <w POS="VAG">beytynge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">soo</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">can</w>
+    <w POS="NEG">not</w>
+    <w POS="DO">doo</w>
+    <w POS="P">in</w>
+    <w POS="N">lodynge</w>
+    <w POS="P">of</w>
+    <w POS="N">dounge</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">plowynge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">23</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">mowe</w>
+    <w POS="N">grasse</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ALSO">Also</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">later</w>
+    <w POS="N">ende</w>
+    <w POS="P">of</w>
+    <w POS="NPR">June</w>
+    <w POS="BEP">is</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">begyn</w>
+    <w POS="TO">to</w>
+    <w POS="VB">mowe</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">medowe</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">growen</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="WADV+ADV+ADV">howe-so-ever</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">growen</w>
+    <w POS=",">,</w>
+    <w POS="P">in</w>
+    <w POS="NPR">July</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">muste</w>
+    <w POS="N">nedes</w>
+    <w POS="VB">mowe</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="ADJ">diuers</w>
+    <w POS="NS">causes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ONE">One</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">convenient</w>
+    <w POS="TO">to</w>
+    <w POS="HV">haue</w>
+    <w POS="N">hey</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">corne</w>
+    <w POS="Q">bothe</w>
+    <w POS="P">in</w>
+    <w POS="N">occupation</w>
+    <w POS="P">at</w>
+    <w POS="ONE">one</w>
+    <w POS="N">tyme</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">An</w>
+    <w POS="OTHER">other</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">yonger</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">grener</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N">grasse</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">softer</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">sweter</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="N">hey</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="HV">haue</w>
+    <w POS="D">the</w>
+    <w POS="QR">more</w>
+    <w POS="N">wyddrynge</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">elder</w>
+    <w POS="D">the</w>
+    <w POS="N">grasse</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">harder</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJR">dryer</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">worse</w>
+    <w POS="P">for</w>
+    <w POS="Q">al</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="NS">cattell</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">the</w>
+    <w POS="NS">sedes</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">fallen</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="BEP">is</w>
+    <w POS="P">in</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="N">prouander</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">harder</w>
+    <w POS="TO">to</w>
+    <w POS="VB">eate</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">chowe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">an</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">cause</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="ADJ">drye</w>
+    <w POS="N">wether</w>
+    <w POS="VBP">come</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">drye</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">burne</w>
+    <w POS="P">vpon</w>
+    <w POS="D">the</w>
+    <w POS="N">grounde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">waste</w>
+    <w POS="ADV">away</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VBI">Take</w>
+    <w POS="N">hede</w>
+    <w POS="C">that</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">mower</w>
+    <w POS="VBP">mow</w>
+    <w POS="ADV">clene</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">holde</w>
+    <w POS="RP">downe</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">hynder</w>
+    <w POS="N">hand</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">sith</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="DOP">do</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">endent</w>
+    <w POS="D">the</w>
+    <w POS="N">grasse</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">mowe</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">swathe</w>
+    <w POS="ADV">cleane</w>
+    <w POS="P">thorowe</w>
+    <w POS="P">to</w>
+    <w POS="D">that</w>
+    <w POS="C">that</w>
+    <w POS="BED">was</w>
+    <w POS="ADV">laste</w>
+    <w POS="VAN">mowen</w>
+    <w POS="ADV">before</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">leaue</w>
+    <w POS="NEG">not</w>
+    <w POS="D">a</w>
+    <w POS="N">mane</w>
+    <w POS="ADV">bytwene</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyallye</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">common</w>
+    <w POS="N">medowe</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="Q">seuerall</w>
+    <w POS="N">medowe</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">maketh</w>
+    <w POS="D">the</w>
+    <w POS="QR">lesse</w>
+    <w POS="N">charge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="N+NS">moldywarpe-hilles</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">spredde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">styckes</w>
+    <w POS="ADV">cleane</w>
+    <w POS="VAN">pycked</w>
+    <w POS="RP">out</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">medowe</w>
+    <w POS="P">in</w>
+    <w POS="NPR">Apryll</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">beginnynge</w>
+    <w POS="P">of</w>
+    <w POS="NPR">Maye</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">24</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="WADV">Howe</w>
+    <w POS="NS">forkes</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">rakes</w>
+    <w POS="MD">shulde</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">made</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="ADJ">Good</w>
+    <w POS="N">husbande</w>
+    <w POS="HVP">hath</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">forkes</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">rakes</w>
+    <w POS="VAN">made</w>
+    <w POS="ADJ">redye</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">wynter</w>
+    <w POS="ADV">before</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wolde</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">gotte</w>
+    <w POS="P">bytwene</w>
+    <w POS="NPR">Mighelmasse</w>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">Martylmasse</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">beyked</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">sette</w>
+    <w POS="ADV">euen</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">lye</w>
+    <w POS="ADV">vpryght</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">hande</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">harde</w>
+    <w POS="ADJ">styffe</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">drye</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">whan</w>
+    <w POS="D">the</w>
+    <w POS="N">housbande</w>
+    <w POS="VBP">sytteth</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">fyre</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q+N">nothynge</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="MD">maye</w>
+    <w POS="PRO">he</w>
+    <w POS="VB">make</w>
+    <w POS="PRO">theym</w>
+    <w POS="ADJ">redye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">tothe</w>
+    <w POS="D">the</w>
+    <w POS="NS">rakes</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">drye</w>
+    <w POS="N">wethywode</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">bore</w>
+    <w POS="D">the</w>
+    <w POS="NS">holes</w>
+    <w POS="P">with</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">wymble</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">bothe</w>
+    <w POS="ADV">above</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">vnder</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">driue</w>
+    <w POS="D">the</w>
+    <w POS="NS">tethe</w>
+    <w POS="RP+WARD">vpwarde</w>
+    <w POS="ADV">faste</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">harde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="VB">wedge</w>
+    <w POS="PRO">them</w>
+    <w POS="ADV">aboue</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">drye</w>
+    <w POS="N">woode</w>
+    <w POS="P">of</w>
+    <w POS="N">oke</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">hard</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">wil</w>
+    <w POS="VB">driue</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">neuer</w>
+    <w POS="VB">come</w>
+    <w POS="RP">out</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">get</w>
+    <w POS="PRO">them</w>
+    <w POS="P">in</w>
+    <w POS="N+N">sappe-tyme</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="N">beykyng</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">drienge</w>
+    <w POS="C">that</w>
+    <w POS="MD">can</w>
+    <w POS="BE">be</w>
+    <w POS="HAN">had</w>
+    <w POS="MD">shal</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">make</w>
+    <w POS="PRO">them</w>
+    <w POS="ADJ">harde</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">styffe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">woll</w>
+    <w POS="ADV">alwaye</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">plyenge</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="QS">moste</w>
+    <w POS="ADV">comonly</w>
+    <w POS="VAN">made</w>
+    <w POS="P">of</w>
+    <w POS="N">hasell</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">withee</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">these</w>
+    <w POS="BEP">be</w>
+    <w POS="D">the</w>
+    <w POS="NS">trees</w>
+    <w POS="C">that</w>
+    <w POS="VBP">blome</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specially</w>
+    <w POS="N">hasell</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">begynneth</w>
+    <w POS="TO">to</w>
+    <w POS="VB">blome</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">sone</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">lefe</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">fallen</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">rake</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">made</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">grene</w>
+    <w POS="N">woode</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="N">heed</w>
+    <w POS="MD">wyll</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">abyde</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">stele</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">tethe</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">fall</w>
+    <w POS="RP">out</w>
+    <w POS=",">,</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">he</w>
+    <w POS="HVP">hath</w>
+    <w POS="QS">mooste</w>
+    <w POS="N">nede</w>
+    <w POS="P">to</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">let</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">warke</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">lose</w>
+    <w POS="Q">moche</w>
+    <w POS="N">heye</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="VBI">se</w>
+    <w POS="C">that</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">rake</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">forke</w>
+    <w POS="VBP">lye</w>
+    <w POS="ADV">vpryghte</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">hand</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="P">and</w>
+    <w POS="D">the</w>
+    <w POS="ONE">one</w>
+    <w POS="N">ende</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">rake</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">the</w>
+    <w POS="N">syde</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">forke</w>
+    <w POS=",">,</w>
+    <w POS="VBP">hang</w>
+    <w POS="RP+WARD">downe-warde</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">handsome</w>
+    <w POS="CONJ">nor</w>
+    <w POS="ADJ">easy</w>
+    <w POS="TO">to</w>
+    <w POS="VB">worke</w>
+    <w POS="P">with</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">25</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="TO">To</w>
+    <w POS="VB">tedde</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">make</w>
+    <w POS="N">hay</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">Whan</w>
+    <w POS="PRO$">thy</w>
+    <w POS="NS">medowes</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">mowed</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">wolde</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">tedded</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">layde</w>
+    <w POS="ADV">euen</w>
+    <w POS="P">vppon</w>
+    <w POS="D">the</w>
+    <w POS="N">grounde</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="D">the</w>
+    <w POS="N">grasse</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">very</w>
+    <w POS="ADJ">thycke</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">woode</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">shaken</w>
+    <w POS="P">with</w>
+    <w POS="NS">handes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="P">with</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">shorte</w>
+    <w POS="N">pykforke</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">teddynge</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">chiefe</w>
+    <w POS="N">poynte</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">hey</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="MD">shall</w>
+    <w POS="PRO">it</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">wyddred</w>
+    <w POS="Q">all</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">lyke</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ELSE">elles</w>
+    <w POS="NEG">not</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">wel</w>
+    <w POS="VAN">wyddred</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="N21">ouer</w>
+    <w POS="N22">syde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">dry</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="VBI">turne</w>
+    <w POS="PRO">it</w>
+    <w POS="ADJ">cleane</w>
+    <w POS="P">before</w>
+    <w POS="N">noone</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">soone</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">dewe</w>
+    <w POS="BEP">is</w>
+    <w POS="VBN">gone</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">yf</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">dare</w>
+    <w POS="VB">truste</w>
+    <w POS="D">the</w>
+    <w POS="N">wether</w>
+    <w POS=",">,</w>
+    <w POS="VBI">lette</w>
+    <w POS="PRO">it</w>
+    <w POS="VB">lye</w>
+    <w POS="ADV">so</w>
+    <w POS="Q">all</w>
+    <w POS="N">nyghte</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">nexte</w>
+    <w POS="N">daye</w>
+    <w POS=",">,</w>
+    <w POS="VBI">tourne</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">agayne</w>
+    <w POS="P">before</w>
+    <w POS="N">none</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">towarde</w>
+    <w POS="N">nyght</w>
+    <w POS="VBI">make</w>
+    <w POS="PRO">it</w>
+    <w POS="P">in</w>
+    <w POS="NS">wyndrowes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">smal</w>
+    <w POS="N+NS">hey-cockes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">so</w>
+    <w POS="TO">to</w>
+    <w POS="VB">stande</w>
+    <w POS="ONE">one</w>
+    <w POS="N">nyghte</w>
+    <w POS="P">at</w>
+    <w POS="D">the</w>
+    <w POS="QS">leaste</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">sweate</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">on</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">nexte</w>
+    <w POS="ADJ">fayre</w>
+    <w POS="N">day</w>
+    <w POS="VBI">caste</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">abrode</w>
+    <w POS="ADV">agayne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">tourne</w>
+    <w POS="PRO">it</w>
+    <w POS="NUM">ones</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">twyse</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="VBI">make</w>
+    <w POS="PRO">it</w>
+    <w POS="P">in</w>
+    <w POS="ADJR">greatter</w>
+    <w POS="N+NS">hey-cockes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="TO">to</w>
+    <w POS="VB">stande</w>
+    <w POS="ADV">so</w>
+    <w POS="ONE">one</w>
+    <w POS="N">nyght</w>
+    <w POS="CONJ">or</w>
+    <w POS="QR">more</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">vngiue</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">sweate</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="C">and</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">sweate</w>
+    <w POS="NEG">not</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N+NS">hey-cockes</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">sweate</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">mowe</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">dustye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">holsome</w>
+    <w POS="P">for</w>
+    <w POS="NS">hors</w>
+    <w POS=",">,</w>
+    <w POS="NS">beastes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="NS">shepe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">standeth</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="NS">cockes</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">better</w>
+    <w POS="TO">to</w>
+    <w POS="VB">lode</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="QR">more</w>
+    <w POS="N">hey</w>
+    <w POS="MD">maye</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">loded</w>
+    <w POS="P">at</w>
+    <w POS="D">a</w>
+    <w POS="N">lode</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="ADJR">faster</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">lye</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N+N">Quyche-hey</w>
+    <w POS="VBP">commeth</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">grasse</w>
+    <w POS="VAN">called</w>
+    <w POS="N+N">crofote</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">groweth</w>
+    <w POS="ADJ">flatte</w>
+    <w POS=",">,</w>
+    <w POS="P">after</w>
+    <w POS="D">the</w>
+    <w POS="N">erthe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">bearethe</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">yelowe</w>
+    <w POS="N">floure</w>
+    <w POS="Q">halfe</w>
+    <w POS="D">a</w>
+    <w POS="N">yarde</w>
+    <w POS="ADJ">hygh</w>
+    <w POS="CONJ">and</w>
+    <w POS="QR">more</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">hath</w>
+    <w POS="Q">many</w>
+    <w POS="NS">knottes</w>
+    <w POS="P">towarde</w>
+    <w POS="D">the</w>
+    <w POS="N">roote</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">beste</w>
+    <w POS="N">hey</w>
+    <w POS="P">for</w>
+    <w POS="NS">horses</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">beastes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">sweteste</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">got</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">wyll</w>
+    <w POS="HV">haue</w>
+    <w POS="Q">moch</w>
+    <w POS="QR">more</w>
+    <w POS="N">wyddrynge</w>
+    <w POS="P">than</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">hey</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="ADV">els</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">be-pysse</w>
+    <w POS="PRO+N">hym-selfe</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">waxe</w>
+    <w POS="ADJ">hote</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">after</w>
+    <w POS="ADJ">dustye</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="FOR">for</w>
+    <w POS="TO">to</w>
+    <w POS="VB">knowe</w>
+    <w POS="P">whanne</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">wyddred</w>
+    <w POS="ADVR">ynoughe</w>
+    <w POS=",">,</w>
+    <w POS="VBI">make</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttell</w>
+    <w POS="N">rope</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">ye</w>
+    <w POS="VBP">thinke</w>
+    <w POS="MD">shulde</w>
+    <w POS="BE">be</w>
+    <w POS="QS">moste</w>
+    <w POS="ADJS">greneste</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">twyne</w>
+    <w POS="PRO">it</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADV">harde</w>
+    <w POS="ADV">to-gether</w>
+    <w POS="P">bytwen</w>
+    <w POS="PRO$">your</w>
+    <w POS="NS">handes</w>
+    <w POS="P">as</w>
+    <w POS="PRO">ye</w>
+    <w POS="MD">canne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">soo</w>
+    <w POS="BAG">beynge</w>
+    <w POS="ADV">harde</w>
+    <w POS="VAN">twon</w>
+    <w POS=",">,</w>
+    <w POS="VBI">let</w>
+    <w POS="ONE">one</w>
+    <w POS="VB">take</w>
+    <w POS="D">a</w>
+    <w POS="N">knyfe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">cut</w>
+    <w POS="PRO">it</w>
+    <w POS="ADJ">faste</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">your</w>
+    <w POS="N">hande</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="NS">knottes</w>
+    <w POS="MD">wyll</w>
+    <w POS="BE">be</w>
+    <w POS="ADJ">moyste</w>
+    <w POS=",">,</w>
+    <w POS="P">yf</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="NEG">not</w>
+    <w POS="ADJ">drye</w>
+    <w POS="ADVR">ynough</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADJ">Shorte</w>
+    <w POS="N">hey</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N+N">leye-hey</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">good</w>
+    <w POS="P">for</w>
+    <w POS="NS">shepe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="N">maner</w>
+    <w POS="P">of</w>
+    <w POS="NS">catell</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">got</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N">man</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">speke</w>
+    <w POS="P">of</w>
+    <w POS="N">makynge</w>
+    <w POS="P">of</w>
+    <w POS="N">hey</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">gettynge</w>
+    <w POS="P">of</w>
+    <w POS="N">corne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="NPR">god</w>
+    <w POS="VBP">disposeth</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">ordreth</w>
+    <w POS="Q">all</w>
+    <w POS="NS">thynge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">150</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="WADV">How</w>
+    <w POS="NS">men</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">hye</w>
+    <w POS="N">degree</w>
+    <w POS="DOP">do</w>
+    <w POS="VB">kepe</w>
+    <w POS="N">measure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">To</w>
+    <w POS="PRO">me</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">doubtefull</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">yet</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="ADVR">rather</w>
+    <w POS="ADVR">to</w>
+    <w POS="ADJ">lyberall</w>
+    <w POS="P">in</w>
+    <w POS="NS">expences</w>
+    <w POS=",">,</w>
+    <w POS="P">than</w>
+    <w POS="ADVR">to</w>
+    <w POS="ADJ">scarce</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyally</w>
+    <w POS="P">in</w>
+    <w POS="NUM">three</w>
+    <w POS="NS">thynges</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">fyrste</w>
+    <w POS="BEP">is</w>
+    <w POS="N">prodigalytie</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">outragious</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">costely</w>
+    <w POS="N">aray</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">fer</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="ADJ">seconde</w>
+    <w POS="N">thynge</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">costely</w>
+    <w POS="N">charge</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">delycyous</w>
+    <w POS="NS">meates</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">drynkes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="ADJ">thyrde</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">outragious</w>
+    <w POS="N">playe</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">game</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">ferre</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ADV">nowe</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">fyrste</w>
+    <w POS="N">pointe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">151</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="N">Prodigalite</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">outragious</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">costely</w>
+    <w POS="N">aray</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">seen</w>
+    <w POS="NS">bokes</w>
+    <w POS="P">of</w>
+    <w POS="N">accompte</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">yomen</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">wardropes</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">noble</w>
+    <w POS="NS">men</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ALSO">also</w>
+    <w POS="NS">inuentorys</w>
+    <w POS="VAN">made</w>
+    <w POS="P">after</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">decease</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">their</w>
+    <w POS="N">apparell</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">doubte</w>
+    <w POS="NEG">not</w>
+    <w POS="FP">but</w>
+    <w POS="P">at</w>
+    <w POS="D">this</w>
+    <w POS="N">daye</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="NUM">.xx.</w>
+    <w POS="NS">tymes</w>
+    <w POS="QR">more</w>
+    <w POS="P">in</w>
+    <w POS="N">value</w>
+    <w POS=",">,</w>
+    <w POS="P">than</w>
+    <w POS="PRO">it</w>
+    <w POS="BED">was</w>
+    <w POS="P">to</w>
+    <w POS="SUCH">suche</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="P">of</w>
+    <w POS="N">degre</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS="BED">was</w>
+    <w POS="D">an</w>
+    <w POS="NUM">.C.</w>
+    <w POS="N">yere</w>
+    <w POS="ADV">a-go</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">many</w>
+    <w POS="NS">tymes</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">gyuen</w>
+    <w POS="ADV">away</w>
+    <w POS=",">,</w>
+    <w POS="P">er</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">be</w>
+    <w POS="Q">halfe</w>
+    <w POS="VAN">worne</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">symple</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="VBP">causeth</w>
+    <w POS="PRO">hym</w>
+    <w POS="TO">to</w>
+    <w POS="VB">weare</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=",">;</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">an</w>
+    <w POS="OTHER">other</w>
+    <w POS="ADJ">symple</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttell</w>
+    <w POS="ADJR">better</w>
+    <w POS=",">,</w>
+    <w POS="VAG">seynge</w>
+    <w POS="PRO">him</w>
+    <w POS="TO">to</w>
+    <w POS="VB">weare</w>
+    <w POS="SUCH">suche</w>
+    <w POS="N">rayment</w>
+    <w POS="P">as</w>
+    <w POS="PRO">he</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">so</w>
+    <w POS="VBP">causeth</w>
+    <w POS="PRO">hym</w>
+    <w POS="TO">to</w>
+    <w POS="VB">bye</w>
+    <w POS="SUCH">suche</w>
+    <w POS="OTHERS">other</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">coste</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">charge</w>
+    <w POS=",">,</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">yll</w>
+    <w POS="N">ensample</w>
+    <w POS="P">to</w>
+    <w POS="Q">all</w>
+    <w POS="OTHERS">other</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ALSO">also</w>
+    <w POS="TO">to</w>
+    <w POS="VB">see</w>
+    <w POS="NS21">mens</w>
+    <w POS="NS22">seruantes</w>
+    <w POS="ADVR">so</w>
+    <w POS="VAN">abused</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">aray</w>
+    <w POS=",">,</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">cotes</w>
+    <w POS="BEP">be</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">syde</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">fayne</w>
+    <w POS="TO">to</w>
+    <w POS="VB">tucke</w>
+    <w POS="PRO">them</w>
+    <w POS="RP">vp</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">they</w>
+    <w POS="VB">ryde</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="NS">women</w>
+    <w POS="DOP">do</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">kyrtels</w>
+    <w POS="P">whan</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">go</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">market</w>
+    <w POS="CONJ">or</w>
+    <w POS="OTHER">other</w>
+    <w POS="NS">places</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="ADJ">vnconuenient</w>
+    <w POS="N">syght</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ADV">ferthermore</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="HVP">haue</w>
+    <w POS="SUCH">suche</w>
+    <w POS="NS">pleytes</w>
+    <w POS="P">vpon</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">brestes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">ruffes</w>
+    <w POS="P">vppon</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">sleues</w>
+    <w POS=",">,</w>
+    <w POS="P">aboue</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">elbowes</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="P">yf</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">mayster</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="PRO+N">theym-selfe</w>
+    <w POS="HVD">hadde</w>
+    <w POS="ADV">neuer</w>
+    <w POS="ADVR">so</w>
+    <w POS="ADJ">greatte</w>
+    <w POS="N">nede</w>
+    <w POS=",">,</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">coude</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">shoote</w>
+    <w POS="ONE">one</w>
+    <w POS="N">shote</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">hurte</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">ennemyes</w>
+    <w POS=",">,</w>
+    <w POS="P">tyll</w>
+    <w POS="PRO">they</w>
+    <w POS="HVD">hadde</w>
+    <w POS="VBN">caste</w>
+    <w POS="RP">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">cotes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBN">cut</w>
+    <w POS="RP">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">sleues</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">fer</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ADJ">common</w>
+    <w POS="N">weale</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">realme</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="VBD">began</w>
+    <w POS="ADV">fyrste</w>
+    <w POS="P">with</w>
+    <w POS="N">honour</w>
+    <w POS=",">,</w>
+    <w POS="N">worship</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">honesty</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">endeth</w>
+    <w POS="P">in</w>
+    <w POS="N">pryde</w>
+    <w POS=",">,</w>
+    <w POS="N">presumption</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">pouertye</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherof</w>
+    <w POS="VBP">speketh</w>
+    <w POS="NPR">saint</w>
+    <w POS="NPR">Austin</w>
+    <w POS=",">,</w>
+    <w POS="FW">Quemcunque</w>
+    <w POS="FW">superbum</w>
+    <w POS="FW">esse</w>
+    <w POS="FW">videris</w>
+    <w POS=",">,</w>
+    <w POS="FW">diaboli</w>
+    <w POS="FW">filium</w>
+    <w POS="FW">esse</w>
+    <w POS="FW">ne</w>
+    <w POS="FW">dubites</w>
+    <w POS=",">:</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">say</w>
+    <w POS=",">,</w>
+    <w POS="WPRO+ADV+ADV">who-so-euer</w>
+    <w POS="PRO">thou</w>
+    <w POS="VBP">seest</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">proude</w>
+    <w POS=",">,</w>
+    <w POS="VBI">dout</w>
+    <w POS="PRO">the</w>
+    <w POS="NEG">not</w>
+    <w POS=",">,</w>
+    <w POS="FP">but</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="NPR$">diuels</w>
+    <w POS="N">chylde</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherfore</w>
+    <w POS="P">agaynst</w>
+    <w POS="N">pryde</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">byddeth</w>
+    <w POS="PRO">the</w>
+    <w POS="VB">remembre</w>
+    <w POS=",">:</w>
+    <w POS="FW">Quid</w>
+    <w POS="FW">fuisti</w>
+    <w POS=",">,</w>
+    <w POS="FW">quid</w>
+    <w POS="FW">es</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">qualis</w>
+    <w POS="FW">post</w>
+    <w POS="FW">mortem</w>
+    <w POS="FW">eris</w>
+    <w POS=",">:</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">say</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">what</w>
+    <w POS="PRO">thou</w>
+    <w POS="BED">were</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">what</w>
+    <w POS="PRO">thou</w>
+    <w POS="BEP">art</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="WPRO">what</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">shalte</w>
+    <w POS="BE">be</w>
+    <w POS="P">after</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">death</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="NPR">S.</w>
+    <w POS="NPR">Bernarde</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="FW">Homo</w>
+    <w POS="FW">nihil</w>
+    <w POS="FW">aliud</w>
+    <w POS="FW">est</w>
+    <w POS=",">,</w>
+    <w POS="FW">quam</w>
+    <w POS="FW">sperma</w>
+    <w POS="FW">fetidum</w>
+    <w POS=",">,</w>
+    <w POS="FW">saccus</w>
+    <w POS="FW">stercorum</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">esca</w>
+    <w POS="FW">vermium</w>
+    <w POS=",">:</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">saye</w>
+    <w POS=",">,</w>
+    <w POS="D">A</w>
+    <w POS="N">man</w>
+    <w POS="BEP">is</w>
+    <w POS="Q+N">nothynge</w>
+    <w POS="P">but</w>
+    <w POS="VAG">stynkynge</w>
+    <w POS="N">fylthe</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="N">sacke</w>
+    <w POS="P">of</w>
+    <w POS="N">dounge</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS$">wormes</w>
+    <w POS="N">meate</w>
+    <w POS=",">.</w>
+    <w POS="D">The</w>
+    <w POS="WD">whiche</w>
+    <w POS="NS">sayinges</w>
+    <w POS="MD">wolde</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">remembred</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">than</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS="D">this</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">sufficient</w>
+    <w POS="P">at</w>
+    <w POS="D">this</w>
+    <w POS="N">time</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">first</w>
+    <w POS="N">point</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NUM">thre</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">152</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">Of</w>
+    <w POS="ADJ">delycyouse</w>
+    <w POS="NS">meates</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">drynkes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="WADV">Howe</w>
+    <w POS="ADJ">costely</w>
+    <w POS="BEP">are</w>
+    <w POS="D">the</w>
+    <w POS="NS">charges</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">delycyous</w>
+    <w POS="NS">meates</w>
+    <w POS="CONJ">&amp;</w>
+    <w POS="NS">drynkes</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">nowe</w>
+    <w POS="QS">most</w>
+    <w POS="ADV">commonly</w>
+    <w POS="VAN">vsed</w>
+    <w POS=",">,</w>
+    <w POS="P">ouer</w>
+    <w POS="D">that</w>
+    <w POS="PRO">it</w>
+    <w POS="HVP">hath</w>
+    <w POS="BEN">ben</w>
+    <w POS="P">in</w>
+    <w POS="NS">tymes</w>
+    <w POS="VBN">paste</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="WADV">howe</w>
+    <w POS="ADJ">fer</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=".">?</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">seen</w>
+    <w POS="NS">bokes</w>
+    <w POS="P">of</w>
+    <w POS="N">accompte</w>
+    <w POS="P">of</w>
+    <w POS="N+N">householde</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">brumentes</w>
+    <w POS="P">vpon</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">&amp;</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">doubte</w>
+    <w POS="NEG">not</w>
+    <w POS=",">,</w>
+    <w POS="FP">but</w>
+    <w POS="P">in</w>
+    <w POS="ADJ">delycyous</w>
+    <w POS="NS">meates</w>
+    <w POS=",">,</w>
+    <w POS="NS">drinkes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">spyces</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="P">at</w>
+    <w POS="D">this</w>
+    <w POS="N">daye</w>
+    <w POS="NUM">foure</w>
+    <w POS="NS">tymes</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">moche</w>
+    <w POS="VAN">spent</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="BED">was</w>
+    <w POS="P">at</w>
+    <w POS="D">these</w>
+    <w POS="NS">dayes</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyke</w>
+    <w POS="N">man</w>
+    <w POS="P">in</w>
+    <w POS="N">degree</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="P">at</w>
+    <w POS="D">that</w>
+    <w POS="N">tyme</w>
+    <w POS="EX">there</w>
+    <w POS="BED">was</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">moche</w>
+    <w POS="N">befe</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">mutton</w>
+    <w POS="VAN">spent</w>
+    <w POS="P">as</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV">nowe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">many</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">housholdes</w>
+    <w POS="VAN">kept</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">many</w>
+    <w POS="NS">yomenne</w>
+    <w POS="NS">wayters</w>
+    <w POS="ADV+P">therin</w>
+    <w POS="P">as</w>
+    <w POS="BEP">be</w>
+    <w POS="ADV">nowe</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="VBD">began</w>
+    <w POS="P">with</w>
+    <w POS="N">loue</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">charytye</w>
+    <w POS="P">whan</w>
+    <w POS="D">a</w>
+    <w POS="N">lorde</w>
+    <w POS=",">,</w>
+    <w POS="ADJ+N">gentylman</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">yoman</w>
+    <w POS="VBD">desyred</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBD">prayed</w>
+    <w POS="D">an</w>
+    <w POS="OTHER">other</w>
+    <w POS="TO">to</w>
+    <w POS="VB">come</w>
+    <w POS="P">to</w>
+    <w POS="N">dyner</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">soupper</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P+N">bycause</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">commynge</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wolde</w>
+    <w POS="HV">haue</w>
+    <w POS="D">a</w>
+    <w POS="N">dysshe</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">two</w>
+    <w POS="QR">mo</w>
+    <w POS="P">than</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wolde</w>
+    <w POS="HV">haue</w>
+    <w POS="HVN">had</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">he</w>
+    <w POS="HVD">had</w>
+    <w POS="BEN">ben</w>
+    <w POS="ADV">away</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Than</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">very</w>
+    <w POS="N">loue</w>
+    <w POS="PRO">he</w>
+    <w POS=",">,</w>
+    <w POS="VAG">remembrynge</w>
+    <w POS="WADV">howe</w>
+    <w POS="ADV">louyngely</w>
+    <w POS="PRO">he</w>
+    <w POS="BED">was</w>
+    <w POS="VAN">bydden</w>
+    <w POS="P">to</w>
+    <w POS="N">dynner</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="WADV">howe</w>
+    <w POS="ADV">well</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">fared</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">thynketh</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">very</w>
+    <w POS="N">kyndnes</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">muste</w>
+    <w POS="N">nedes</w>
+    <w POS="VB">byd</w>
+    <w POS="PRO">hym</w>
+    <w POS="P">to</w>
+    <w POS="N">dyner</w>
+    <w POS="ADV">agayne</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">soo</w>
+    <w POS="VBP">ordeyneth</w>
+    <w POS="P">for</w>
+    <w POS="PRO">hym</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">manye</w>
+    <w POS="NS">maner</w>
+    <w POS="P">of</w>
+    <w POS="SUCH">suche</w>
+    <w POS="NS">dysshes</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">meates</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">man</w>
+    <w POS="DOD">dyd</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NUM">two</w>
+    <w POS="CONJ">or</w>
+    <w POS="NUM">.iii.</w>
+    <w POS="QR">mo</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">&amp;</w>
+    <w POS="ADV">thus</w>
+    <w POS="P">by</w>
+    <w POS="Q">lyttel</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">litell</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">common</w>
+    <w POS="ADJ">fer</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="VBD">begon</w>
+    <w POS="P">of</w>
+    <w POS="N">loue</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">charyte</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">endeth</w>
+    <w POS="P">in</w>
+    <w POS="N">pryde</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">glotony</w>
+    <w POS=",">,</w>
+    <w POS="WADV+P">wherof</w>
+    <w POS="NPR">saynte</w>
+    <w POS="NPR">Ierome</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">:</w>
+    <w POS="FW">Qui</w>
+    <w POS="FW">post</w>
+    <w POS="FW">carnem</w>
+    <w POS="FW">ambulant</w>
+    <w POS=",">,</w>
+    <w POS="FW">in</w>
+    <w POS="FW">ventrem</w>
+    <w POS="FW">et</w>
+    <w POS="FW">libidinem</w>
+    <w POS="FW">proni</w>
+    <w POS="FW">sunt</w>
+    <w POS=",">,</w>
+    <w POS="FW">quasi</w>
+    <w POS="FW">irrationabilia</w>
+    <w POS="FW">iumenta</w>
+    <w POS="FW">reputantur</w>
+    <w POS=",">.</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">say</w>
+    <w POS=",">,</w>
+    <w POS="PRO">They</w>
+    <w POS="C">that</w>
+    <w POS="VBP">walke</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">redy</w>
+    <w POS="TO">to</w>
+    <w POS="VB">fulfill</w>
+    <w POS="D">the</w>
+    <w POS="N">lust</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">fleshe</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">the</w>
+    <w POS="N">bely</w>
+    <w POS=",">,</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">taken</w>
+    <w POS="P">as</w>
+    <w POS="ADJ">vnreasonable</w>
+    <w POS="NS">beastes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">sayncte</w>
+    <w POS="NPR">Gregory</w>
+    <w POS="VBP">sayth</w>
+    <w POS=",">,</w>
+    <w POS="FW">Dominante</w>
+    <w POS="FW">vicio</w>
+    <w POS="FW">gulae</w>
+    <w POS=",">,</w>
+    <w POS="FW">omnes</w>
+    <w POS="FW">virtutes</w>
+    <w POS="FW">per</w>
+    <w POS="FW">luxuriam</w>
+    <w POS="FW">et</w>
+    <w POS="FW">vanam</w>
+    <w POS="FW">gloriam</w>
+    <w POS="FW">obruuntur</w>
+    <w POS=",">:</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">saye</w>
+    <w POS=",">,</w>
+    <w POS="WADV">where</w>
+    <w POS="D">the</w>
+    <w POS="N">vice</w>
+    <w POS="P">of</w>
+    <w POS="N">glotony</w>
+    <w POS="HVP">hath</w>
+    <w POS="N">domination</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="NS">vertues</w>
+    <w POS="P">by</w>
+    <w POS="N">luxury</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">vayne</w>
+    <w POS="N">glory</w>
+    <w POS="BEP">are</w>
+    <w POS="VAN">cast</w>
+    <w POS="ADV">vnder</w>
+    <w POS=",">:</w>
+    <w POS="D">the</w>
+    <w POS="WD">whiche</w>
+    <w POS="NS">sayinges</w>
+    <w POS="MD">wold</w>
+    <w POS="P">in</w>
+    <w POS="ADJ+N">lykewise</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">remembred</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">this</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS="ADJ">sufficient</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="NUM">.ii.</w>
+    <w POS="N">poynte</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NUM">thre</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">153</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">Of</w>
+    <w POS="ADJ">outragious</w>
+    <w POS="N">playe</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">game</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">conueniente</w>
+    <w POS="FOR">for</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="P">of</w>
+    <w POS="WD">what</w>
+    <w POS="N">degree</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="BEP">be</w>
+    <w POS="P">of</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="HV">haue</w>
+    <w POS="N">playe</w>
+    <w POS="CONJ">&amp;</w>
+    <w POS="N">game</w>
+    <w POS="VAG">accordynge</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">degree</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="NPR">Cato</w>
+    <w POS="VBP">sayth</w>
+    <w POS=",">,</w>
+    <w POS="FW">Interpone</w>
+    <w POS="FW">tuis</w>
+    <w POS="FW">interdum</w>
+    <w POS="FW">gaudia</w>
+    <w POS="FW">curis</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="P">Amonge</w>
+    <w POS="PRO$">thy</w>
+    <w POS="NS">charges</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">busynes</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">muste</w>
+    <w POS="HV">haue</w>
+    <w POS="Q+N">sometyme</w>
+    <w POS="N">ioye</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">myrthe</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="ADV">nowe</w>
+    <w POS="P+NS">a-dayes</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="DAN">doone</w>
+    <w POS="ADJ">ferre</w>
+    <w POS="P">aboue</w>
+    <w POS="N">measure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="ADV">nowe</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">poore</w>
+    <w POS="N">man</w>
+    <w POS="P">in</w>
+    <w POS="N">regarde</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">playe</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">game</w>
+    <w POS=",">,</w>
+    <w POS="P">at</w>
+    <w POS="Q">all</w>
+    <w POS="N">maner</w>
+    <w POS="NS">games</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="ADJ+NS">gentylman</w>
+    <w POS="BED">were</w>
+    <w POS="VAN">wont</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ADJR">greater</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ+NS">gentilmen</w>
+    <w POS="P">as</w>
+    <w POS="NS">lordes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">lordes</w>
+    <w POS="P">as</w>
+    <w POS="NS">prynces</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">&amp;</w>
+    <w POS="ADV">ofte</w>
+    <w POS="NS">tymes</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">great</w>
+    <w POS="NS">estates</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">call</w>
+    <w POS="ADJ+NS">gentylmen</w>
+    <w POS="CONJ">or</w>
+    <w POS="NS">yomen</w>
+    <w POS="TO">to</w>
+    <w POS="VB">play</w>
+    <w POS="P">with</w>
+    <w POS="PRO">them</w>
+    <w POS="P">at</w>
+    <w POS="ADVR">as</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">game</w>
+    <w POS="P">as</w>
+    <w POS="PRO">they</w>
+    <w POS="DOP">do</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">call</w>
+    <w POS="PRO">it</w>
+    <w POS="D">a</w>
+    <w POS="N">disport</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS="D">a</w>
+    <w POS="ADV">very</w>
+    <w POS="ADJ">trewe</w>
+    <w POS="N">name</w>
+    <w POS="P">to</w>
+    <w POS="PRO">it</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">displeaseth</w>
+    <w POS="Q">some</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS="P">er</w>
+    <w POS="PRO">they</w>
+    <w POS="VBP">departe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">specyall</w>
+    <w POS="N">god</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="N">myspendynge</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">goodes</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">tyme</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="P">if</w>
+    <w POS="PRO">they</w>
+    <w POS="VBD">played</w>
+    <w POS="ADJ">smalle</w>
+    <w POS="NS">games</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">poore</w>
+    <w POS="N">man</w>
+    <w POS="C">that</w>
+    <w POS="VBP">playeth</w>
+    <w POS="MD">myght</w>
+    <w POS="VB">beare</w>
+    <w POS="PRO">it</w>
+    <w POS="P">thoughe</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">loste</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBD">bate</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">countenaunce</w>
+    <w POS=",">,</w>
+    <w POS="ADV">than</w>
+    <w POS="MD">myght</w>
+    <w POS="PRO">it</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">called</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">game</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">playe</w>
+    <w POS=",">,</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">sporte</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="N">pastyme</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">but</w>
+    <w POS="P">whan</w>
+    <w POS="ONE">one</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">lose</w>
+    <w POS="P">vpon</w>
+    <w POS="D">a</w>
+    <w POS="N">day</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="P">vpon</w>
+    <w POS="D">a</w>
+    <w POS="N">nyght</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">as</w>
+    <w POS="Q">moche</w>
+    <w POS="N">money</w>
+    <w POS="P">as</w>
+    <w POS="MD">wold</w>
+    <w POS="VB">fynde</w>
+    <w POS="PRO">hym</w>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">house</w>
+    <w POS="N">meate</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">drynke</w>
+    <w POS="D">a</w>
+    <w POS="N">moneth</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">quarter</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="N">yere</w>
+    <w POS="CONJ">or</w>
+    <w POS="QR">more</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="MD">maye</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">well</w>
+    <w POS="VAN">called</w>
+    <w POS="D">a</w>
+    <w POS="N">disporte</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">displeasure</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">ofte</w>
+    <w POS="NS">tymes</w>
+    <w POS=",">,</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="N">meanes</w>
+    <w POS="ADV+P">therof</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">causeth</w>
+    <w POS="PRO">theym</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sell</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">landes</w>
+    <w POS=",">,</w>
+    <w POS="VB">dysheryte</w>
+    <w POS="D">the</w>
+    <w POS="NS">heyres</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="MD">may</w>
+    <w POS="VB">fortune</w>
+    <w POS="TO">to</w>
+    <w POS="VB">fall</w>
+    <w POS="P">to</w>
+    <w POS="N">thefte</w>
+    <w POS=",">,</w>
+    <w POS="N">robbery</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="SUCH">suche</w>
+    <w POS="OTHERS">other</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">hurte</w>
+    <w POS="P">of</w>
+    <w POS="PRO+N">themselfe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">&amp;</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">chyldren</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">displeasure</w>
+    <w POS="P">of</w>
+    <w POS="NPR">god</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">they</w>
+    <w POS="ADV">so</w>
+    <w POS="DAG">doinge</w>
+    <w POS=",">,</w>
+    <w POS="Q">lyttel</w>
+    <w POS="DOP">do</w>
+    <w POS="PRO">they</w>
+    <w POS="VB">pondre</w>
+    <w POS="CONJ">or</w>
+    <w POS="VB">regarde</w>
+    <w POS="D">the</w>
+    <w POS="N">saying</w>
+    <w POS="P">of</w>
+    <w POS="NPR">saynt</w>
+    <w POS="NPR">Paule</w>
+    <w POS=",">;</w>
+    <w POS="FW">Iuxta</w>
+    <w POS="FW">facultates</w>
+    <w POS="FW">faciendi</w>
+    <w POS="FW">sunt</w>
+    <w POS="FW">sumptus</w>
+    <w POS=",">,</w>
+    <w POS="FW">ne</w>
+    <w POS="FW">longi</w>
+    <w POS="FW">temporis</w>
+    <w POS="FW">victum</w>
+    <w POS="FW">breuis</w>
+    <w POS="FW">hora</w>
+    <w POS="FW">consumat</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="D">This</w>
+    <w POS="N">play</w>
+    <w POS="VBD">begun</w>
+    <w POS="P">with</w>
+    <w POS="N">loue</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">charity</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">oft</w>
+    <w POS="NS">times</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">endeth</w>
+    <w POS="P">with</w>
+    <w POS="ADJ">couetous</w>
+    <w POS="N">wrath</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">enuy</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">this</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">thynketh</w>
+    <w POS="MD">shoulde</w>
+    <w POS="BE">be</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">sufficient</w>
+    <w POS="N">instruction</w>
+    <w POS="P">for</w>
+    <w POS="N">kepynge</w>
+    <w POS="P">of</w>
+    <w POS="N">measure</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">154</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N">prologue</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">thyrde</w>
+    <w POS="N">sayinge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">philosopher</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="PRO">thou</w>
+    <w POS="N">housbande</w>
+    <w POS="CONJ">and</w>
+    <w POS="N+N">housewife</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="HVP">haue</w>
+    <w POS="DON">done</w>
+    <w POS="PRO$">your</w>
+    <w POS="N">diligence</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">cure</w>
+    <w POS="P">about</w>
+    <w POS="PRO$">your</w>
+    <w POS="N">husbandrye</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">huswyfry</w>
+    <w POS=",">,</w>
+    <w POS="VAG">accordynge</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">fyrste</w>
+    <w POS="N">sayenge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">philosopher</w>
+    <w POS=",">,</w>
+    <w POS="FW">Adhibe</w>
+    <w POS="FW">curam</w>
+    <w POS=",">:</w>
+    <w POS="CONJ">And</w>
+    <w POS="ALSO">also</w>
+    <w POS="HVP">haue</w>
+    <w POS="ADV">well</w>
+    <w POS="VBN">remembred</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">fulfylled</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">seconde</w>
+    <w POS="N">sayinge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="VAN">sayde</w>
+    <w POS="N">philosopher</w>
+    <w POS=",">,</w>
+    <w POS="FW">Tene</w>
+    <w POS="FW">mensuram</w>
+    <w POS=",">:</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">doubte</w>
+    <w POS="NEG">not</w>
+    <w POS="FP">but</w>
+    <w POS="PRO">ye</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">ryche</w>
+    <w POS="VAG">accordyng</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">thyrde</w>
+    <w POS="N">sayinge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="VAN">sayde</w>
+    <w POS="N">philosopher</w>
+    <w POS=",">,</w>
+    <w POS="FW">Et</w>
+    <w POS="FW">eris</w>
+    <w POS="FW">diues</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">shewed</w>
+    <w POS="PRO">you</w>
+    <w POS="D">the</w>
+    <w POS="N">sayinge</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">philosopher</w>
+    <w POS=",">,</w>
+    <w POS="WADV+P">wherby</w>
+    <w POS="PRO">you</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">goten</w>
+    <w POS="Q">moche</w>
+    <w POS="ADJ">worldely</w>
+    <w POS="N">possession</w>
+    <w POS=",">,</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS="PRO">it</w>
+    <w POS="BED">were</w>
+    <w POS="ADJ">necessary</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">shewe</w>
+    <w POS="PRO">you</w>
+    <w POS="WADV">howe</w>
+    <w POS="PRO">ye</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">gette</w>
+    <w POS="ADJ">heuenly</w>
+    <w POS="NS">possessions</w>
+    <w POS=",">,</w>
+    <w POS="VAG">accordynge</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">sayenge</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">our</w>
+    <w POS="N">lorde</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="NPR">gospel</w>
+    <w POS=",">,</w>
+    <w POS="FW">Quid</w>
+    <w POS="FW">prodest</w>
+    <w POS="FW">homini</w>
+    <w POS=",">,</w>
+    <w POS="FW">si</w>
+    <w POS="FW">vniuersum</w>
+    <w POS="FW">mundum</w>
+    <w POS="FW">lucretur</w>
+    <w POS=",">,</w>
+    <w POS="FW">animae</w>
+    <w POS="FW">vero</w>
+    <w POS="FW">suae</w>
+    <w POS="FW">detrimentum</w>
+    <w POS="FW">paciatur</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="WPRO">What</w>
+    <w POS="VBP">profyteth</w>
+    <w POS="PRO">it</w>
+    <w POS="P">to</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="P">thoughe</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">wyn</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="N">worlde</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">hyndraunce</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">losyng</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">soule</w>
+    <w POS=".">?</w>
+  </line>
+  <line>
+    <w POS="ADV31">Howe</w>
+    <w POS="ADV32">be</w>
+    <w POS="ADV33">it</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="MD">shoulde</w>
+    <w POS="VB">seme</w>
+    <w POS="ADJ">vnconuenient</w>
+    <w POS="FOR">for</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">temporall</w>
+    <w POS="N">man</w>
+    <w POS="TO">to</w>
+    <w POS="VB">take</w>
+    <w POS="P">vpon</w>
+    <w POS="PRO">hym</w>
+    <w POS="TO">to</w>
+    <w POS="VB">shewe</w>
+    <w POS="CONJ">or</w>
+    <w POS="VB">teache</w>
+    <w POS="Q">any</w>
+    <w POS="SUCH">suche</w>
+    <w POS="ADJ">spirytuall</w>
+    <w POS="NS">matters</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">diuersytie</w>
+    <w POS="P">betwene</w>
+    <w POS="N">predication</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">doctrine</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N">diuersitie</w>
+    <w POS="P">betwene</w>
+    <w POS="N">predication</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">doctrine</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">As</w>
+    <w POS="NPR">sayncte</w>
+    <w POS="NPR">Iherome</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="EX">there</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">greate</w>
+    <w POS="N">difference</w>
+    <w POS="CONJ">or</w>
+    <w POS="N">diuersitie</w>
+    <w POS="P">betwene</w>
+    <w POS="N">preachinge</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">doctrine</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">A</w>
+    <w POS="N">preachyng</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">sermon</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="WADV">where</w>
+    <w POS="BEP">$is</w>
+    <w POS="D">a</w>
+    <w POS="N">conuocation</w>
+    <w POS="CONJ">or</w>
+    <w POS="D">a</w>
+    <w POS="N">gatherynge</w>
+    <w POS="P">of</w>
+    <w POS="NS">people</w>
+    <w POS="P">on</w>
+    <w POS="ADJ">holye</w>
+    <w POS="NS">dayes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="OTHER">other</w>
+    <w POS="NS">dayes</w>
+    <w POS="P">in</w>
+    <w POS="NS">churches</w>
+    <w POS="CONJ">or</w>
+    <w POS="OTHER">other</w>
+    <w POS="NS">places</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="NS">times</w>
+    <w POS="VAN">sette</w>
+    <w POS="CONJ">and</w>
+    <w POS="VAN">ordeyned</w>
+    <w POS="P">for</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">belongeth</w>
+    <w POS="P">to</w>
+    <w POS="PRO">theym</w>
+    <w POS="C">that</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">ordeyned</w>
+    <w POS="ADV+P">there-vnto</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">haue</w>
+    <w POS="N">iurisdiction</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">auctorytie</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">to</w>
+    <w POS="Q">none</w>
+    <w POS="OTHER">other</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">But</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS="MD">may</w>
+    <w POS="ADV">lawefully</w>
+    <w POS="VB">enforme</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">teache</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">brother</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="Q">any</w>
+    <w POS="OTHER">other</w>
+    <w POS=",">,</w>
+    <w POS="P">at</w>
+    <w POS="Q">euery</w>
+    <w POS="N">tyme</w>
+    <w POS="CONJ">and</w>
+    <w POS="N">place</w>
+    <w POS="ADJ">behouable</w>
+    <w POS=",">,</w>
+    <w POS="P">if</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">seme</w>
+    <w POS="ADJ">expedient</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS="D">an</w>
+    <w POS="NS+N">almes-dede</w>
+    <w POS=",">,</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS="BEP">is</w>
+    <w POS="VAN">holden</w>
+    <w POS="CONJ">&amp;</w>
+    <w POS="VAN">bounde</w>
+    <w POS="TO">to</w>
+    <w POS="DO">do</w>
+    <w POS=",">,</w>
+    <w POS="VAG">accordyng</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">sayenge</w>
+    <w POS="P">of</w>
+    <w POS="NPR">saynt</w>
+    <w POS="NPR">Peter</w>
+    <w POS=",">,</w>
+    <w POS="FW">Vnusquisque</w>
+    <w POS=",">,</w>
+    <w POS="FW">sicut</w>
+    <w POS="FW">accepit</w>
+    <w POS="FW">gratiam</w>
+    <w POS=",">,</w>
+    <w POS="FW">in</w>
+    <w POS="FW">alterutrum</w>
+    <w POS="FW">illam</w>
+    <w POS="FW">administrare</w>
+    <w POS="FW">debet</w>
+    <w POS=",">.</w>
+    <w POS="D">That</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">saye</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">taken</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBN">recyued</w>
+    <w POS="N">grace</w>
+    <w POS=",">,</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">oughte</w>
+    <w POS="TO">to</w>
+    <w POS="VB">mynyster</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">shewe</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">forthe</w>
+    <w POS="P">to</w>
+    <w POS="OTHERS">other</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="P">as</w>
+    <w POS="NPR">Chrisostome</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">merite</w>
+    <w POS="BEP">is</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">great</w>
+    <w POS="N">reward</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">shall</w>
+    <w POS="HV">haue</w>
+    <w POS="P">in</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">come</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">which</w>
+    <w POS="VBP">writeth</w>
+    <w POS="CONJ">or</w>
+    <w POS="VBP">causeth</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">writen</w>
+    <w POS=",">,</w>
+    <w POS="ADJ">holy</w>
+    <w POS="N">doctrine</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="D">that</w>
+    <w POS="N">entent</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">may</w>
+    <w POS="VB">se</w>
+    <w POS="P">in</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="WADV">howe</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">may</w>
+    <w POS="VB">lyue</w>
+    <w POS="ADV">holylye</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="OTHERS">other</w>
+    <w POS="MD">may</w>
+    <w POS="HV">haue</w>
+    <w POS="PRO">it</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">maye</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">edyfyed</w>
+    <w POS="CONJ">or</w>
+    <w POS="VAN">sanctyfyed</w>
+    <w POS="P">by</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">same</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">for</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">saythe</w>
+    <w POS="ADV">surely</w>
+    <w POS=",">,</w>
+    <w POS="VBI">knowe</w>
+    <w POS="PRO">thou</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="WADV">howe</w>
+    <w POS="Q">many</w>
+    <w POS="NS">soules</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">saued</w>
+    <w POS="P">by</w>
+    <w POS="PRO">the</w>
+    <w POS=",">,</w>
+    <w POS="ADVR">soo</w>
+    <w POS="Q">many</w>
+    <w POS="NS">rewardes</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">shalte</w>
+    <w POS="HV">haue</w>
+    <w POS="P">for</w>
+    <w POS="Q">eyther</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="NPR">saynt</w>
+    <w POS="NPR">Gregory</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="FW">Nullum</w>
+    <w POS="FW">sacrificium</w>
+    <w POS="FW">ita</w>
+    <w POS="FW">placet</w>
+    <w POS="FW">deo</w>
+    <w POS=",">,</w>
+    <w POS="FW">sicut</w>
+    <w POS="FW">zelus</w>
+    <w POS="FW">animarum</w>
+    <w POS=",">:</w>
+  </line>
+  <line>
+    <w POS="EX">There</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="N">sacrifyce</w>
+    <w POS="C">that</w>
+    <w POS="VBP">pleaseth</w>
+    <w POS="NPR">god</w>
+    <w POS="ADVR">so</w>
+    <w POS="Q">moche</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="D">the</w>
+    <w POS="N">loue</w>
+    <w POS="P">of</w>
+    <w POS="NS">soules</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ALSO">also</w>
+    <w POS="PRO">he</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="FW">Ille</w>
+    <w POS="FW">apud</w>
+    <w POS="FW">deum</w>
+    <w POS="FW">maior</w>
+    <w POS="FW">est</w>
+    <w POS="FW">in</w>
+    <w POS="FW">amore</w>
+    <w POS=",">,</w>
+    <w POS="FW">qui</w>
+    <w POS="FW">ad</w>
+    <w POS="FW">eius</w>
+    <w POS="FW">amorem</w>
+    <w POS="FW">plurimos</w>
+    <w POS="FW">trahit</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">He</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJS">greateste</w>
+    <w POS="P">in</w>
+    <w POS="N">fauour</w>
+    <w POS="P">with</w>
+    <w POS="NPR">god</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="VBP">draweth</w>
+    <w POS="QS">moste</w>
+    <w POS="NS">men</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">loue</w>
+    <w POS="P">of</w>
+    <w POS="NPR">god</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherfore</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS=",">,</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJ">conuenient</w>
+    <w POS="TO">to</w>
+    <w POS="VB">enforme</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">shewe</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="WADV">how</w>
+    <w POS="PRO">they</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">gette</w>
+    <w POS="ADJ">heuenly</w>
+    <w POS="NS">possessions</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Than</w>
+    <w POS="P">to</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">purpose</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="N">poynt</w>
+    <w POS="WADV">where</w>
+    <w POS="PRO">I</w>
+    <w POS="VBD">lefte</w>
+    <w POS=",">,</w>
+    <w POS="'">'</w>
+    <w POS="ADV">nowe</w>
+    <w POS="PRO">thou</w>
+    <w POS="BEP">art</w>
+    <w POS="ADJ">ryche</w>
+    <w POS=".">.</w>
+    <w POS="'">'</w>
+  </line>
+  <line>
+    <w POS="WPRO">What</w>
+    <w POS="BEP">is</w>
+    <w POS="NS">rychesse</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">It</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">vnderstande</w>
+    <w POS="WPRO">what</w>
+    <w POS="BEP">is</w>
+    <w POS="NS">rychesse</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">as</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS=",">,</w>
+    <w POS="NS">rychesse</w>
+    <w POS="BEP">is</w>
+    <w POS="D">that</w>
+    <w POS="N">thynge</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BEP">is</w>
+    <w POS="P">of</w>
+    <w POS="N">goodnes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">taken</w>
+    <w POS="ADV">awaye</w>
+    <w POS="P">from</w>
+    <w POS="D">the</w>
+    <w POS="N">owner</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">neyther</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="ADJ">temporall</w>
+    <w POS="N">lyfe</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="P">in</w>
+    <w POS="D">the</w>
+    <w POS="N">lyfe</w>
+    <w POS="ADV+VAG">euerlastynge</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Than</w>
+    <w POS="D">these</w>
+    <w POS="ADJ">worldly</w>
+    <w POS="NS">possessions</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">spoken</w>
+    <w POS="P">of</w>
+    <w POS=",">,</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">no</w>
+    <w POS="N">richesse</w>
+    <w POS=",">,</w>
+    <w POS="P">for</w>
+    <w POS="WADV">why</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="FP">but</w>
+    <w POS="NS">floures</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="N">worlde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">that</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="ADV">wel</w>
+    <w POS="VAN">consydered</w>
+    <w POS="P">by</w>
+    <w POS="NPR">Iob</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="BED">was</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">rychest</w>
+    <w POS="N">man</w>
+    <w POS="P">of</w>
+    <w POS="ADJ">worldely</w>
+    <w POS="NS">possessions</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="BED">was</w>
+    <w POS="VAG">lyuynge</w>
+    <w POS="P">in</w>
+    <w POS="D">those</w>
+    <w POS="NS">daies</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">sodeynely</w>
+    <w POS="PRO">he</w>
+    <w POS="BED">was</w>
+    <w POS="D">the</w>
+    <w POS="ADJS">poorest</w>
+    <w POS="N">man</w>
+    <w POS="ADV">agayne</w>
+    <w POS="C">that</w>
+    <w POS="MD">coulde</w>
+    <w POS="BE">be</w>
+    <w POS="VAG">lyuynge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">all</w>
+    <w POS="D">the</w>
+    <w POS="N">whyle</w>
+    <w POS="PRO">he</w>
+    <w POS="VBD">toke</w>
+    <w POS="N">pacyence</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="BED">was</w>
+    <w POS="ADJ">content</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="VBP">appereth</w>
+    <w POS="P">by</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">sayenge</w>
+    <w POS=",">,</w>
+    <w POS="FW">Dominus</w>
+    <w POS="FW">dedit</w>
+    <w POS=",">,</w>
+    <w POS="FW">dominus</w>
+    <w POS="FW">abstulit</w>
+    <w POS=",">:</w>
+    <w POS="FW">sicut</w>
+    <w POS="FW">domino</w>
+    <w POS="FW">placuit</w>
+    <w POS=",">,</w>
+    <w POS="FW">ita</w>
+    <w POS="FW">factum</w>
+    <w POS="FW">est</w>
+    <w POS=",">,</w>
+    <w POS="FW">sit</w>
+    <w POS="FW">nomen</w>
+    <w POS="FW">domini</w>
+    <w POS="FW">benedictum</w>
+    <w POS=",">:</w>
+  </line>
+  <line>
+    <w POS="PRO$">Our</w>
+    <w POS="NPR">lorde</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">gyuen</w>
+    <w POS="PRO">it</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="PRO$">our</w>
+    <w POS="NPR">lorde</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">taken</w>
+    <w POS="PRO">it</w>
+    <w POS="ADV">awaye</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">as</w>
+    <w POS="PRO">it</w>
+    <w POS="VBP">pleaseth</w>
+    <w POS="PRO$">our</w>
+    <w POS="NPR">lorde</w>
+    <w POS=",">,</w>
+    <w POS="ADV">so</w>
+    <w POS="BEP">be</w>
+    <w POS="PRO">it</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="ADJ">blessed</w>
+    <w POS="BEP">be</w>
+    <w POS="D">the</w>
+    <w POS="N">name</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">our</w>
+    <w POS="NPR">lorde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="WD">whiche</w>
+    <w POS="NPR">Iob</w>
+    <w POS="MD">may</w>
+    <w POS="BE">be</w>
+    <w POS="D">an</w>
+    <w POS="N">ensample</w>
+    <w POS="P">to</w>
+    <w POS="Q">euery</w>
+    <w POS="ADJ">true</w>
+    <w POS="ADJ">chrysten</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">pacyence</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">good</w>
+    <w POS="N">liuing</w>
+    <w POS="P">in</w>
+    <w POS="N">tribulation</w>
+    <w POS=",">,</w>
+    <w POS="P">as</w>
+    <w POS="VBP">appereth</w>
+    <w POS="P">in</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">storye</w>
+    <w POS=",">,</w>
+    <w POS="WPRO">who</w>
+    <w POS="C">that</w>
+    <w POS="VBP">lyste</w>
+    <w POS="TO">to</w>
+    <w POS="VB">rede</w>
+    <w POS="ADV+P">therin</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="NPR">saynte</w>
+    <w POS="NPR">Austyne</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">:</w>
+    <w POS="FW">Qui</w>
+    <w POS="FW">terrenis</w>
+    <w POS="FW">inhiat</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">aeterna</w>
+    <w POS="FW">non</w>
+    <w POS="FW">cogitat</w>
+    <w POS=",">,</w>
+    <w POS="FW">vtrisque</w>
+    <w POS="FW">in</w>
+    <w POS="FW">futuro</w>
+    <w POS="FW">carebit</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">he</w>
+    <w POS="C">that</w>
+    <w POS="VBP">gathereth</w>
+    <w POS="RP">in</w>
+    <w POS="ADJ">worldly</w>
+    <w POS="NS">thynges</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">thynketh</w>
+    <w POS="NEG">not</w>
+    <w POS="P">vppon</w>
+    <w POS="ADV+VAG">euerlastynge</w>
+    <w POS="NS">thynges</w>
+    <w POS=",">,</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">wante</w>
+    <w POS="Q">bothe</w>
+    <w POS="P">in</w>
+    <w POS="N">tyme</w>
+    <w POS="TO">to</w>
+    <w POS="VB">come</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="NPR">sayncte</w>
+    <w POS="NPR">Ambrose</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="FW">Non</w>
+    <w POS="FW">sunt</w>
+    <w POS="FW">bona</w>
+    <w POS="FW">hominis</w>
+    <w POS=",">,</w>
+    <w POS="FW">quae</w>
+    <w POS="FW">secum</w>
+    <w POS="FW">ferre</w>
+    <w POS="FW">non</w>
+    <w POS="FW">potest</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">They</w>
+    <w POS="BEP">are</w>
+    <w POS="NEG">not</w>
+    <w POS="D">the</w>
+    <w POS="NS">goodes</w>
+    <w POS="P">of</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="D">the</w>
+    <w POS="WPRO">whiche</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">$can</w>
+    <w POS="NEG">$not</w>
+    <w POS="VB">beare</w>
+    <w POS="P">with</w>
+    <w POS="PRO">him</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="NPR">saynte</w>
+    <w POS="NPR">Bernarde</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">:</w>
+    <w POS="FW">Si</w>
+    <w POS="FW">vestra</w>
+    <w POS="FW">sint</w>
+    <w POS=",">,</w>
+    <w POS="FW">tollite</w>
+    <w POS="FW">vobiscum</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="P">Yf</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="PRO$">yours</w>
+    <w POS=",">,</w>
+    <w POS="VBI">take</w>
+    <w POS="PRO">them</w>
+    <w POS="P">with</w>
+    <w POS="PRO">you</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Than</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">vnderstande</w>
+    <w POS=",">,</w>
+    <w POS="WD">what</w>
+    <w POS="NS">goodes</w>
+    <w POS="D">a</w>
+    <w POS="N">man</w>
+    <w POS="MD">shall</w>
+    <w POS="VB">take</w>
+    <w POS="P">with</w>
+    <w POS="PRO">hym</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">these</w>
+    <w POS="BEP">be</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">dedes</w>
+    <w POS="WADV+P">wherof</w>
+    <w POS="VBP">speketh</w>
+    <w POS="NPR">Crysostome</w>
+    <w POS=",">:</w>
+    <w POS="FW">Fac</w>
+    <w POS="FW">bene</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">operare</w>
+    <w POS="FW">iustitiam</w>
+    <w POS=",">,</w>
+    <w POS="FW">vt</w>
+    <w POS="FW">spem</w>
+    <w POS="FW">habeas</w>
+    <w POS="FW">apud</w>
+    <w POS="FW">deum</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">non</w>
+    <w POS="FW">desperabis</w>
+    <w POS="FW">in</w>
+    <w POS="FW">terra</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="DOI">Doo</w>
+    <w POS="ADV">well</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBI">worke</w>
+    <w POS="ADV">ryghtwysly</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="PRO">thou</w>
+    <w POS="MD">mayste</w>
+    <w POS="HV">haue</w>
+    <w POS="N">truste</w>
+    <w POS="P">in</w>
+    <w POS="NPR">god</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="C">that</w>
+    <w POS="PRO">thou</w>
+    <w POS="BEP">be</w>
+    <w POS="NEG">not</w>
+    <w POS="P">in</w>
+    <w POS="N">despayre</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="N">worlde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="VAG">Accordynge</w>
+    <w POS="P">to</w>
+    <w POS="D">that</w>
+    <w POS="VBP">saythe</w>
+    <w POS="D">the</w>
+    <w POS="N">prophete</w>
+    <w POS="NPR">Dauyd</w>
+    <w POS=",">,</w>
+    <w POS="FW">Iunior</w>
+    <w POS="FW">fui</w>
+    <w POS=",">,</w>
+    <w POS="FW">etenim</w>
+    <w POS="FW">senui</w>
+    <w POS=",">,</w>
+    <w POS="FW">et</w>
+    <w POS="FW">non</w>
+    <w POS="FW">vidi</w>
+    <w POS="FW">iustum</w>
+    <w POS="FW">derelictum</w>
+    <w POS=",">,</w>
+    <w POS="FW">nec</w>
+    <w POS="FW">semen</w>
+    <w POS="FW">eius</w>
+    <w POS="FW">querens</w>
+    <w POS="FW">panem</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="BEN">been</w>
+    <w POS="ADJ">yonge</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">waxen</w>
+    <w POS="ADJ">olde</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="PRO">I</w>
+    <w POS="HVP">haue</w>
+    <w POS="NEG">not</w>
+    <w POS="VBN">seen</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">ryghtwyse</w>
+    <w POS="N">man</w>
+    <w POS="VAN">forsaken</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">nor</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">chyldren</w>
+    <w POS="VAG">sekynge</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">breade</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="NUM">157</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="WPRO">What</w>
+    <w POS="BEP">is</w>
+    <w POS="D">the</w>
+    <w POS="N">propertie</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">riche</w>
+    <w POS="N">man</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="P">In</w>
+    <w POS="PRO$">myne</w>
+    <w POS="N">opynyon</w>
+    <w POS="D">the</w>
+    <w POS="N">propertye</w>
+    <w POS="P">of</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">ryche</w>
+    <w POS="N">manne</w>
+    <w POS="BEP">is</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="BE">be</w>
+    <w POS="D">a</w>
+    <w POS="N">purchaser</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">if</w>
+    <w POS="PRO">he</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">purchase</w>
+    <w POS=",">,</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">councell</w>
+    <w POS="PRO">hym</w>
+    <w POS="TO">to</w>
+    <w POS="VB">purchase</w>
+    <w POS="NPR">heuen</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="NPR">sayncte</w>
+    <w POS="NPR">Austyne</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">,</w>
+    <w POS="FW">Regnum</w>
+    <w POS="FW">caelorum</w>
+    <w POS="FW">nulli</w>
+    <w POS="FW">clauditur</w>
+    <w POS=",">,</w>
+    <w POS="FW">nisi</w>
+    <w POS="FW">illi</w>
+    <w POS=",">,</w>
+    <w POS="FW">qui</w>
+    <w POS="FW">se</w>
+    <w POS="FW">excluserit</w>
+    <w POS=",">:</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="N">kyngedome</w>
+    <w POS="P">of</w>
+    <w POS="NPR">heuen</w>
+    <w POS="BEP">is</w>
+    <w POS="P">to</w>
+    <w POS="Q">no</w>
+    <w POS="N">man</w>
+    <w POS="VAN">closed</w>
+    <w POS=",">,</w>
+    <w POS="P">but</w>
+    <w POS="P">to</w>
+    <w POS="PRO">hym</w>
+    <w POS="C">that</w>
+    <w POS="MD">wyll</w>
+    <w POS="VB">putte</w>
+    <w POS="RP">oute</w>
+    <w POS="PRO+N">hym-selfe</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherfore</w>
+    <w POS="D">this</w>
+    <w POS="N">texte</w>
+    <w POS="MD">maye</w>
+    <w POS="VB">gyue</w>
+    <w POS="PRO">the</w>
+    <w POS="D">a</w>
+    <w POS="N">courage</w>
+    <w POS="TO">to</w>
+    <w POS="VB">prefixe</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">mynde</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">make</w>
+    <w POS="ADV">there</w>
+    <w POS="PRO$">thy</w>
+    <w POS="N">purchase</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="NPR">Salomon</w>
+    <w POS="VBP">saythe</w>
+    <w POS=",">:</w>
+    <w POS="FW">Quod</w>
+    <w POS="FW">mali</w>
+    <w POS="FW">carius</w>
+    <w POS="FW">emunt</w>
+    <w POS="FW">infernum</w>
+    <w POS=",">,</w>
+    <w POS="FW">quam</w>
+    <w POS="FW">boni</w>
+    <w POS="FW">caelum</w>
+    <w POS=",">:</w>
+  </line>
+  <line>
+    <w POS="ADJ">Ill</w>
+    <w POS="NS">men</w>
+    <w POS="VBP">bye</w>
+    <w POS="NPR">hell</w>
+    <w POS="ADVR">derer</w>
+    <w POS=",">,</w>
+    <w POS="P">thanne</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">men</w>
+    <w POS="VBP">bie</w>
+    <w POS="NPR">heuen</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="D">that</w>
+    <w POS="PRO">me</w>
+    <w POS="VBP">semeth</w>
+    <w POS="MD">maye</w>
+    <w POS="ADV">well</w>
+    <w POS="BE">be</w>
+    <w POS="VAN">proued</w>
+    <w POS="P">by</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">common</w>
+    <w POS="N">ensample</w>
+    <w POS=",">:</w>
+    <w POS="P">As</w>
+    <w POS="P">if</w>
+    <w POS="PRO">I</w>
+    <w POS="HVD">had</w>
+    <w POS="D">a</w>
+    <w POS="NUM">.M.</w>
+    <w POS="NS">shepe</w>
+    <w POS="TO">to</w>
+    <w POS="VB">sell</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="ADJ">dyuers</w>
+    <w POS="NS">men</w>
+    <w POS="VBP">come</w>
+    <w POS="P">to</w>
+    <w POS="PRO">me</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">bye</w>
+    <w POS="Q">euery</w>
+    <w POS="N">manne</w>
+    <w POS="D">a</w>
+    <w POS="NUM">.C.</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">shepe</w>
+    <w POS=",">,</w>
+    <w POS="Q">all</w>
+    <w POS="P">of</w>
+    <w POS="ONE">one</w>
+    <w POS="N">price</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">paye</w>
+    <w POS="PRO">me</w>
+    <w POS="P">at</w>
+    <w POS="ADJ">dyuers</w>
+    <w POS="NS">dayes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="PRO">I</w>
+    <w POS="BEP">am</w>
+    <w POS="VBN">agreed</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">graunt</w>
+    <w POS="PRO">them</w>
+    <w POS="D">these</w>
+    <w POS="NS">dayes</w>
+    <w POS=".">;</w>
+  </line>
+  <line>
+    <w POS="Q">some</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="NS">menne</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJ">good</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">kepe</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">promesse</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="VBP">paye</w>
+    <w POS="PRO">me</w>
+    <w POS="P">at</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">dayes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="Q">some</w>
+    <w POS="P">of</w>
+    <w POS="PRO">theym</w>
+    <w POS="DOP">doo</w>
+    <w POS="NEG">not</w>
+    <w POS="VB">paye</w>
+    <w POS="PRO">me</w>
+    <w POS=",">.</w>
+    <w POS="WADV+P">Wherfore</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">sue</w>
+    <w POS="PRO">theym</w>
+    <w POS="P">at</w>
+    <w POS="D">the</w>
+    <w POS="N">lawe</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="P">by</w>
+    <w POS="N">course</w>
+    <w POS="P">of</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">common</w>
+    <w POS="N">lawe</w>
+    <w POS=",">,</w>
+    <w POS="PRO">I</w>
+    <w POS="DOP">doo</w>
+    <w POS="VB">recouer</w>
+    <w POS="PRO$">my</w>
+    <w POS="N">duetie</w>
+    <w POS="P">of</w>
+    <w POS="PRO">them</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="HVP">haue</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">bodyes</w>
+    <w POS="P">in</w>
+    <w POS="N">prisone</w>
+    <w POS="P">for</w>
+    <w POS="N">execution</w>
+    <w POS=",">,</w>
+    <w POS="P">tylle</w>
+    <w POS="PRO">they</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">made</w>
+    <w POS="PRO">me</w>
+    <w POS="N">payment</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="D">these</w>
+    <w POS="NS">men</w>
+    <w POS=",">,</w>
+    <w POS="C">that</w>
+    <w POS="HVP">haue</w>
+    <w POS="VBN">broken</w>
+    <w POS="PRO">me</w>
+    <w POS="N">promesse</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">payed</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">dewetye</w>
+    <w POS=",">,</w>
+    <w POS="VBP">bye</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">shepe</w>
+    <w POS="ADVR">derer</w>
+    <w POS="P">thanne</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">menne</w>
+    <w POS="VBD">bought</w>
+    <w POS="PRO$">theyrs</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">For</w>
+    <w POS="PRO">they</w>
+    <w POS="HVP">haue</w>
+    <w POS="N">imprysonment</w>
+    <w POS="P">of</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">bodyes</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="ADV">yet</w>
+    <w POS="MD">must</w>
+    <w POS="PRO">they</w>
+    <w POS="VB">pay</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="NS">duetyes</w>
+    <w POS="ADV31">neuer</w>
+    <w POS="ADV32">the</w>
+    <w POS="ADV33">lesse</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="ELSE">elles</w>
+    <w POS="VB">lye</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">dye</w>
+    <w POS="ADV">there</w>
+    <w POS="P">in</w>
+    <w POS="N">pryson</w>
+    <w POS=",">:</w>
+    <w POS="D">the</w>
+    <w POS="WD">whiche</w>
+    <w POS="NS">sheepe</w>
+    <w POS="BEP">be</w>
+    <w POS="ADJR">derer</w>
+    <w POS="P">to</w>
+    <w POS="PRO">them</w>
+    <w POS=",">,</w>
+    <w POS="P">then</w>
+    <w POS="P">to</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">men</w>
+    <w POS="C">that</w>
+    <w POS="VBD">kepte</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">promes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Righte</w>
+    <w POS="ADV">so</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS="VBP">chepeth</w>
+    <w POS="NPR">heuen</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="NPR">god</w>
+    <w POS="HVP">hath</w>
+    <w POS="VBN">sette</w>
+    <w POS="P">on</w>
+    <w POS="PRO">it</w>
+    <w POS="D">a</w>
+    <w POS="N">pryce</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">graunted</w>
+    <w POS="PRO">it</w>
+    <w POS="P">to</w>
+    <w POS="Q">euery</w>
+    <w POS="N">man</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VBN">giuen</w>
+    <w POS="P">to</w>
+    <w POS="PRO">them</w>
+    <w POS="NS">dayes</w>
+    <w POS="P">of</w>
+    <w POS="N">payment</w>
+    <w POS=".">:</w>
+  </line>
+  <line>
+    <w POS="D">the</w>
+    <w POS="N">pryce</w>
+    <w POS="BEP">is</w>
+    <w POS="Q">all</w>
+    <w POS="ONE">one</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">and</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">kepe</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">commaundementes</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="VB">fulfyll</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">promesse</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">and</w>
+    <w POS="HV">haue</w>
+    <w POS="NPR">heuen</w>
+    <w POS="P">at</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">decease</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="D">The</w>
+    <w POS="ADJ">yll</w>
+    <w POS="NS">men</w>
+    <w POS="VBP">breake</w>
+    <w POS="N">promesse</w>
+    <w POS=".">,</w>
+  </line>
+  <line>
+    <w POS="CONJ">&amp;</w>
+    <w POS="VBP">kepe</w>
+    <w POS="NEG">not</w>
+    <w POS="PRO$">his</w>
+    <w POS="NS">commaundementes</w>
+    <w POS=",">,</w>
+    <w POS="WADV+P">wherfore</w>
+    <w POS="P">at</w>
+    <w POS="PRO$">theyr</w>
+    <w POS="N">decease</w>
+    <w POS="PRO">they</w>
+    <w POS="BEP">be</w>
+    <w POS="VAN">put</w>
+    <w POS="P">in</w>
+    <w POS="N">pryson</w>
+    <w POS=",">,</w>
+    <w POS="D">that</w>
+    <w POS="BEP">is</w>
+    <w POS="TO">to</w>
+    <w POS="VB">say</w>
+    <w POS="P">in</w>
+    <w POS="NPR">hell</w>
+    <w POS=",">,</w>
+    <w POS="ADV">there</w>
+    <w POS="TO">to</w>
+    <w POS="VB">abyde</w>
+    <w POS="PRO$">his</w>
+    <w POS="N">ryghtuousenes</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ADV">soo</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">yll</w>
+    <w POS="NS">men</w>
+    <w POS="VBP">bye</w>
+    <w POS="NPR">hell</w>
+    <w POS="ADVR">derer</w>
+    <w POS=",">,</w>
+    <w POS="P">than</w>
+    <w POS="D">the</w>
+    <w POS="ADJ">good</w>
+    <w POS="NS">menne</w>
+    <w POS="VBP">bye</w>
+    <w POS="NPR">heuen</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="CONJ">And</w>
+    <w POS="ADV+P">therfore</w>
+    <w POS="PRO">it</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">better</w>
+    <w POS=",">,</w>
+    <w POS="TO">to</w>
+    <w POS="VB">forgoo</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttel</w>
+    <w POS="N">pleasure</w>
+    <w POS=",">,</w>
+    <w POS="CONJ">or</w>
+    <w POS="VB">suffer</w>
+    <w POS="D">a</w>
+    <w POS="ADJ">lyttell</w>
+    <w POS="N">payne</w>
+    <w POS="P">in</w>
+    <w POS="D">this</w>
+    <w POS="N">worlde</w>
+    <w POS=",">,</w>
+    <w POS="P">than</w>
+    <w POS="TO">to</w>
+    <w POS="VB">suffer</w>
+    <w POS="D">a</w>
+    <w POS="Q">moche</w>
+    <w POS="ADJR">greatter</w>
+    <w POS="CONJ">and</w>
+    <w POS="D">a</w>
+    <w POS="ADJR">lenger</w>
+    <w POS="N">payne</w>
+    <w POS="P">in</w>
+    <w POS="D">an</w>
+    <w POS="OTHER">other</w>
+    <w POS="N">worlde</w>
+    <w POS=".">.</w>
+  </line>
+  <line>
+    <w POS="ADV">Nowe</w>
+    <w POS="P">sythe</w>
+    <w POS="NPR">helle</w>
+    <w POS="BEP">is</w>
+    <w POS="ADJR">derer</w>
+    <w POS="P">than</w>
+    <w POS="NPR">heuen</w>
+    <w POS=",">,</w>
+    <w POS="PRO">I</w>
+    <w POS="VBP">aduyse</w>
+    <w POS="PRO">the</w>
+    <w POS="ADV">specyally</w>
+    <w POS="TO">to</w>
+    <w POS="VB">bye</w>
+    <w POS="NPR">heuen</w>
+    <w POS=",">,</w>
+    <w POS="WADV+P">wherin</w>
+    <w POS="BEP">is</w>
+    <w POS="ADV+VAG">euerlastynge</w>
+    <w POS="N">ioye</w>
+    <w POS="P">without</w>
+    <w POS="N">ende</w>
+    <w POS=".">.</w>
+  </line>
+</doc>

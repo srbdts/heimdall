@@ -1,0 +1,13 @@
+
+INPUT_TYPE = "xml"
+TAG_MARKER = "/" 
+
+LANGUAGES = ["latin"]
+RESOURCEDIR = "resources/"
+
+MIN_CONFIDENCE = [0.6]
+MAX_NOISE = [1]
+MIN_SEQUENCE = [5]
+LOGPROB_THRESHOLD = 2.5
+
+
