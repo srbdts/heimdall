@@ -11,6 +11,8 @@ class Word:
             self.text = re.sub(u'ſ',u's',word.text.lower(),flags=re.UNICODE)
             if "POS" in word.attrib:
                 self.tag = word.get("POS")
+            else:
+                self.tag = None
         else:
             if settings["TAG_MARKER"]:
                 try:

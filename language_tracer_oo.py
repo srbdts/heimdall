@@ -143,7 +143,7 @@ def trace(settings=None):
                 #print(words)
                 total_changed = True
         i += 1
-        if settings["TAG_FILES"]:
+        if settings["TAG_FILES"] and settings["INPUT_TYPE"] == "xml":
             outputfile_xml = open(os.path.join(settings["OUTPUTDIR"],inputfile.split("/")[-1]),"w")
             outputfile_xml.write(etree.tostring(root,pretty_print=True,encoding="unicode"))
             outputfile_xml.close()

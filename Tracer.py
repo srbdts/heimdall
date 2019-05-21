@@ -70,7 +70,7 @@ class Tracer:
                 self.n_words -= 1
                 i += 1
         sequence_conf = self.total_conf/self.n_words
-        self.finished = False 
+        self.finished = False
         if (self.n_words > self.min_sequence) and (sequence_conf > self.min_confidence):
             self.finished = True
             value = str(round(sequence_conf,5))
