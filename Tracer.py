@@ -3,14 +3,15 @@ from Word import *
 from LanguageModel import *
 
 class Tracer:
-    def __init__(self,language):
+    def __init__(self,language,settings):
         self.language = language
-        index = LANGUAGES.index(language)
-        self.min_confidence = MIN_CONFIDENCE[index]
-        self.max_noise = MAX_NOISE[index]
-        self.min_sequence = MIN_SEQUENCE[index]
+        #index = settings["LANGUAGES"].index(language)
+        self.min_confidence = settings["MIN_CONFIDENCE"]
+        self.max_noise = settings["MAX_NOISE"]
+        self.min_sequence = settings["MIN_SEQUENCE"]
         self.initialize()
         self.n_finished_sequences = 0
+        self.input_type = settings["INPUT_TYPE"]
 
     def initialize(self):
         self.n_words = 0 # transparent words not included
@@ -75,7 +76,7 @@ class Tracer:
             value = str(round(sequence_conf,5))
             label = self.language+"/"+str(self.n_finished_sequences)+"/"+value
             outputfile.write("%s\t%s\t" % (inputfile,label))
-            if INPUT_TYPE == "xml":
+            if self.input_type == "xml":
                 plain_text_sequence = []
                 for word in self.sequence:
                     if word.node.get("lang"):
