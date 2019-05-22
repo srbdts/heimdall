@@ -1,4 +1,4 @@
-from config import TAG_MARKER, LANGUAGES, MIN_CONFIDENCE, MAX_NOISE, MIN_SEQUENCE, LOGPROB_THRESHOLD, INPUT_TYPE
+#from config import TAG_MARKER, LANGUAGES, MIN_CONFIDENCE, MAX_NOISE, MIN_SEQUENCE, LOGPROB_THRESHOLD, INPUT_TYPE
 from Word import *
 from LanguageModel import *
 
@@ -90,15 +90,9 @@ class Tracer:
                             word.node.set("lang",label)
                     else:
                         word.node.set("lang",label)
-                    if word.tag:
-                        plain_text_sequence.append(word.text+TAG_MARKER+word.tag)
-                    else:
-                        plain_text_sequence.append(word.text)
+                    plain_text_sequence.append(word.text)
             else:
-                if TAG_MARKER:
-                    plain_text_sequence = [word.text+TAG_MARKER+word.tag for word in self.sequence]
-                else:
-                    plain_text_sequence = [word.text for word in self.sequence]
-            outputfile.write("%s\n" % (" ".join(plain_text_sequence)))
+                plain_text_sequence = [word.text for word in self.sequence]
+            outputfile.write("%s\t%s\n" % (" ".join(plain_text_sequence),len(plain_text_sequence)))
             self.n_finished_sequences += 1
 

@@ -3,12 +3,13 @@ from tkinter import *
 from tkinter import filedialog
 from tkinter.filedialog import askdirectory
 from tkinter.ttk import Progressbar
+import traceback
 
-from language_tracer_oo import trace
+from tracy_cl import trace
 
 offset = 0.5
 
-languagefiles = os.listdir("resources/")
+languagefiles = os.listdir("../resources/")
 available_languages = [languagefile.split(".")[0] for languagefile in languagefiles]
 print(available_languages)
 
@@ -16,7 +17,7 @@ master = Tk()
 
 master.title("Tracy")
 master.geometry("800x800")
-master.option_add("*Font","arial")
+#master.option_add("*Font","arial")
 
 inputdir = StringVar()
 inputdir.set("No directory selected")
@@ -29,7 +30,7 @@ frame_settings.place(relwidth=offset-0.03,relheight=0.96,relx=1-offset+0.01,rely
 frame_languages = LabelFrame(master,text="Language Options",relief=GROOVE,fg="coral2")
 x_f_languages = 1-offset+0.05
 y_f_languages = 0.05
-height_languages = 3*0.04+0.06*(len(available_languages)-1)+0.02
+height_languages = 3*0.04+0.04*(len(available_languages)-1)+0.02
 frame_languages.place(relwidth=offset-0.1,relheight=height_languages,relx=x_f_languages,rely=y_f_languages)
 
 frame_parameters = LabelFrame(master,text="Hyperparameters",relief=GROOVE,fg="coral2")
@@ -80,29 +81,22 @@ input_format.set("txt")
 
 label_word_tag = Label(master,text="word tag:")
 label_section_tag = Label(master,text="section tag:")
-label_tag_marker = Label(master,text="tag marker:")
 word_tag = Entry(master,font=("courier",9))
 word_tag.insert(0,"w")
 section_tag = Entry(master,font=("courier",9))
 section_tag.insert(0,"line")
-tag_marker = Entry(master,font=("courier",9))
-tag_marker.insert(0,"NONE")
-tag_files = IntVar()
-tag_files.set(0)
+tag_files = BooleanVar()
+tag_files.set(False)
 tag_checkbox = Checkbutton(master,text="tag input files",variable=tag_files)
 
 def check_xml():
     if input_format.get()== "xml":
-        label_tag_marker.place_forget()
-        tag_marker.place_forget()
         label_word_tag.place(relx=x_f_input+0.06,rely=y_f_input+0.20)
         label_section_tag.place(relx=x_f_input+0.06,rely=y_f_input+0.23)
         word_tag.place(relx=x_f_input+0.18,rely=y_f_input+0.2,relwidth=0.21)
         section_tag.place(relx=x_f_input+0.18,rely=y_f_input+0.23,relwidth=0.21)
         tag_checkbox.place(relx=x_f_input+0.06,rely=y_f_input+0.45)
     else:
-        label_tag_marker.place(relx=x_f_input+0.06,rely=y_f_input+0.2)
-        tag_marker.place(relx=x_f_input+0.18,rely=y_f_input+0.2,relwidth=0.21)
         label_word_tag.place_forget()
         label_section_tag.place_forget()
         word_tag.place_forget()
@@ -115,7 +109,7 @@ for i,f in enumerate(["txt","xml"]):
     y_b_def = y_f_format+i*0.03
     b.place(relx=x_b_def,rely=y_b_def)
 
-label_output_dir = Label(master,text="Input directory:")
+label_output_dir = Label(master,text="Output directory:")
 label_output_dir.place(relx=x_f_output+0.02,rely=y_f_output+0.04)
 
 outputdir = StringVar()
@@ -124,8 +118,6 @@ output_dir_text = Entry(master,font=("courier",9))
 output_dir_text.insert(0,outputdir.get())
 output_dir_text.place(relx=x_f_output+0.02,rely=y_f_output+0.09,relwidth=1-offset-0.13,relheight=0.03)
 
-label_tag_marker.place(relx=x_f_input+0.06,rely=y_f_input+0.2)
-tag_marker.place(relx=x_f_input+0.18,rely=y_f_input+0.2,relwidth=0.21)
 
 def browse_output_dir():
     new_output_directory = askdirectory()
@@ -142,24 +134,31 @@ browse_button.place(relx=x_f_output+0.18,rely=y_f_output+0.035)
 label_default_language = Label(master,text="Default language:")
 label_default_language.place(relx=x_f_languages+0.02,rely=y_f_languages+0.04)
         
+uppercase_languages = [lang.capitalize() for lang in available_languages]
 default_lang = StringVar()
-default_lang.set("english")
-for i,language in enumerate(available_languages):
-    b = Radiobutton(master,text=language.capitalize(),variable=default_lang,value=language)
-    x_b_def = x_f_languages+0.25
-    y_b_def = y_f_languages+0.04+i*0.03
-    b.place(relx=x_b_def,rely=y_b_def)
+default_lang.set(uppercase_languages[0])
+b = OptionMenu(master,default_lang,*tuple(uppercase_languages))
+#b = apply(OptionMenu, (master,default_lang) + tuple(available_languages))
+#for i,language in enumerate(available_languages):
+#    w = OptionMenu(master,default_lang,)
+#    b = Radiobutton(master,text=language.capitalize(),variable=default_lang,value=language)
+#    x_b_def = x_f_languages+0.25
+#    y_b_def = y_f_languages+0.04+i*0.03
+#    b.place(relx=x_b_def,rely=y_b_def)
+x_b_def = x_f_languages+0.18
+y_b_def = y_f_languages+0.03
+b.place(relx=x_b_def,rely=y_b_def)
 
 label_languages_to_detect = Label(master,text="Languages to detect:")
-label_languages_to_detect.place(relx=x_f_languages+0.02,rely=y_b_def+0.04)
+label_languages_to_detect.place(relx=x_f_languages+0.02,rely=y_b_def+0.05)
 
 active_languages = {}
 for i,language in enumerate(available_languages):
     v = IntVar()
     v.set(0)
     c = Checkbutton(master,text=language.capitalize(),variable=v)
-    x_c = x_f_languages+0.25
-    y_c = y_b_def+0.04+i*0.03
+    x_c = x_f_languages+0.1
+    y_c = y_b_def+0.08+i*0.03
     active_languages[language]=v
     c.place(relx=x_c,rely=y_c)
 
@@ -191,6 +190,7 @@ logprob.set(2.5)
 scale_logprob = Scale(master,variable=logprob,from_=1,to=5,orient="horizontal",resolution=0.5)
 scale_logprob.place(relx=x_f_parameters+0.02,rely=y_f_parameters+0.04+4*0.03+3*0.07,relwidth=offset-0.14)
 
+print(tag_files.get())
 
 def start():
     for language,activation_var in active_languages.items():
@@ -200,15 +200,15 @@ def start():
         "INPUTDIR": inputdir.get(),
         "OUTPUTDIR": outputdir.get(),
         "INPUT_TYPE": input_format.get(),
-        "TAG_MARKER": tag_marker.get(),
         "WORD_MARKER": word_tag.get(),
         "SECTION_MARKER": section_tag.get(),
-        "DEFAULT_LANGUAGE": default_lang.get(),
-        "LANGUAGES":[language for (language,activation_var) in active_languages.items() if activation_var.get() == 1],
+        "DEFAULT_LANGUAGE": default_lang.get().lower(),
+        "LANGUAGES":[language.lower() for (language,activation_var) in active_languages.items() if activation_var.get() == 1],
         "MIN_CONFIDENCE": minconf.get(),
         "MAX_NOISE": maxnoise.get(),
         "MIN_SEQUENCE": minseq.get(),
-        "LOGPROB_THRESHOLD": logprob.get()
+        "LOGPROB_THRESHOLD": logprob.get(),
+        "NORMALIZE": False,
     }
     for variable,value in settings.items():
         print("%s: %s" % (variable,value))
@@ -225,8 +225,10 @@ def start():
         try:
             trace(settings)
             t.insert(END,"Finished.")
-        except:
-            t.insert(END,"ERROR. Execution stopped.")
+        except Exception as e:
+            t.insert(END,"ERROR. Execution stopped.\n")
+            t.insert(END,traceback.format_exc())
+            t.insert(END, "Error message: %s" % (e))
 
 start_button = Button(master,text="GO!",command=start,bg="steelblue3",relief=GROOVE)
 x_start_button = 0.05

@@ -1,6 +1,6 @@
 import re
 
-from config import INPUT_TYPE, TAG_MARKER, LOGPROB_THRESHOLD
+from config import INPUT_TYPE, LOGPROB_THRESHOLD
 
 class Word:
     def __init__(self,word,settings):
@@ -14,13 +14,7 @@ class Word:
             else:
                 self.tag = None
         else:
-            if settings["TAG_MARKER"]:
-                try:
-                    [word,tag] = word.split(TAG_MARKER)
-                    self.tag = tag
-                except ValueError:
-                    print("*%s*" % (word))
-                    self.tag = "ERROR"
+            self.tag = None
             self.node = None
             self.text = re.sub(u'ſ',u's',word.lower(),flags=re.UNICODE)
         self.transparent = False

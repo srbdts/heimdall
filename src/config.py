@@ -1,7 +1,6 @@
 
 
 INPUT_TYPE = "xml"
-TAG_MARKER = "/"
 WORD_MARKER = "w"
 SECTION_MARKER = "line"
 NORMALIZE = False

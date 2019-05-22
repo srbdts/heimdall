@@ -52,7 +52,6 @@ def load_settings_from_config(args):
         "INPUTDIR": args.inputdir,
         "OUTPUTDIR": args.outputdir,
         "INPUT_TYPE": INPUT_TYPE,
-        "TAG_MARKER": TAG_MARKER,
         "WORD_MARKER": WORD_MARKER,
         "SECTION_MARKER": SECTION_MARKER,
         "DEFAULT_LANGUAGE": DEFAULT_LANGUAGE,
@@ -86,7 +85,7 @@ def trace(settings=None):
     #if args.statsdir:
     #    outputfile = open(os.path.join(args.statsdir,"output.txt"),"w")
     #else:
-    outputfile = open(os.path.join(settings["OUTPUTDIR"],"output.txt"),"w")
+    outputfile = open(os.path.join(settings["OUTPUTDIR"],"output.txt"),"w",encoding="utf-8")
 
     outputfile.write("**********************************************\n")
     outputfile.write("*** PARAMETER SETTINGS:\n")
@@ -94,7 +93,6 @@ def trace(settings=None):
     outputfile.write("*** Outputdir: %s\n" % (settings["OUTPUTDIR"]))
     outputfile.write("*** Word marker: %s\n" % (settings["WORD_MARKER"]))
     outputfile.write("*** Section marker: %s\n" % (settings["SECTION_MARKER"]))
-    outputfile.write("*** Tag marker: %s\n" % settings["TAG_MARKER"])
     outputfile.write("*** Default language: %s\n" % settings["DEFAULT_LANGUAGE"])
     outputfile.write("*** Languages to identify: %s\n" % (settings["LANGUAGES"]))
     outputfile.write("*** Minimal confidence level: %s\n" % (settings["MIN_CONFIDENCE"]))
@@ -144,7 +142,7 @@ def trace(settings=None):
                 total_changed = True
         i += 1
         if settings["TAG_FILES"] and settings["INPUT_TYPE"] == "xml":
-            outputfile_xml = open(os.path.join(settings["OUTPUTDIR"],inputfile.split("/")[-1]),"w")
+            outputfile_xml = open(os.path.join(settings["OUTPUTDIR"],inputfile.split("/")[-1]),"w",encoding="utf-8")
             outputfile_xml.write(etree.tostring(root,pretty_print=True,encoding="unicode"))
             outputfile_xml.close()
             
