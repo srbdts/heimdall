@@ -45,14 +45,8 @@ Heimdall is compatible with all plain text files and most xml-files. Note that X
     <w>.</w>
 </p>
 ```
-In addition to the word-level tag, the xml-option requires you to specify a section-level tag too. The section tag determines the size of the text blocks within which Heimdall looks for foreign language sequences. If your texts contain tags to mark single lines or paragraphs (like the *&lt;p&gt;*-tag in the snippet above), you could specify those, in which case Heimdall firsts extracts all *&lt;p&gt;*-elements, then collects all word-level elements within these paragraphs, and searches them for foreign language sequences.
-
-This implies that:
-1.  Word-tags not enclosed in *&lt;p&gt;* elements will be skipped;
-1.  Foreign language sequences that stretch beyond a single *&lt;p&gt;* element will not be retrieved in their entirety (but may be retrieved in parts, each part bound by the *&lt;p&gt;* element it's embedded in). 
-
-If your xml-texts have tags at various levels of granularity, it's probably best to experiment with the section tags a bit. Smaller sections (like lines) might lead to better detection of the boundaries of a foreign sequence if these boundaries coincide with a line boundary, but systematically prevent you from finding larger foreign languge spans. Bigger sections (like entire documents) enable you to detect longer sequences, but they ignore information about the internal structure of your document, which may lead to a poorer detection of foreign sequence boundaries.
-  
+In addition to the word-level tag, the xml-option requires you to specify a section-level tag. The section tag determines the size of the text blocks within which Heimdall looks for foreign language sequences. If your texts contain tags to mark single lines or paragraphs (like the *&lt;p&gt;*-tag in the snippet above), you could specify those, in which case Heimdall firsts extracts all *&lt;p&gt;*-elements, then collects all word-level elements within these paragraphs, and searches them for foreign language sequences.
+ 
 ###### Output
 Regardless of the input format, Heimdall's main output will be a text file called *output.txt*, written to the output directory of your choice. The output file will contain the parameter settings of your run, as well as the actual output, structured as in the following snippet (from the EMMA sample). The tag combines three parts of information. It indicates (1) the detected language, (2) the order of the detected sequence in the file (i.e. "0" if its's the first foreign passage in the file, "1" if it's the second, etc.) , and (3) Heimdall's confidence about the tag. You can read more about the confidence score in our Wiki.
 
