@@ -9,12 +9,21 @@ Please note that Heimdall is not the result of intensive research on strategies 
 If you want to get started quickly, you'll find the installation guide and basic usage instructions below. For more elaborate usage instructions, a discussion of the implemented tagging algorithm, or suggestions to improve and expand the tagger, we kindly refer you to the elaborate documentation in our Wiki.
 
 ## Installation guide
-### Windows and Mac
+### Windows and Mac - Graphical interface
 If you're on Mac or Windows and want to use the tool via its graphical interface, you don't need to install anything. Just download the zip-folder, unzip it, doubleclick the executable ("heimdall.exe" for Windows, "heimdall.app" for Mac), and you're good to go.
 
+### Windows and Mac - Command line interface
+If you'd like use the command line interface rather than the graphical user interface, if you want to add new languages or play around with the code yourself, you'll need to take the same steps as the Unix users below.
+
 ### Unix
-If you're on a Unix-based platform or if you want to use the tool from the command line, you'll have to download the source code and some of the dependencies.
-First of all, make sure you've got a working installation of Python 3. If you don't have Python on your device already, you can download the most recent version from [their website](https://www.python.org/downloads/).
+If you're on a Unix-based platform or if you want to use the tool from the command line, you'll have to download the source code and the dependencies yourself.
+
+1. Make sure you've got a working installation of Python 3. If you don't have Python on your device already, you can download the most recent version from [the official website](https://www.python.org/downloads/). If the installer gives you the option to add Python to your path, do so. If not, you'll have to set it manually (for Windows, [here](https://geek-university.com/python/add-python-to-the-windows-path/])'s a good tutorial.)
+
+1. Make sure you've installed the Python library lxml (documentation is [here](https://lxml.de/installation.html)), which Heimdall uses to parse xml files. You can do so easily by running the following command:
+``
+pip install lxml
+``
 
 ## How do I use it?
 *These usage instructions only hold for the graphical user interface. If you're using the command line version of the tool, please read the usage instructions in our Wiki.*
@@ -22,7 +31,7 @@ First of all, make sure you've got a working installation of Python 3. If you do
 ### Input and output
 #### Directories
 ###### Selecting directories
-Click on the "Browse"-button next to "Input Directory" to select the input directory of your choice. Make sure the directory contains all and only the files that you want to process. It's currently not possible to process individual files. If you wish to do so anyway, place the file in its own directory.
+Click on the "Browse"-button next to "Input Directory" to select the input directory of your choice. Make sure the directory contains all and only the files that you want to process. It's currently not possible to process individual files (unless you're using the command line interface). If you wish to do so anyway, place the file in its own directory.
 
 The same holds for the output directory: use the "Browse" button to select your preferred output directory. Make sure that the directory exists before you run the program (if you want the output to be written to a new directory, make one first), and bear in mind that previous output will be overwritten.
 
