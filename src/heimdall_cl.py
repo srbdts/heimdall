@@ -51,6 +51,7 @@ def load_settings_from_config(args):
         "TAG_FILES": tag_files,
         "INPUTDIR": args.inputdir,
         "OUTPUTDIR": args.outputdir,
+        "RESOURCEDIR": RESOURCEDIR,
         "INPUT_TYPE": INPUT_TYPE,
         "WORD_MARKER": WORD_MARKER,
         "SECTION_MARKER": SECTION_MARKER,
@@ -60,7 +61,7 @@ def load_settings_from_config(args):
         "MAX_NOISE": MAX_NOISE,
         "MIN_SEQUENCE": MIN_SEQUENCE,
         "LOGPROB_THRESHOLD": LOGPROB_THRESHOLD,
-        "NORMALIZE": NORMALIZE
+        "NORMALIZE": NORMALIZE,
     } 
     return settings
 
@@ -87,6 +88,7 @@ def trace(settings=None):
     outputfile.write("*** PARAMETER SETTINGS:\n")
     outputfile.write("*** Inputdir: %s\n" % (settings["INPUTDIR"]))
     outputfile.write("*** Outputdir: %s\n" % (settings["OUTPUTDIR"]))
+    outputfile.write("*** Resourcedir: %s\n" % (settings["RESOURCEDIR"]))
     outputfile.write("*** Word marker: %s\n" % (settings["WORD_MARKER"]))
     outputfile.write("*** Section marker: %s\n" % (settings["SECTION_MARKER"]))
     outputfile.write("*** Default language: %s\n" % settings["DEFAULT_LANGUAGE"])
@@ -100,8 +102,8 @@ def trace(settings=None):
 
     language_models = []
     for language in settings["LANGUAGES"]:
-        language_models.append(LanguageModel(language,"trace",settings["NORMALIZE"]))
-    language_models.append(LanguageModel(settings["DEFAULT_LANGUAGE"],"default",settings["NORMALIZE"]))
+        language_models.append(LanguageModel(language,"trace",settings))
+    language_models.append(LanguageModel(settings["DEFAULT_LANGUAGE"],"default",settings))
 
     if args and args.filename:
         inputfiles = [args.filename]

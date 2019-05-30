@@ -90,7 +90,7 @@ class Tracer:
                             word.node.set("lang",label)
                     else:
                         word.node.set("lang",label)
-                    plain_text_sequence.append(word.text + "/" + word.node.get("POS"))
+                    plain_text_sequence.append(word.text)
             else:
                 plain_text_sequence = [word.text for word in self.sequence]
             outputfile.write("%s\t%s\n" % (" ".join(plain_text_sequence),len(plain_text_sequence)))

@@ -1,12 +1,10 @@
 import os
 
-from config import RESOURCEDIR
-
 class LanguageModel:
-    def __init__(self,language,status,normalize):
-        self.normalize = normalize
+    def __init__(self,language,status,settings):
+        self.normalize = settings["NORMALIZE"]
         self.language = language
-        self.probsfile = os.path.join(RESOURCEDIR,language+".logprobs")
+        self.probsfile = os.path.join(settings["RESOURCEDIR"],language+".logprobs")
         self.status = status
         self.load()
 

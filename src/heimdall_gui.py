@@ -2,17 +2,15 @@ import os
 from tkinter import *
 from tkinter import filedialog
 from tkinter.filedialog import askdirectory
-from tkinter.ttk import Progressbar
 from tkinter import font
 import traceback
 
-from tracy_cl import trace
+from heimdall_cl import trace
 
 offset = 0.5
 
-languagefiles = os.listdir("../resources/")
+languagefiles = os.listdir("resources/")
 available_languages = [languagefile.split(".")[0] for languagefile in languagefiles]
-print(available_languages)
 
 master = Tk()
 
@@ -192,15 +190,13 @@ logprob.set(2.5)
 scale_logprob = Scale(master,variable=logprob,from_=1,to=5,orient="horizontal",resolution=0.5)
 scale_logprob.place(relx=x_f_parameters+0.02,rely=y_f_parameters+0.04+4*0.03+3*0.07,relwidth=offset-0.14)
 
-print(tag_files.get())
 
 def start():
-    for language,activation_var in active_languages.items():
-        print("%s: %s" % (language,activation_var.get()))
     settings = {
         "TAG_FILES": tag_files.get(),
         "INPUTDIR": inputdir.get(),
         "OUTPUTDIR": outputdir.get(),
+        "RESOURCEDIR": "resources/",
         "INPUT_TYPE": input_format.get(),
         "WORD_MARKER": word_tag.get(),
         "SECTION_MARKER": section_tag.get(),
@@ -212,8 +208,6 @@ def start():
         "LOGPROB_THRESHOLD": logprob.get(),
         "NORMALIZE": False,
     }
-    for variable,value in settings.items():
-        print("%s: %s" % (variable,value))
     t = Text(master,font=("courier",9))
     if (settings["DEFAULT_LANGUAGE"] in settings["LANGUAGES"]) or (len(settings["LANGUAGES"]) == 0) :
         t.insert(END,"ERROR: You need to specify at least one language to detect, and none of them can be the default language.")
