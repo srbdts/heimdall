@@ -6,7 +6,7 @@ class LanguageModel:
     def __init__(self,language,status,normalize):
         self.normalize = normalize
         self.language = language
-        self.probsfile = os.path.join("resources/",language+".logprobs")
+        self.probsfile = os.path.join(RESOURCEDIR,language+".logprobs")
         self.status = status
         self.load()
 
