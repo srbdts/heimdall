@@ -15,7 +15,7 @@ available_languages = [languagefile.split(".")[0] for languagefile in languagefi
 master = Tk()
 
 font = font.Font(family="ms sans serif",size=10)
-master.title("Tracy")
+master.title("Heidall")
 master.geometry("800x800")
 master.option_add("*Font",font)
 
