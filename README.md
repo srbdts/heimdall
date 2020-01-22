@@ -8,6 +8,8 @@ Please note that Heimdall is not the result of intensive research on strategies 
 
 If you want to get started quickly, you'll find the installation guide and basic usage instructions below. For more elaborate usage instructions, a discussion of the implemented tagging algorithm, or suggestions to improve and expand the tagger, we kindly refer you to the elaborate documentation in our [Wiki](https://github.com/srbdts/heimdall/wiki/).
 
+If you've used Heimdall in your research, please cite the tool via it's official doi: 10.5281/zenodo.3621420.
+
 ## Installation guide
 ### Windows and Mac - Graphical interface
 If you're on Mac or Windows and want to use the tool via its graphical interface, you don't need to install anything. Just download the zip-folder, unzip it, doubleclick the executable ("heimdall.exe" for Windows, "heimdall.app" for Mac), and you're good to go.
